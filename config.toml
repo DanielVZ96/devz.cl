@@ -1,4 +1,4 @@
-baseURL = 'https://danielvz96.github.io/devz.cl/'
+baseURL = 'https://devz.cl/'
 locale = 'en-US'
 title = 'devz.cl'
 theme = 'nostyleplease'
