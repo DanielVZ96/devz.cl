@@ -2,4 +2,4 @@
 title: 'Home'
 ---
 
-Welcome to a small, fast Hugo site for keeping notes, ideas, and project updates close to the metal.
+Welcome to my personal site: a small place for notes, ideas, project updates, and writing that might grow into a digital garden.

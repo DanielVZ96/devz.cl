@@ -4,7 +4,7 @@ title = 'devz.cl'
 theme = 'nostyleplease'
 
 [params]
-  description = 'A tiny static home for notes, projects, and experiments.'
+  description = 'Personal notes, projects, and experiments.'
   favicon = 'favicon.svg'
 
   [params.theme_config]
@@ -12,7 +12,7 @@ theme = 'nostyleplease'
     back_home_text = '..'
     date_format = '2006-01-02'
     isListGroupByDate = false
-    isShowFooter = true
+    isShowFooter = false
     show_description = true
 
 [module]
