@@ -1,0 +1,26 @@
+[[entries]]
+title = 'info'
+
+  [[entries.entries]]
+  title = 'minimal Hugo site powered by no-style-please, tuned with monospace accents for headings and links.'
+
+  [[entries.entries]]
+  title = 'about'
+  url = 'about'
+
+[[entries]]
+title = 'notes'
+
+  [entries.post_list]
+  section = 'posts'
+  limit = 5
+  show_more = true
+  show_more_text = 'See all notes...'
+  show_more_url = 'posts'
+
+[[entries]]
+title = 'elsewhere'
+
+  [[entries.entries]]
+  title = 'rss'
+  url = 'index.xml'

@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Hugo build output
+/public/
+/resources/_gen/
+.hugo_build.lock
+
+# Local tooling downloaded by agents or developers
+/.tools/
