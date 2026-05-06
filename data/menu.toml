@@ -22,5 +22,17 @@ title = 'notes'
 title = 'elsewhere'
 
   [[entries.entries]]
+  title = 'github'
+  url = 'https://github.com/DanielVZ96'
+
+  [[entries.entries]]
+  title = 'linkedin'
+  url = 'https://www.linkedin.com/in/daniel-valenzuela-3503b2166/'
+
+  [[entries.entries]]
+  title = 'mastodon'
+  url = 'https://techhub.social/@devz'
+
+  [[entries.entries]]
   title = 'rss'
   url = 'index.xml'
