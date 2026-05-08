@@ -2,7 +2,10 @@
 title = 'info'
 
   [[entries.entries]]
-  title = 'personal notes, project updates, and ideas in progress.'
+  title = 'personal notes, projects, and drafts.'
+
+  [[entries.entries]]
+  title = 'everything here is subject to change.'
 
   [[entries.entries]]
   title = 'about'
@@ -24,10 +27,6 @@ title = 'elsewhere'
   [[entries.entries]]
   title = 'github'
   url = 'https://github.com/DanielVZ96'
-
-  [[entries.entries]]
-  title = 'linkedin'
-  url = 'https://www.linkedin.com/in/daniel-valenzuela-3503b2166/'
 
   [[entries.entries]]
   title = 'mastodon'

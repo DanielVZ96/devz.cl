@@ -94,7 +94,7 @@ Everything low-level was just an import away from being already abstracted out f
 
 Reading the documentation felt so much nicer and complete in comparison to scrolling in that PDF manual.
 
-One of my first projects was a calculator app using Qt. Then I got into Django and started working on a Historical Document ingestion service. I even paired with my History professors to develop that (it never saw the light of the day). I even self-hosted it in a free DigitalOcean instance.
+One of my first projects was a calculator app using Qt. Then I got into Django and started working on a Historical Document ingestion service. I even paired with my History professors to develop that (it never saw the light of the day), and I self-hosted it in a free DigitalOcean instance.
 
 I also made my first useful program: a script that created a slideshow for every image on a folder. It was for my dad who wanted to sell a bunch of stuff to some clients.
 
@@ -142,11 +142,23 @@ When I talked about this with my first boss he told me he was astonished I was a
 
 ### Tip 8: You lose nothing trying to find a job.
 
+> *Except a few nights of sleep*
+
 # Coding in the age of AI
 
 This was my experience about 8-9 years ago. I got my first job in 2018. At that time, agentic coding wasn't something I expected to be so common in 2026 but it is. Nowadays most of my code is AI generated. So advising anyone to not use AI for their work would be hypocritical of me. But newcomers must learn how stuff works, at the very least at a high level. That way they will at least know what to prompt to the AI when more specific instructions are needed.
 
 I don't want to get much into the weeds here. Maybe it's a good topic for another post. But this industry has changed, and I'm not sure what the most optimal route is for newcomers to be able to find a job. But I know at the very least that in order to start learning, avoiding vibe-coding is a good idea. When I started learning I was advised (by the internet) to not just copy-paste stuff from Stack Overflow. It's the same principle here.
+
+> *Note:*
+>
+> *Youtube or online courses haven't been mentioned anywhere in this article. This is on purpose because they haven't been as important for my own growth.*
+>
+> *Youtube videos are most of the time regurgitated from documentation or official tutorials into a attention-seeking format. It usually takes way less time to do the official tutorials in comparison to watching youtube.*
+>
+> *Plenty of online courses are similar. I'd only recommend official University courses such as CS50, but even then I think it's just faster to just learn by yourself reading the source material.*
+>
+> __Reading is the meta. It's the closest thing we have to telepathy.__
 
 # Bonus track: media that inspired me
 
@@ -169,3 +181,21 @@ I don't want to get much into the weeds here. Maybe it's a good topic for anothe
   * https://fasterthanli.me/
 
   * https://www.joelonsoftware.com/
+
+* Misc
+
+  * https://roadmap.sh/
+
+    * https://roadmap.sh/backend
+
+    * https://roadmap.sh/frontend
+
+    * https://roadmap.sh/devops
+
+  * https://leetcode.com/ or https://www.hackerrank.com/
+
+    * Practice Data Structures and Algorithms
+
+    * To prepare for technical interviews
+
+    * https://www.edx.org/cs50 if you are into courses
