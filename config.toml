@@ -4,7 +4,7 @@ title = 'devz.cl'
 theme = 'nostyleplease'
 
 [params]
-  description = 'Personal notes, projects, and experiments.'
+  description = 'This is my small corner on the internet.'
   favicon = 'favicon.svg'
 
   [params.theme_config]
