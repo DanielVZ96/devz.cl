@@ -27,10 +27,12 @@ title = 'elsewhere'
   [[entries.entries]]
   title = 'github'
   url = 'https://github.com/DanielVZ96'
+  rel = 'me'
 
   [[entries.entries]]
   title = 'mastodon'
   url = 'https://techhub.social/@devz'
+  rel = 'me'
 
   [[entries.entries]]
   title = 'rss'
