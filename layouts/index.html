@@ -1,9 +1,10 @@
 {{ define "main" }}
 
-<header>
-    <h1>Hi, I'm Daniel</h1>
+<header class="h-card">
+    <h1>Hi, I'm <span class="p-name">Daniel</span></h1>
+    <data class="u-url u-uid" value="{{ $.Site.BaseURL }}"></data>
     {{- if $.Site.Params.theme_config.show_description -}}
-        <p>{{ $.Site.Params.description }}</p>
+        <p class="p-note">{{ $.Site.Params.description }}</p>
     {{- end -}}
 </header>
 {{ .Content }}
