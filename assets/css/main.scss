@@ -536,6 +536,15 @@ img {
     object-fit: cover;
 }
 
+.microformats-meta {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+}
+
 figcaption {
     text-align: center;
     opacity: 0.5;
