@@ -83,6 +83,7 @@
         #f78fe7,
         #2f3849
     ); // modus-vivendi
+    --sky-dot-color: #ffffff;
 }
 
 @mixin light-appearance {
@@ -94,6 +95,7 @@
         #8f0075,
         #dae5ec
     ); // modus-operandi
+    --sky-dot-color: #000000;
 }
 
 body[a="dark"] {
@@ -128,7 +130,10 @@ body {
         "JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono",
         monospace;
     --title-font: "Instrument Serif", Georgia, "Times New Roman", Times, serif;
+    // Keep decorative stars outside this centered content width.
     --content-width: 640px;
+    // Overridden by theme mode: black in light mode, white in dark mode.
+    --sky-dot-color: currentColor;
 
     font-family: var(--text-font);
     font-size: 17px;
@@ -140,6 +145,7 @@ body {
 
 body::before,
 body::after {
+    // Medium star layers. One pseudo-element per side.
     content: "";
     position: fixed;
     top: 0;
@@ -149,18 +155,20 @@ body::after {
 
 .post-page .w::before,
 .post-page .w::after {
+    // Moons only render on post pages. Positions and sizes are below.
     content: "";
     position: fixed;
     width: 5rem;
     aspect-ratio: 1;
     pointer-events: none;
-    background: currentColor;
+    background: var(--sky-dot-color);
     border-radius: 50%;
     opacity: 0.9;
     z-index: 3;
 }
 
 .post-page .w::before {
+    // Smaller left moon, roughly mid-screen.
     left: 1.75rem;
     top: 48vh;
     width: 2.5rem;
@@ -169,6 +177,7 @@ body::after {
 }
 
 .post-page .w::after {
+    // Larger right moon, starting near the lower corner.
     right: 1.75rem;
     bottom: 1.5rem;
     animation: moon-drift linear both;
@@ -176,27 +185,28 @@ body::after {
 }
 
 body::before {
+    // Left medium stars: edit percentages to move stars, edit px values for size.
     left: 0;
     width: calc((100vw - var(--content-width)) / 2 - 4rem);
     background-image:
         radial-gradient(
             circle at 71% 11%,
-            currentColor 0 2px,
+            var(--sky-dot-color) 0 2px,
             transparent 2.5px
         ),
         radial-gradient(
             circle at 17% 31%,
-            currentColor 0 2px,
+            var(--sky-dot-color) 0 2px,
             transparent 2.5px
         ),
         radial-gradient(
             circle at 82% 52%,
-            currentColor 0 2px,
+            var(--sky-dot-color) 0 2px,
             transparent 2.5px
         ),
         radial-gradient(
             circle at 11% 78%,
-            currentColor 0 2px,
+            var(--sky-dot-color) 0 2px,
             transparent 2.5px
         );
     background-repeat: repeat-y;
@@ -206,27 +216,28 @@ body::before {
 }
 
 body::after {
+    // Right medium stars.
     right: 0;
     width: calc((100vw - var(--content-width)) / 2 - 4rem);
     background-image:
         radial-gradient(
             circle at 43% 18%,
-            currentColor 0 2px,
+            var(--sky-dot-color) 0 2px,
             transparent 2.5px
         ),
         radial-gradient(
             circle at 69% 38%,
-            currentColor 0 2px,
+            var(--sky-dot-color) 0 2px,
             transparent 2.5px
         ),
         radial-gradient(
             circle at 13% 74%,
-            currentColor 0 2px,
+            var(--sky-dot-color) 0 2px,
             transparent 2.5px
         ),
         radial-gradient(
             circle at 91% 97%,
-            currentColor 0 2px,
+            var(--sky-dot-color) 0 2px,
             transparent 2.5px
         );
     background-repeat: repeat-y;
@@ -237,6 +248,7 @@ body::after {
 
 .page-content::before,
 .page-content::after {
+    // Small star layers. They move more slowly than medium stars.
     content: "";
     position: fixed;
     top: 0;
@@ -246,42 +258,43 @@ body::after {
 }
 
 .page-content::before {
+    // Left small stars.
     left: 0;
     background-image:
-        radial-gradient(circle at 8% 7%, currentColor 0 1px, transparent 1.5px),
+        radial-gradient(circle at 8% 7%, var(--sky-dot-color) 0 1px, transparent 1.5px),
         radial-gradient(
             circle at 36% 19%,
-            currentColor 0 1px,
+            var(--sky-dot-color) 0 1px,
             transparent 1.5px
         ),
         radial-gradient(
             circle at 91% 23%,
-            currentColor 0 1px,
+            var(--sky-dot-color) 0 1px,
             transparent 1.5px
         ),
         radial-gradient(
             circle at 54% 43%,
-            currentColor 0 1px,
+            var(--sky-dot-color) 0 1px,
             transparent 1.5px
         ),
         radial-gradient(
             circle at 28% 64%,
-            currentColor 0 1px,
+            var(--sky-dot-color) 0 1px,
             transparent 1.5px
         ),
         radial-gradient(
             circle at 63% 69%,
-            currentColor 0 1px,
+            var(--sky-dot-color) 0 1px,
             transparent 1.5px
         ),
         radial-gradient(
             circle at 47% 87%,
-            currentColor 0 1px,
+            var(--sky-dot-color) 0 1px,
             transparent 1.5px
         ),
         radial-gradient(
             circle at 88% 94%,
-            currentColor 0 1px,
+            var(--sky-dot-color) 0 1px,
             transparent 1.5px
         );
     background-repeat: repeat-y;
@@ -291,46 +304,47 @@ body::after {
 }
 
 .page-content::after {
+    // Right small stars.
     right: 0;
     background-image:
         radial-gradient(
             circle at 19% 6%,
-            currentColor 0 1px,
+            var(--sky-dot-color) 0 1px,
             transparent 1.5px
         ),
         radial-gradient(
             circle at 84% 14%,
-            currentColor 0 1px,
+            var(--sky-dot-color) 0 1px,
             transparent 1.5px
         ),
         radial-gradient(
             circle at 9% 29%,
-            currentColor 0 1px,
+            var(--sky-dot-color) 0 1px,
             transparent 1.5px
         ),
         radial-gradient(
             circle at 31% 49%,
-            currentColor 0 1px,
+            var(--sky-dot-color) 0 1px,
             transparent 1.5px
         ),
         radial-gradient(
             circle at 94% 57%,
-            currentColor 0 1px,
+            var(--sky-dot-color) 0 1px,
             transparent 1.5px
         ),
         radial-gradient(
             circle at 56% 66%,
-            currentColor 0 1px,
+            var(--sky-dot-color) 0 1px,
             transparent 1.5px
         ),
         radial-gradient(
             circle at 77% 83%,
-            currentColor 0 1px,
+            var(--sky-dot-color) 0 1px,
             transparent 1.5px
         ),
         radial-gradient(
             circle at 39% 91%,
-            currentColor 0 1px,
+            var(--sky-dot-color) 0 1px,
             transparent 1.5px
         );
     background-repeat: repeat-y;
@@ -340,6 +354,7 @@ body::after {
 }
 
 @keyframes star-drift-large-left {
+    // Medium left stars move faster than small stars.
     from {
         transform: translateY(0);
     }
@@ -349,6 +364,7 @@ body::after {
 }
 
 @keyframes star-drift-large-right {
+    // Medium right stars use a slightly different distance for less symmetry.
     from {
         transform: translateY(0);
     }
@@ -358,6 +374,7 @@ body::after {
 }
 
 @keyframes star-drift-small-left {
+    // Small left stars move slower to create depth.
     from {
         transform: translateY(0);
     }
@@ -367,6 +384,7 @@ body::after {
 }
 
 @keyframes star-drift-small-right {
+    // Small right stars move slowest.
     from {
         transform: translateY(0);
     }
@@ -376,6 +394,7 @@ body::after {
 }
 
 @keyframes moon-drift {
+    // Right moon travels from bottom-right to above the viewport.
     from {
         transform: translateY(0);
     }
@@ -385,6 +404,7 @@ body::after {
 }
 
 @keyframes moon-drift-left {
+    // Left moon is smaller and moves about half as far.
     from {
         transform: translateY(0);
     }
@@ -394,6 +414,7 @@ body::after {
 }
 
 @media (max-width: 768px) {
+    // Hide decorative sky elements when there is no safe side margin.
     .post-page .w::before,
     .post-page .w::after {
         display: none;
