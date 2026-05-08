@@ -5,7 +5,7 @@ theme = 'nostyleplease'
 
 [params]
   description = 'This is my small corner on the internet.'
-  favicon = 'favicon.svg'
+  favicon = 'images/stille.webp'
 
   [params.theme_config]
     appearance = 'auto'
