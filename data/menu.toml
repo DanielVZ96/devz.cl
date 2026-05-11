@@ -11,6 +11,10 @@ title = 'info'
   title = 'about'
   url = 'about'
 
+  [[entries.entries]]
+  title = 'todo'
+  url = 'todo'
+
 [[entries]]
 title = 'notes'
 
