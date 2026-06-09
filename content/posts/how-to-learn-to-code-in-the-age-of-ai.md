@@ -63,7 +63,7 @@ The exact moment I started learning was in a video game: TIS-100.
 ![TIS-100 screenshot](/images/tis-100-screenshot.jpg)
 
 > TIS-100 is an open-ended programming game by Zachtronics, the creators of SpaceChem and Infinifactory, in which you rewrite corrupted code segments to repair the TIS-100 and unlock its secrets. It's the assembly language programming game you never asked for!
->
+> 
 > -- TIS-100 Steam Description
 
 This is the game. A bunch of boxes where you write some fantasy assembly code.
@@ -151,51 +151,51 @@ This was my experience about 8-9 years ago. I got my first job in 2018. At that 
 I don't want to get much into the weeds here. Maybe it's a good topic for another post. But this industry has changed, and I'm not sure what the most optimal route is for newcomers to be able to find a job. But I know at the very least that in order to start learning, avoiding vibe-coding is a good idea. When I started learning I was advised (by the internet) to not just copy-paste stuff from Stack Overflow. It's the same principle here.
 
 > *Note:*
->
+> 
 > *Youtube or online courses haven't been mentioned anywhere in this article. This is on purpose because they haven't been as important for my own growth.*
->
+> 
 > *Youtube videos are most of the time regurgitated from documentation or official tutorials into a attention-seeking format. It usually takes way less time to do the official tutorials in comparison to watching youtube.*
->
+> 
 > *Plenty of online courses are similar. I'd only recommend official University courses such as CS50, but even then I think it's just faster to just learn by yourself reading the source material.*
->
+> 
 > __Reading is the meta. It's the closest thing we have to telepathy.__
 
 # Bonus track: media that inspired me
 
 * Movies/Series:
-
+  
   * The Internship: A movie about a pair of friends with no technical chops that miraculously get an internship at Google. I'm not sure about how accurate the movie was, but from what I remember it was fun. *I put it first because it was the first piece of media that confirmed me (even if naively) that I could land a job as a self-taught.*
-
+  
   * Mr. Robot
-
+  
   * Silicon Valley
 
 * Essays/Blogs
-
+  
   * https://www.paulgraham.com/articles.html
-
+  
   * https://martinfowler.com/
-
+  
   * https://danluu.com/
-
+  
   * https://fasterthanli.me/
-
+  
   * https://www.joelonsoftware.com/
 
 * Misc
-
+  
   * https://roadmap.sh/
-
+    
     * https://roadmap.sh/backend
-
+    
     * https://roadmap.sh/frontend
-
+    
     * https://roadmap.sh/devops
-
+  
   * https://leetcode.com/ or https://www.hackerrank.com/
-
+    
     * Practice Data Structures and Algorithms
-
+    
     * To prepare for technical interviews
-
+    
     * https://www.edx.org/cs50 if you are into courses

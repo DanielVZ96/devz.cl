@@ -224,3 +224,6 @@ __marimo__/
 
 # Local tooling downloaded by agents or developers
 /.tools/
+
+# macOS Finder metadata
+.DS_Store
