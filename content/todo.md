@@ -9,10 +9,13 @@ in progress
   
   * project ontologun
 - project ontologun post
+
 - add more Ideas to Reading = Telepathy
+  
   - consequences
   - ai/tokens
   - will there ever be telepathy?
+
 - "this post doesn't exist"
 
 todo

@@ -1,5 +1,5 @@
 ---
-title: 'WIP What if Mario had Guns'
+title: 'What if Mario had a gun'
 date: 2026-05-11T00:00:00Z
 tags:
   - projects
@@ -24,8 +24,6 @@ Movement shooters are another genre that is similar to the Mario + Guns concept,
 
 {{< video src="/videos/triple-jump-shoot.webm" >}}
 
-> *I just noticed the character is too floaty. I'll need to adjust gravity and jump height.*
-
 So to answer the question I'm going to list some of the design decisions I've made along the way hoping that if I define them all it can help me actually finish the game.
 
 ### Consequences of giving a mario-like character a gun
@@ -38,13 +36,11 @@ So to answer the question I'm going to list some of the design decisions I've ma
 
 * aiming may impair movement
 
-* platforming loses its forced proximity (think mario having to jump on top of enemies)
+* platforming loses its forced proximity. think mario having to jump on top of enemies
 
 * camera design changes. do you aim where mario is pointing or where the camera is pointing?
 
 * enemies in general become targets rather than obstacles
-
-* TODO: think of more consequences
 
 ## Game Design Decision Records
 
@@ -124,25 +120,26 @@ So based on those, I'm going to list some decision records for my game. Think of
 * GDDR 7: Abilities to unlock
   
   * ```json
-    
-    	"long_jump": "Crouch and jump forward to perform a powerful long jump.",
-    	"slide_jump": "Jump inmediately after and quickly reversing direction to do a slide jump.",
-    	"triple_jump": "Perform three consecutive jumps of increasing power.",
-    	"crouch_jump": "Jump while crouching to perform a powerful crouch jump.",
-    	"dive": "Jump just at the start of a stomp to dive forward while in the air.",
-    	"stomp": "Stomp on enemies from above.",
-    	"normal": "Basic movement ability.",
-    	"first_jump": "Perform your first jump.",
-    	"shoot": "Shoot your weapon.",
-    	"aim": "Aim your weapon.",
-    	"aim_air": "Aim your weapon while in the air.",
-    	"crouch": "Crouch down.",
-    	"wall_slide": "Slide down walls.",
-    	"wall_jump": "Jump off walls.",
-    	"kick": "Kick enemies.",
-    	"slide": "Slide on the ground."
+        "long_jump": "Crouch and jump forward to perform a powerful long jump.",
+        "slide_jump": "Jump inmediately after and quickly reversing direction to do a slide jump.",
+        "triple_jump": "Perform three consecutive jumps of increasing power.",
+        "crouch_jump": "Jump while crouching to perform a powerful crouch jump.",
+        "dive": "Jump just at the start of a stomp to dive forward while in the air.",
+        "stomp": "Stomp on enemies from above.",
+        "normal": "Basic movement ability.",
+        "first_jump": "Perform your first jump.",
+        "shoot": "Shoot your weapon.",
+        "aim": "Aim your weapon.",
+        "aim_air": "Aim your weapon while in the air.",
+        "crouch": "Crouch down.",
+        "wall_slide": "Slide down walls.",
+        "wall_jump": "Jump off walls.",
+        "kick": "Kick enemies.",
+        "slide": "Slide on the ground."
     ```
+  
   * these are the states i have implemented so far
+  
   * TODO decide unlockable abilities
 
 * GDDR 8: Boss fights
@@ -189,6 +186,8 @@ So based on those, I'm going to list some decision records for my game. Think of
 
 # Conclusion. Is this fun?
 
-Yes it is. My development speed is severly impaired by having fun jumping, flipping and shooting enemies. I'm postponing graphics work way too much by having fun tweaking movement and fighting. 
+Yes it is. 
 
-I think this is a game worth making both because it's a fresh idea and lots of fun.
+In all my playtests I strive to both maximize my multiplier, points and kill combos. So movement become this frenzy of shooting, long jumping into enemies, bullet-time aiming in the air, ground-pounding into long-jumps to get horizontal speed and more.
+
+My development speed is severly impaired by having fun jumping, flipping and shooting enemies. I'm postponing graphics work way too much by having fun tweaking movement and fighting. 
