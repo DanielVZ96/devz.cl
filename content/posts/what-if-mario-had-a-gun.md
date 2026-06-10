@@ -186,6 +186,8 @@ So based on those, I'm going to list some decision records for my game. Think of
 
 # Conclusion. Is this fun?
 
+{{< video src="/videos/playtest.mp4" >}}
+
 Yes it is. 
 
 In all my playtests I strive to both maximize my multiplier, points and kill combos. So movement become this frenzy of shooting, long jumping into enemies, bullet-time aiming in the air, ground-pounding into long-jumps to get horizontal speed and more.
