@@ -87,7 +87,7 @@ So based on those, I'm going to list some decision records for my game. Think of
     
     * Go to next level
 
-* * GDDR 3: No ladders, yes portals
+* GDDR 3: No ladders, yes portals
   * given that I don't want to code them and they are slow
   * gonna use portals instead because those are cool
 
@@ -192,4 +192,4 @@ Yes it is.
 
 In all my playtests I strive to both maximize my multiplier, points and kill combos. So movement become this frenzy of shooting, long jumping into enemies, bullet-time aiming in the air, ground-pounding into long-jumps to get horizontal speed and more.
 
-My development speed is severly impaired by having fun jumping, flipping and shooting enemies. I'm postponing graphics work way too much by having fun tweaking movement and fighting. 
+My development speed is severly impaired by having fun jumping, flipping and shooting enemies. I'm postponing graphics work way too much by having fun tweaking movement and fighting.
