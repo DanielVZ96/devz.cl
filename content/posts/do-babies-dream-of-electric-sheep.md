@@ -1,10 +1,11 @@
-# 
-
-# Do babies dream of electric sheep?
+---
+title: 'Do babies dream of baby sheep?'
+date: 2026-06-25T00:00:00Z
+categories:
+  - notes
+---
 
 **This is my submission for the June 2026* [*IndieWeb Carnival*](https://indieweb.org/IndieWeb_Carnival)*. The theme is* [*“No way!?”*](https://alexhsu.com/en/no-way)*, hosted by* [*Alex Hsu*](https://alexhsu.com/en).
-
-
 
 > **Childhood amnesia**, also called **infantile amnesia**, is the inability of adults to [retrieve](https://en.wikipedia.org/wiki/Recall_(memory) "Recall (memory)") [episodic memories](https://en.wikipedia.org/wiki/Episodic_memory "Episodic memory") (memories of situations or events) before the age of three to four years.
 > 
