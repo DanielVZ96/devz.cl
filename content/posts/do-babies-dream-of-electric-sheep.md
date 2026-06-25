@@ -5,19 +5,21 @@ categories:
   - notes
 ---
 
-**This is my submission for the June 2026* [*IndieWeb Carnival*](https://indieweb.org/IndieWeb_Carnival)*. The theme is* [*“No way!?”*](https://alexhsu.com/en/no-way)*, hosted by* [*Alex Hsu*](https://alexhsu.com/en).
-
-> **Childhood amnesia**, also called **infantile amnesia**, is the inability of adults to [retrieve](https://en.wikipedia.org/wiki/Recall_(memory) "Recall (memory)") [episodic memories](https://en.wikipedia.org/wiki/Episodic_memory "Episodic memory") (memories of situations or events) before the age of three to four years.
-> 
-> – [Childhood amnesia - Wikipedia](https://en.wikipedia.org/wiki/Childhood_amnesia)
+> *This is my submission for the June 2026* [*IndieWeb Carnival*](https://indieweb.org/IndieWeb_Carnival)*. The theme is* [*“No way!?”*](https://alexhsu.com/en/no-way)*, hosted by* [*Alex Hsu*](https://alexhsu.com/en).
 
 It is widely known that people don't remember the first 1-3 years of their childhood, only have episodic memory at 3-6 years old, and only after those first 5-6 years we start to form autobiographical memories. So when one day talking to my wife I asked her about her baby memories she looked puzzled.
 
 Turns out she didn't have them. She knew her defunct grandad was able to hold her in her arms and used to say that he'd die before she could recognize him, but only from what my in-laws have told her. He was right, he died not long after, and she doesn't have any memories of her grandad. Only photos and a deep unexplicable affection she's always had for him. 
 
+> **Childhood amnesia**, also called **infantile amnesia**, is the inability of adults to [retrieve](https://en.wikipedia.org/wiki/Recall_(memory) "Recall (memory)") [episodic memories](https://en.wikipedia.org/wiki/Episodic_memory "Episodic memory") (memories of situations or events) before the age of three to four years.
+
+– [Childhood amnesia, Wikipedia](https://en.wikipedia.org/wiki/Childhood_amnesia)
+
 I thought she had a severe case of childhood amnesia, and googled it. I thought there's no way people can't remember their childhood, but turns out it's the norm.
 
 # My first memories
+
+> Note: I know these still can all be fabricated memories, but I really don't have a way to prove or disprove they are correct memories other than talking with my parents. I've learned to not trust my brain too much, but these are still vivid memories I have stored somewhere. Real or not they are there.
 
 I remember the second home I lived in. We moved there when I was less than a year old, before I could walk. I remember crawling on the floor and never doing it on all fours because I liked the cold of the tiles, specially the kitchen.
 
@@ -46,5 +48,3 @@ Not sure what that dream was about but it still feels sad until this day.
 Why can I remember this stuff? I'm not sure. There's a high chance it's all fake and my mind is playing games. But on the other talking to my parents does really make it seem I remember stuff correctly, like how the home furniture was arranged, and rearranged. Stuff that they wouldn't mention as a childhood anecdote before but I do remember.
 
 It may have to do with some of the rough emotional stuff I also remember from this period. It's a bit too personal to be sharing here, but also not that awfully grave. Just some sad memories like seeing my loved ones cry that maybe helped consolidate the others.
-
-
