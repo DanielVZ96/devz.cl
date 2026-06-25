@@ -45,6 +45,6 @@ Not sure what that dream was about but it still feels sad until this day.
 
 # Why?
 
-Why can I remember this stuff? I'm not sure. There's a high chance it's all fake and my mind is playing games. But on the other talking to my parents does really make it seem I remember stuff correctly, like how the home furniture was arranged, and rearranged. Stuff that they wouldn't mention as a childhood anecdote before but I do remember.
+Why can I remember this stuff? I'm not sure. There's a high chance it's all fake and my mind is playing games. But on the other talking to my parents does really make it seem I remember stuff correctly, like how the home furniture was arranged, and rearranged, how the second floor was remodeled so I could have my own room, and WHO remodeled it. Stuff that they wouldn't mention as a childhood anecdote before but I do remember.
 
 It may have to do with some of the rough emotional stuff I also remember from this period. It's a bit too personal to be sharing here, but also not that awfully grave. Just some sad memories like seeing my loved ones cry that maybe helped consolidate the others.
