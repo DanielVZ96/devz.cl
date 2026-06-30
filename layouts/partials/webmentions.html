@@ -1,0 +1,20 @@
+<section class="webmentions" data-webmentions data-webmention-target="{{ .Permalink }}" aria-labelledby="webmentions-heading">
+    <h2 id="webmentions-heading">Webmentions</h2>
+    <p class="webmentions__lead">
+        Reply on your own site and send a webmention to this post. Replies and reactions will appear here once they are discovered.
+    </p>
+    <p class="webmentions__status" data-webmentions-status>Loading webmentions...</p>
+    <div class="webmentions__groups" data-webmentions-groups hidden>
+        <section class="webmentions__group" data-webmentions-group="comments" hidden>
+            <h3>Comments</h3>
+            <div class="webmentions__list" data-webmentions-list="comments"></div>
+        </section>
+        <section class="webmentions__group" data-webmentions-group="reactions" hidden>
+            <h3>Reactions</h3>
+            <div class="webmentions__list" data-webmentions-list="reactions"></div>
+        </section>
+    </div>
+    <noscript>
+        <p class="webmentions__noscript">JavaScript is required to load webmentions.</p>
+    </noscript>
+</section>
