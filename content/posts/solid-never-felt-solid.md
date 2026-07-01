@@ -26,7 +26,7 @@ Nearly half of the talk could have been fully explained in 5 minutes.
 
 # Where I was coming from
 
-Around that time I was in my 3rd year studying history. I had to read and write 1000s of pages a week. I learned that not everyone writes the same and that different disciplines have different writing styles. If you were writing history there's a structure and vocabulary you were implicitly supposed to follow, same for other social sciences, and I assume it's the same for the hard sciences as well.
+Around that time I was in my 3rd year studying history. I had to read and write 1000s of pages a week. I learned that not everyone writes the same and that different disciplines have different writing styles. If you were writing history there's a structure and vocabulary you were implicitly supposed to follow, same for other humanities and social sciences, and I assume it's the same for the hard sciences as well.
 
 I see them as cultural rules that arise from reading each other's work until some writing culture emerges. So in order to get good grades I'd try to mimic my professors and their preferred authors writing and investigation styles for my essays. I started to get a feeling of what kind of author I was reading, how dense their writing was, the pacing, and how they mixed narrative with argumentation.
 
