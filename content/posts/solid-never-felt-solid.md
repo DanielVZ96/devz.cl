@@ -86,7 +86,7 @@ I've seen people call their classes (especially when they come from Java) someth
 
 Same goes with books.
 
-Even with all the experience uncle bob might have, he's not entitled to calling his own code clean. Plenty of his examples in the "Clean Code" can be deemed not clean at all and contradictory to his own principles. 
+Even with all the experience uncle bob might have, he's not entitled to calling his own code clean. Plenty of his examples in the "Clean Code" book can be deemed not clean at all and even contradictory to his own principles. 
 
 # All I'm trying to say is...
 
