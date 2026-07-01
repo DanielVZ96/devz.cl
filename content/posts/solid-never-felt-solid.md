@@ -6,7 +6,7 @@ categories:
   - 
 ---
 
-![Sheep](/images/sheep.png)
+![Sheep](/images/sheep.jpg)
 
 I learned to program through online documentation and projects. I also read books but I don't consider them pivotal to my programming or software engineering career. Some of the books I read are:
 
