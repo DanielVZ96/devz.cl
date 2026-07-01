@@ -1,5 +1,5 @@
 ---
-title: 'SOLID and Clean Code Never Felt Solid or Clean to Me'
+title: 'SOLID and Clean Code never felt solid or clean to me'
 date: 2026-07-01T00:00:00Z
 categories:
   - notes
@@ -18,7 +18,7 @@ I learned to program through online documentation and projects. I also read book
 
 * Clean Code: this book felt like a bunch of advice from a senior engineer, but much of it not being verifiably good advice. As an outsider it at least made me aware that I had to be conscious that my code was going to be read.
 
-One day an interviewer asked me about design patterns and SOLID principles. I started talking about the ones I learned from the Gang of Four book, but he stopped me and said that he meant SOLID principles, and that he was not sure what I was talking about. Now in retrospect I know he was just reading the rubric but I left that interview confused.
+One day an interviewer asked me about design patterns and SOLID principles. I started talking about the ones I learned from the Gang of Four book, but he stopped me and said that he meant SOLID principles, and that he was not sure what I was talking about. Now in retrospect I know he was just reading the rubric without knowing much about the topic but I left that interview confused.
 
 So I googled SOLID principles and landed on a [video](https://www.youtube.com/watch?v=zHiWqnTWsn4) where this "uncle bob" dude spent a good chunk of his introduction talking about the water molecule only to then take more than 10 minutes to explain that the rate of new programmers was constantly doubling and that as long as this rate of growth continued, half of all engineers would always be inexperienced. Then after a whole 20 minutes into the talk he starts a real introduction when he explains that bad code slows you down (no shit, Sherlock), that code rigidity, coupling is bad, only to really get into the topic 30 minutes in. 
 
@@ -48,11 +48,11 @@ It's an ok explanation but that doesn't change the fact that the name still feel
 
 > Also as a side-note, OF COURSE THERE ARE KIDS THAT DON'T KNOW WHAT UUNET WAS. 
 > 
-> We get it. You are EXPERIENCED.
+> We get it. You are an "experienced" programmer.
 
 Engineers have a tendency to assume they are impartial machines that are able to see the objective truth, but if there's something that I learned while studying history is that the only way to be able to strive to be objective is to embrace the fact that you are a subjective human being. The more objective you assume you are, the more easily manipulated you can be by subjectivity, be it your own subjectivity or others. The fact that I had coworkers speak fondly of "Uncle Bob" as if he was a real wise uncle and cite him to justify some convoluted dependency injection shenanigans made all my manipulation-senses go off.
 
-Then we have the actual prose he uses. As I said before, his style is overly dependent on filler content. Of course it's not just random filler content. It's stuff he can confidently say while scratching his chin, drop a witty joke here and there, and look smart in the process. If my university professors caught me writing like that they'd deduct points for wasting their time. I saw this done plenty of times in university. Especially from students that when we wouldn't be able to fill in the required pages we'd resort to over-citing sources and adding slightly related narrations that would have made no impact on arguments other than extend their length.
+Then we have the actual prose he uses. As I said before, his style is overly dependent on filler content. Of course it's not just random filler content. It's stuff he can confidently say while scratching his chin, drop a witty joke here and there, and look smart in the process. If my university professors caught me writing like that they'd deduct points for wasting their time. I saw this done plenty of times in university. Especially from us students. When we wouldn't be able to fill in the required pages we'd resort to over-citing sources and adding slightly related narrations that would have made no impact on arguments other than extend their length.
 
 The way I used to read filler-ridden history books and essays was to just scan the text first, highlighting the actual content and then do a proper read afterwards. The same can be done with Uncle Bob's books.
 
@@ -60,7 +60,7 @@ The way I used to read filler-ridden history books and essays was to just scan t
 > 
 > – Someone who apparently liked the filler content
 
-Now I must admit that this is also partly a matter of taste. But in my opinion there's some responsibility to bear if you sell yourself as the source of senior experience to newcomers to the craft. In the best case you are wasting their time. Worst case scenario you are manipulating them into dogmatic behaviour.
+Now I must admit that this is also partly a matter of taste. But in my opinion there's some responsibility to bear if you sell yourself as the source of senior experience to newcomers to the craft. In the best case you are wasting their time. Worst case scenario you are manipulating them into dogmatic behaviour through low substance content that requires quite some faith on the author.
 
 # Acronym Marketing
 
