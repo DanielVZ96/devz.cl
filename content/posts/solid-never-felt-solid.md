@@ -93,3 +93,5 @@ Even with all the experience uncle bob might have, he's not entitled to calling 
 Software engineering culture is overly dogmatic and subjective. We try to think of ourselves as more objective than we are, but we aren't. We fall into marketing techniques like sheep being herded by a cute border collie.
 
 I'm sorry, Uncle Bob. I used you as a punching bag here. I don't like your books or talks, but at least it's honest work. Just a tad too manipulative for my taste.
+
+This is not a specific critique of the contents or ideas in SOLID or Clean Code. It's about how it presents itself and how that made me feel.
