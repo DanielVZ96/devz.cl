@@ -1,5 +1,5 @@
 ---
-title: 'Who am I? I\'m an awkward fellow, after all'
+title: "Who am I? I'm an awkward fellow, after all"
 date: 2026-06-25T00:00:00Z
 categories:
   - notes
