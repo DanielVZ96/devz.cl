@@ -1,6 +1,6 @@
 ---
 title: "Who am I? I'm an awkward fellow, after all"
-date: 2026-06-25T00:00:00Z
+date: 2026-07-02T00:00:00Z
 categories:
   - notes
   - indie-web-carnival
