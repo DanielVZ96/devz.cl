@@ -3,6 +3,7 @@ title: 'Do babies dream of baby sheep?'
 date: 2026-06-25T00:00:00Z
 categories:
   - notes
+  - indie-web-carnival
 ---
 
 > *This is my submission for the June 2026* [*IndieWeb Carnival*](https://indieweb.org/IndieWeb_Carnival)*. The theme is* [*“No way!?”*](https://alexhsu.com/en/no-way)*, hosted by* [*Alex Hsu*](https://alexhsu.com/en).
