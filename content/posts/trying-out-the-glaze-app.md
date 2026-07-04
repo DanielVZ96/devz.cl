@@ -10,6 +10,7 @@ description: ''
 date: 2026-07-03T23:09:19Z
 ---
 ![The website editor Glaze made for me](/images/glazeapp.png)
+
 > _Desktop apps,
 reimagined by you.
 Create any app in minutes by chatting with AI. Beautiful, powerful, and truly personal._
