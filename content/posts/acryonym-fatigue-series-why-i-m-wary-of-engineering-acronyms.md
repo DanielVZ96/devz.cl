@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 tags: []
 title: 'Acronym Fatigue Series Introduction: why I’m wary of acronyms'
 categories: []
