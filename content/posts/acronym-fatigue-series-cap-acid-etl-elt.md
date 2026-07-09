@@ -6,7 +6,7 @@ title: 'Acronym Fatigue Series part 1: CAP, ACID and friends'
 categories:
   - notes
 description: ''
-date: 2026-07-05T01:25:03Z
+date: 2026-07-09T01:25:03Z
 ---
 ![pexels-eduraw-37245214.jpg](/images/pexels-eduraw-37245214.jpg)
 
