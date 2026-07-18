@@ -1,0 +1,50 @@
+---
+draft: false
+tags:
+  - fiction
+title: '[Axiom Proper] Project: Tether'
+categories:
+  - fiction
+  - notes
+description: ''
+date: 2026-07-18T15:53:46Z
+---
+## A kingdom for a heart
+
+Brutus had finally accomplished it. A kingdom for a heart. Not his kingdom, nor his heart.
+
+The ritual came as second nature to him. Even the horrendous sight of seeing his beloved Lucrecia take her own life in front of him felt, though maddening, necessary. If he couldn't be with her, no Tarquin should have her. His obsession would never let him continue watching his beloved brother in arms Lucius Tarquinius Collatinus, as much as he loved him, be tethered to his divinely virtuous Lucrecia. Now that the kingdom is no more and Collatinus has been ostracised, Brutus had to conspire no more.
+
+As the distant memory had commanded: the death of the beloved, the fall of a kingdom, and the exile of his own kinsman. The memory steming from beyond the foundation of the land, way beyond the rise of the gods, and of course his own birth. But it was there. Implanted since who knows when. All brutus knew is that he inherited it from the act of reading. But as soon as it was read, it was his own, and as soon as it was his own, it became his will. He was not devoid of doubts. Was it his own faith that fabricated this knowledge? Are the letters he once read capable of causing such hallucination and behaviour?
+
+But now, having sacrificed the desires of his own heart and those of the powerful, he was free to descend the steps bellow the arcaical Temple. The passage only he, and those destined to walk them since before the birth of Rome, knew of. Revealed to their minds only after the ritual was complete.
+
+As the light of the entrance dwindled, the steps became inadequate, less human, irregular, and increasingly disproportionate. His flesh rebelling against this unnatural act, but his mind compelled to continue, knowing that the reward was beyond what nature offered him in life: eternal quintessential love.
+
+There she was, at the end of the steps. Her face illuminated by a faint red light. Ignoring the blood, flesh and bones surrounding them, he embraced her. And as the world dissolved around them, only they remained.
+
+## The impossible algorithm
+
+Lucía had finally accomplished it. An algorithm that shouldn't exist was executing right in front of her. No need to debug; she understood it up until the very last bit stored. The cost: dereliction of fiducidiary duty, he own country's economic collapse, and the death of hundreds if not thousands of her own fellow countrymen.
+
+The rise of Lucius Corp was nothing short of miraculous. After cracking the design of the LRM processor architecture, and the gradual establishment of a sophisticated supply chain network exclusively within the Estados Federados de Sudamérica (EFS), global compute was effectively monopolised by the company through a combination of patents and coercive negotiation practices. It is said that some of the EFS incursions into neighboring unafiliated countries were motivated by failed negotiations over nationalized natural resources key for production of LRM processors.
+
+Lucía knew this was all bound to happen. Ever since she read that obscure blogpost which contents can't be precisely remembered, she's had this intuition of her destiny. One day she'd compile the algorithm, and then she'd be complete. Although natural, it was not easy. The early death of her best friend Lucho deprived her of one of the key components of the algorithm. She saw herself forced to find workarounds that made the process way more complex, and costly both in resources and in human lifes. That's when she founded Lucius Corp.
+
+Once she had enough funds she was able to execute the compilation steps of the algorithm. Prerequisites included siphoning resources into seemingly contradicting political causes, funding both violent guerillas and fanatical cults, imposing impossible requirements to subsidiaries. At some point Lucía doubted herself thinking this could all subconcious self-sabotaging shenanigans. That the ancient knowledge she seemingly possesed was all a fabbrication of her own mind.
+
+But there she was. Deep under the company headquarters, in a terminal printing the program output, with increasingly macabre shapes taking place. Her own eyes were desperate to look elsewhere, but her mind was fixated on the goal. The face of his soulmate materializing on her own eyes. Once he embraced her, the world dissolved around them.
+
+Unable to perceive the C4 detonating the entrance, flashbangs exploding around her, and the Axiom Proper Special Physical Operations Team entering the room, Lucía was aprehended and extracted out of the facility, never to be seen again.
+
+## Project Tether
+
+It is still uncertain whether the entity code named Tether was developed within the Axiom Proper Initiative or if it was an ever present property of existence. Further mathematical proof is necessary. But as part of the Axiom Proper initiative, it was weaponized in favor of NUSA's global agenda. 
+
+The first experimental target was prominent EFS-native CEO Lucía Julia Álvarez Álvarez, with the objective of disrupting the unexpected technological development of what otherwise would have been a tributary region. Positive side-effects included the establishment of a NUSA backed junta, and the hostile takeover of Lucius Corp. Negative side-effects are unclear, but it is estimated that at least 2 billion of EFS pesos were wiped out of the economy, and theorized that an uncertain number of lifes were sacrifized in the process of compiling and executing the algorithm.
+
+Lucía was extracted before the Foundation had the chance to get a hold of her. Had the Foundation discovered the existence of the Tether entity, it may have been contained and rendered useless for the Initiative.
+
+Anomalies reported on the operation include the possible causality breaking properties of the Tether entity. It has not been verified that the creation and prosperity of Lucius Corp was caused by the Tether's influence. Key pending evidence is the identification of the other end of the Tether.
+
+If Lucía's counterpart is observed to originate in the past, the implications of the Tether deployment escape the Initiative's current ontological technology, and indiscriminate usage may result in existence nullifying phenomena.
