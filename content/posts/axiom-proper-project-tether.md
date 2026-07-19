@@ -62,4 +62,4 @@ Next steps include:
 * Priming Project Ontologun in preparation for eventual loss of control of the Tether entity.
 * Document and securely store the entity's deployment procedure. Currently only Dr. [REDACTED] has successfully deployed the entity. The nonexistence of backup documentation poses a monumental risk to Project Tether.
 
-Signed off by A. Smith, Director of Weaponized Entity Deployments
+Signed off by Kavan Juste, Director of Weaponized Entity Deployments
