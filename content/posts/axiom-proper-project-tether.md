@@ -11,9 +11,9 @@ date: 2026-07-18T15:53:46Z
 ---
 ## A kingdom for a heart
 
-Brutus had finally accomplished it. A kingdom for a heart. Not his kingdom, nor his heart.
+[Brutus](https://en.wikipedia.org/wiki/Lucius_Junius_Brutus) had finally accomplished it. A kingdom for a heart. Not his kingdom, nor his heart.
 
-The ritual came as second nature to him. Even the horrendous sight of seeing his beloved Lucrecia take her own life in front of him felt, though maddening, necessary. If he couldn't be with her, no Tarquin should have her. His obsession would never let him continue watching his beloved brother in arms Lucius Tarquinius Collatinus, as much as he loved him, be tethered to his divinely virtuous Lucrecia. Now that the kingdom is no more and Collatinus has been ostracised, Brutus had to conspire no more.
+The ritual came as second nature to him. Even the horrendous sight of seeing his beloved [Lucrecia](https://en.wikipedia.org/wiki/Lucretia) take her own life in front of him felt, though maddening, necessary. If he couldn't be with her, no Tarquin should have her. His obsession would never let him continue watching his beloved brother in arms [Lucius Tarquinius Collatinus](https://en.wikipedia.org/wiki/Lucius_Tarquinius_Collatinus), as much as he loved him, be tethered to his divinely virtuous Lucrecia. Now that the kingdom is no more and Collatinus has been ostracised, Brutus had to conspire no more.
 
 As the distant memory had commanded: the death of the beloved, the fall of a kingdom, and the exile of his own kinsman. The memory stemming from beyond the foundation of the land, way beyond the rise of the gods, and of course his own birth. But it was there. Implanted since who knows when. All brutus knew is that he inherited it from the act of reading. But as soon as it was read, it was his own, and as soon as it was his own, it became his will. He was not devoid of doubts. Was it his own faith that fabricated this knowledge? Are the letters he once read capable of causing such hallucination and behaviour?
 
@@ -23,7 +23,7 @@ As the light of the entrance dwindled, the steps became inadequate, less human, 
 
 There she was, at the end of the steps. Her face illuminated by a faint red light. Ignoring the blood, flesh and bones surrounding them, he embraced her. And as the world dissolved around them, only they remained.
 
-## The impossible algorithm
+## The inconceivable algorithm
 
 Lucía had finally accomplished it. An algorithm that shouldn't exist was being ran right in front of her. No need to debug; she understood it up until the very last bit stored. The cost: dereliction of fiduciary duty, her own country's economic collapse, and the death of hundreds if not thousands of her own fellow countrymen.
 
