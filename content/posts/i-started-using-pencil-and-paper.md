@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 tags: []
 title: Goodbye Notion, Obsidian, Org, Notes App, and More. Hello paper.
 categories:
