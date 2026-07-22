@@ -9,11 +9,28 @@ categories:
 description: ''
 date: 2026-07-18T15:53:46Z
 ---
+> This is a WIP fiction story I'm working on. It's inspired by History, SCP foundation Lore, lovecraft, maybe a bit of the Cyberpunk universe, another bit by [qntm's fiction](https://qntm.org/) and who knows by what more.
+
+## On the foundation of the Roman Republic
+
+> Summary prepared by Dr. [REDACTED] Valenzuela, PHD in Historical Sciences.
+
+According to roman scholars, the Roman Republic was traditionally founded in 509 BC. But very little is verifiably known about the transition from monarchy to republic. Regarding the catalyst for overthrowing the monarchy, legend says it was due to the rape of  of [Lucretia](https://en.wikipedia.org/wiki/Lucretia) (who's described as roman virtue incarnate) by the king's son, [Sextus Tarquinius](https://en.wikipedia.org/wiki/Sextus_Tarquinius), who took a liking for her during a wife-virtue-boasting match with the young nobles, including [Lucius Tarquinius Collatinus](https://en.wikipedia.org/wiki/Lucius_Tarquinius_Collatinus), Lucretia's husband. 
+
+Sextus forced her through an extortion scheme: if she refused, he'd kill her and forever taint her by saying he did it because he found her in the act adultery with a slave. Forced to keep her virtuosity, Lucretia had no choice but to concede. Soon after, she confesed what had happened to her father [Spurius Lucretius Tricipitinus](https://en.wikipedia.org/wiki/Spurius_Lucretius_Tricipitinus), to her husband Collatinus, to [Publius Valerius Poplicola](https://en.wikipedia.org/wiki/Publius_Valerius_Poplicola) and [Lucius Junius Brutus](https://en.wikipedia.org/wiki/Lucius_Junius_Brutus) (among others), and then killed herself. This triggered a revolt lead by the four men, and resulted in the end of the Monarchy.
+
+Soon after, Brutus and Collatinus were elected Consuls. But due to a conspiracy by the exiled Tarquins where they tried to assasinate the new Consuls, Collatinus who was a Tarquin himself was exiled. One key element of this conspiracy is that the conspirators were found guilty and executed, including two of Brutus sons.
+
+Until now, this is all more or less what the official legend says, but the Mad Historian Tito Marzio sheds an even more perverse light on these ancient Rome episodes. It was not due to chance that Brutus sons were part of the conspiracy. It was not due to chance that Brutus was elected Consul and had Collatinus be exiled. According to Mad Historian Tito Marzio, somehow Brutus was at the center of it all, even of all the events that lead to Lucrecia's death.
+
+
 ## A kingdom for a heart
 
-[Brutus](https://en.wikipedia.org/wiki/Lucius_Junius_Brutus) had finally accomplished it. A kingdom for a heart. Not his kingdom, nor his heart.
+> Excerpt recovered from Proscribed History, Tome III by Tito Marzio
 
-The ritual came as second nature to him. Even the horrendous sight of seeing his beloved [Lucrecia](https://en.wikipedia.org/wiki/Lucretia) take her own life in front of him felt, though maddening, necessary. If he couldn't be with her, no Tarquin should have her. His obsession would never let him continue watching his beloved brother in arms [Lucius Tarquinius Collatinus](https://en.wikipedia.org/wiki/Lucius_Tarquinius_Collatinus), as much as he loved him, be tethered to his divinely virtuous Lucrecia. Now that the kingdom is no more and Collatinus has been ostracised, Brutus had to conspire no more.
+Brutus had finally accomplished it. A kingdom for a heart. Not his kingdom, nor his heart.
+
+The ritual came as second nature to him. Even the horrendous sight of seeing his beloved Lucretia take her own life in front of him felt, though maddening, necessary. If he couldn't be with her, no Tarquin should have her. His obsession would never let him continue watching his beloved brother in arms Lucius Tarquinius Collatinus, as much as he loved him, be tethered to his divinely virtuous Lucretia. Now that the kingdom is no more and Collatinus has been ostracised, Brutus had to conspire no more.
 
 As the distant memory had commanded: the death of the beloved, the fall of a kingdom, and the exile of his own kinsman. The memory stemming from beyond the foundation of the land, way beyond the rise of the gods, and of course his own birth. But it was there. Implanted since who knows when. All brutus knew is that he inherited it from the act of reading. But as soon as it was read, it was his own, and as soon as it was his own, it became his will. He was not devoid of doubts. Was it his own faith that fabricated this knowledge? Are the letters he once read capable of causing such hallucination and behaviour?
 
@@ -23,7 +40,9 @@ As the light of the entrance dwindled, the steps became inadequate, less human, 
 
 There she was, at the end of the steps. Her face illuminated by a faint red light. Ignoring the blood, flesh and bones surrounding them, he embraced her. And as the world dissolved around them, only they remained.
 
-## The inconceivable algorithm
+> Note from the curator: the original material suggests there's more text to read. But the rest of Tome III is unreadable due to a mixture of blood taints and burned paper.
+
+# The inconceivable algorithm
 
 Lucía had finally accomplished it. An algorithm that shouldn't exist was being ran right in front of her. No need to debug; she understood it up until the very last bit stored. The cost: dereliction of fiduciary duty, her own country's economic collapse, and the death of hundreds if not thousands of her own fellow countrymen.
 
@@ -37,9 +56,9 @@ But there she was. Deep under the company headquarters, in a terminal printing t
 
 Unable to perceive the C4 detonating the entrance, flashbangs exploding around her, and the Axiom Proper Special Physical Operations Team entering the room, Lucía was aprehended and extracted out of the facility, never to be seen again.
 
-## Project Tether Executive Summary
+# Project Tether Executive Summary
 
-Summary prepared by [REDACTED], Dr. in Ontological Sciences.
+> Summary prepared by Dr. [REDACTED], PHD in Ontological Sciences.
 
 It is still uncertain whether the entity code named Tether was developed within the Axiom Proper Initiative or if it was an ever-present property of existence. Further mathematical proof is necessary. But as part of the Axiom Proper initiative, it was succesfully weaponized in favor of NUSA's global agenda. 
 
@@ -62,4 +81,4 @@ Next steps include:
 * Priming Project Ontologun in preparation for eventual loss of control of the Tether entity.
 * Document and securely store the entity's deployment procedure. Currently only Dr. [REDACTED] has successfully deployed the entity. The nonexistence of backup documentation poses a monumental risk to Project Tether.
 
-Signed off by Kavan Juste, Director of Weaponized Entity Deployments
+> Signed off by Kavan Juste, Director of Weaponized Entity Deployments
