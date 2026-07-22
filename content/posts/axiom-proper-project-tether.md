@@ -72,13 +72,13 @@ Lucía was extracted before the Foundation had the chance to get hold of her. Ha
 
 Anomalies reported on the operation include the possible causality-breaking properties of the Tether entity. It has not been verified that the creation and prosperity of Lucius Corp was caused by the Tether's influence. Key pending evidence is the identification of the other end of the Tether.
 
-If Lucía's counterpart is observed to originate in the past, the implications of the Tether deployment escape the Initiative's current ontological technology, and indiscriminate usage may result in existence-nullifying phenomena.
-
 Next steps include:
 * Investigating the identity of the other end of Lucía's Tether.
 * Deployment of cleanup team to remove any elements that might reveal the existence of the Tether entity.
 * Discussion of future deployments with the Initiative's board of directors.
 * Priming Project Ontologun in preparation for eventual loss of control of the Tether entity.
 * Document and securely store the entity's deployment procedure. Currently only Dr. [REDACTED] has successfully deployed the entity. The nonexistence of backup documentation poses a monumental risk to Project Tether.
+
+KEY INSIGHT: If Lucía's counterpart is observed to originate in the past, the implications of the Tether deployment escape the Initiative's current ontological technology, and indiscriminate usage may result in existence-nullifying phenomena.
 
 > Signed off by Kavan Juste, Director of Weaponized Entity Deployments
