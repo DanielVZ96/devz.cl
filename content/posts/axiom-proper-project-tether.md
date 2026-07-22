@@ -15,11 +15,11 @@ date: 2026-07-18T15:53:46Z
 
 > Summary prepared by Dr. [REDACTED] Valenzuela, PhD in Historical Sciences.
 
-According to roman scholars, the Roman Republic was traditionally founded in 509 BC. But very little is verifiably known about the transition from monarchy to republic. Regarding the catalyst for overthrowing the monarchy, legend says it was due to the rape of  of [Lucretia](https://en.wikipedia.org/wiki/Lucretia) (who is  described as roman virtue incarnate) by the king's son, [Sextus Tarquinius](https://en.wikipedia.org/wiki/Sextus_Tarquinius), who took a liking for her during a wife-virtue-boasting match with the young nobles, including [Lucius Tarquinius Collatinus](https://en.wikipedia.org/wiki/Lucius_Tarquinius_Collatinus), Lucretia's husband. 
+According to roman scholars, the Roman Republic was traditionally founded in 509 BC. But very little is verifiably known about the transition from monarchy to republic. Regarding the catalyst for overthrowing the monarchy, legend says it was due to the rape of [Lucretia](https://en.wikipedia.org/wiki/Lucretia) (who is  described as roman virtue incarnate) by the king's son, [Sextus Tarquinius](https://en.wikipedia.org/wiki/Sextus_Tarquinius), who took a liking for her during a wife-virtue-boasting match with the young nobles, including [Lucius Tarquinius Collatinus](https://en.wikipedia.org/wiki/Lucius_Tarquinius_Collatinus), Lucretia's husband. 
 
 Sextus forced her through an extortion scheme: if she refused, he would kill her and forever taint her by saying he did it because he found her in the act of adultery with a slave. Forced to keep her virtuosity, Lucretia had no choice but to concede. Soon after, she confessed what had happened to her father [Spurius Lucretius Tricipitinus](https://en.wikipedia.org/wiki/Spurius_Lucretius_Tricipitinus), to her husband Collatinus, to [Publius Valerius Poplicola](https://en.wikipedia.org/wiki/Publius_Valerius_Poplicola) and [Lucius Junius Brutus](https://en.wikipedia.org/wiki/Lucius_Junius_Brutus), and then killed herself. This triggered a revolt lead by the four men, and resulted in the end of the Monarchy.
 
-Soon after, Brutus and Collatinus were elected Consuls. But due to a conspiracy by the exiled Tarquins where they tried to assassinate the new Consuls, Collatinus who was a Tarquin himself was exiled. One key element of this conspiracy is that the conspirators were executed, including two of Brutus sons.
+Soon after, Brutus and Collatinus were elected Consuls. But due to a conspiracy by the exiled Tarquins where they tried to assassinate the new Consuls, Collatinus who was a Tarquin himself was exiled. One key element of this conspiracy is that the conspirators were executed, including two of Brutus's sons.
 
 Until now, this is all more or less what the official legend says, but the Mad Historian Tito Marzio sheds an even more perverse light on these ancient Rome episodes. It was not due to chance that Brutus sons were part of the conspiracy. It was not due to chance that Brutus was elected Consul and had Collatinus be exiled. According to Mad Historian Tito Marzio, somehow Brutus was at the center of it all, even of all the events that lead to Lucrecia's death.
 
@@ -32,7 +32,7 @@ Brutus had finally accomplished it. A kingdom for a heart. Not his kingdom, nor 
 
 The ritual came as second nature to him. Even the horrendous sight of seeing his beloved Lucretia take her own life in front of him felt, though maddening, necessary. If he could not be with her, no Tarquin should have her. His obsession would never let him continue watching his beloved brother in arms Lucius Tarquinius Collatinus, as much as he loved him, be tethered to his divinely virtuous Lucretia. Now that the kingdom is no more and Collatinus has been ostracized, Brutus had to conspire no more.
 
-As the distant memory had commanded: the death of the beloved, the fall of a kingdom, and the exile of his own kinsman. The memory stemming from beyond the foundation of the land, way beyond the rise of the gods, and of course his own birth. But it was there. Implanted since who knows when. All brutus knew is that he inherited it from the act of reading. But as soon as it was read, it was his own, and as soon as it was his own, it became his will. He was not devoid of doubts. Was it his own faith that fabricated this knowledge? Are the letters he once read capable of causing such hallucination and behavior?
+As the distant memory had commanded: the death of the beloved, the fall of a kingdom, and the exile of his own kinsman. The memory stemming from beyond the foundation of the land, far beyond the rise of the gods, and of course his own birth. But it was there. Implanted since who knows when. All Brutus knew is that he inherited it from the act of reading. But as soon as it was read, it was his own, and as soon as it was his own, it became his will. He was not devoid of doubts. Was it his own faith that fabricated this knowledge? Are the letters he once read capable of causing such hallucination and behavior?
 
 But now, having sacrificed the desires of his own heart and those of the powerful, he was free to descend the steps below the archaic temple. The passage only he, and those destined to walk them since before the birth of Rome, knew of. Revealed to their minds only after the ritual was complete.
 
@@ -40,7 +40,7 @@ As the light of the entrance dwindled, the steps became inadequate, less human, 
 
 There she was, at the end of the steps. Her face illuminated by a faint red light. Ignoring the blood, flesh and bones surrounding them, he embraced her. And as the world dissolved around them, only they remained.
 
-> Note from the curator: the original material suggests there is more text to read. But the rest of Tome III is unreadable due to a mixture of blood taints and burned paper.
+> Note from the curator: the original material suggests there is more text to read. But the rest of Tome III is unreadable due to a mixture of bloodstains and burned paper.
 
 # The inconceivable algorithm
 
