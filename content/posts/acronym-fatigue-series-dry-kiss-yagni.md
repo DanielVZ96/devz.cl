@@ -29,7 +29,7 @@ They are well meaning advice. They try to guide coders into better code. General
 
 Coined by [Kelly Johnson](https://en.wikipedia.org/wiki/Kelly_Johnson_(engineer)) as part of his philosophy of making easy to repair combat jets. It is not clear to me if it should have the comma or not (calling the counterpart stupid vs keeping stuff stupidly simple). Regardless, it was coined in a very specific context and for a specific reason: making jets easily repairable for an average mechanic under combat conditions.
 
-In software one of the first main advocates of the KISS principle is the UNIX Philosophy. In this case the UNIX Philosophy encompassed multiple principles that some people summarized as the KISS principle. Again. Here the KISS principle isn't the center of the UNIX Philosophy. It's just a way to summarize their principle.
+In software one of the first main advocates of the KISS principle is the UNIX Philosophy. In this case the UNIX Philosophy encompassed multiple principles that some people summarized as the KISS principle. Again. Here the KISS principle isn't the center of the UNIX Philosophy. It's just a way to summarize their principles.
 
 When KISS is randomly invoked in a PR or discussion, I don't really know how to respond. It is such a broad acronym that it can mean anything. I mean I like simplicity too and in general I do agree with keeping things simple, but in what regard do we need to keep it simple? In UNIX for example it materializes in modularity and making simple tools that can then be composed into more complex tasks. It also materializes into the interface being just simple text. And that's it.
 
