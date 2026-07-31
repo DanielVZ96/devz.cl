@@ -6,7 +6,7 @@ title: 'AFS II: PLEASE stop invocating KISS and DRY'
 categories:
   - notes
 description: ''
-date: 2026-07-05T01:27:44Z
+date: 2026-07-31T01:27:44Z
 ---
 ### _This is part of the AFS (Acronym Fatigue Series) I'm working on. If you haven't, please read the introduction first to understand why I'm wary of acronyms [here](http://localhost:1313/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/)._
 
