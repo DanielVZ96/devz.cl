@@ -2,7 +2,7 @@
 draft: false
 tags:
   - afs
-title: 'AFGS II: PLEASE stop invocating KISS and DRY'
+title: 'AFS II: PLEASE stop invocating KISS and DRY'
 categories:
   - notes
 description: ''
