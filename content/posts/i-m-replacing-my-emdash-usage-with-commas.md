@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 tags: []
 title: I’m replacing my Emdash usage with commas
 categories: []
