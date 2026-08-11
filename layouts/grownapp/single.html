@@ -1,0 +1,39 @@
+{{ define "main" }}
+{{ partial "back_link.html" . }}
+
+<article class="grownapp">
+    {{ with .Params.app }}
+        <header class="grownapp-hero">
+            {{ with .icon }}
+                <img class="grownapp-icon" src="{{ . | relURL }}" alt="" width="96" height="96">
+            {{ end }}
+            <h1 class="grownapp-name">{{ .name }}</h1>
+            {{ with .tagline }}
+                <p class="grownapp-tagline">{{ . }}</p>
+            {{ end }}
+        </header>
+    {{ else }}
+        <h1>{{ .Title }}</h1>
+    {{ end }}
+
+    <div class="grownapp-content">
+        {{ .Content }}
+    </div>
+
+    {{ if .Params.screenshots }}
+        <section class="grownapp-shots">
+            <h2>Gallery</h2>
+            <div class="grownapp-shot-grid">
+                {{ range .Params.screenshots }}
+                    <figure>
+                        <img loading="lazy" src="{{ .src | relURL }}" alt="{{ .alt }}">
+                        {{ with .caption }}
+                            <figcaption>{{ . }}</figcaption>
+                        {{ end }}
+                    </figure>
+                {{ end }}
+            </div>
+        </section>
+    {{ end }}
+</article>
+{{ end }}

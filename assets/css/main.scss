@@ -834,7 +834,7 @@ body:has(.recursive-article) {
     p {
         animation: none;
         filter: none;
-        opacity: calc(0.25 + var(--swarm-progress) * 0.6);
+        opacity: calc(0.25 + var(--swarm-progress) * 0.1);
         transform: none;
 
         &::before {
@@ -1126,4 +1126,70 @@ body:has(.recursive-article) {
         }
     }
 
+}
+
+// -------------- GROWNAPP PAGES -------------- //
+
+.grownapp-hero {
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.grownapp-icon {
+    width: 6rem;
+    height: 6rem;
+    margin: 0 0 0.75rem;
+    border-radius: 1.4rem;
+    object-fit: cover;
+}
+
+.grownapp-name {
+    font-size: 2.25rem;
+    margin: 0;
+}
+
+.grownapp-tagline {
+    font-family: var(--title-font);
+    font-size: 1.15rem;
+    font-style: italic;
+    margin: 0.5rem 0 0;
+    opacity: 0.75;
+}
+
+.grownapp-content {
+    margin-top: 1.5rem;
+}
+
+.grownapp-content .grownapp-cta {
+    font-family: var(--accent-font);
+    font-weight: 700;
+}
+
+.grownapp-shots {
+    margin-top: 2rem;
+}
+
+.grownapp-shot-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 1rem;
+    align-items: start;
+    margin-top: 1rem;
+}
+
+.grownapp-shot-grid figure {
+    margin: 0;
+    border: thin solid currentColor;
+    padding: 0.5rem;
+}
+
+.grownapp-shot-grid img {
+    border: thin solid currentColor;
+}
+
+.grownapp-shot-grid figcaption {
+    font-family: var(--accent-font);
+    font-size: 0.85rem;
+    margin-top: 0.5rem;
+    opacity: 0.6;
 }
