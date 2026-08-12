@@ -42,4 +42,4 @@ Found something broken? Tell us what you expected to happen and what actually ha
 
 ## Learn more
 
-Curious what GrownApp does? See the [marketing page](/grownapp/marketing).
+Curious what GrownApp does? See the [marketing page](/grownapp/marketing). Wondering how your data is handled? See the [privacy policy](/grownapp/privacy).
