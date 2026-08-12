@@ -36,9 +36,13 @@ screenshots:
 
 Rent, vet visits, filter swaps, insurance premiums, registration renewals, dental checkups. Nobody remembers this stuff until it's overdue — GrownApp quietly keeps track of the recurring life-maintenance tasks so you don't have to.
 
+## Why did I make it?
+
+I wanted to remember everything I needed to do as an adult but other productivity apps required too much configuration and I always ended up procastinating through productivity configurations. So I made this really simple app that only reminds me of adult responsibilities and nothing more.
+
 ## How it works
 
-- **Onboarding** asks a few quick questions about your life — do you rent or own, have pets, have a car? — and builds your first task list for you.
+- **Onboarding** asks a few quick questions about your life (do you rent or own, have pets, have a car?) and builds your first task list for you.
 - **Packs** are ready-made sets of tasks for different areas of your life. Pick what applies and edit anything.
 - **Today** shows exactly what needs attention right now, and what's coming up.
 - **Calendar** gives you the full picture of the coming weeks at a glance.
@@ -47,7 +51,7 @@ Rent, vet visits, filter swaps, insurance premiums, registration renewals, denta
 
 ## Packs
 
-| Pack | Tagline |
+| Pack | Description |
 | ---- | ------- |
 | Bills | Never miss a payment |
 | Pets | Keep them healthy |
@@ -55,15 +59,13 @@ Rent, vet visits, filter swaps, insurance premiums, registration renewals, denta
 | Car | Stay road-ready |
 | Health | Care for future you |
 | Admin | Paperwork, handled |
-| My tasks | Your own recurring tasks |
 
 ## Why you'll like it
 
 - **Private by design.** Everything lives on your device. No account, no signup, no cloud.
-- **Tuned for renters too.** Tasks like gutter cleaning and water-heater checks can be turned off when they don't apply.
 - **Bilingual.** English and Español, switchable from settings.
 - **Gentle reminders.** A calm morning digest, a nudge before each task, or a notification on the due date — your call.
-- **Rewarding.** Completion celebrations, haptics, and a history you can look back on.
+- **Zero Effort.** There's almost zero setup needed. Just install a pack and be reminded effortlessly.
 
 ## Details
 

@@ -32,12 +32,9 @@ You can delete tasks and history from the app. To wipe everything and redo onboa
 {{< /details >}}
 
 {{< details summary="Can I add my own tasks?" >}}
-Absolutely. Use the **My tasks** pack or create a custom task with its own repeat interval (days, weeks, months, or years) and reminder lead time.
+Absolutely. Use the "+" button in the "Today" section to create a custom task with its own repeat interval (days, weeks, months, or years) and reminder lead time.
 {{< /details >}}
 
-{{< details summary="Why does it say a bill's amount?" >}}
-For bills and other tasks you can attach an amount. It shows up in Today and in your history so you always know what you paid.
-{{< /details >}}
 
 ## Report a bug
 
