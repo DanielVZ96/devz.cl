@@ -44,5 +44,9 @@ title = 'elsewhere'
   rel = 'me'
 
   [[entries.entries]]
+  title = 'newsletter'
+  url = 'https://buttondown.com/devz'
+
+  [[entries.entries]]
   title = 'rss'
   url = 'index.xml'
