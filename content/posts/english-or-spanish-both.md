@@ -4,7 +4,7 @@ categories:
 custom_js:
   - english_spanish_spelling
 draft: false
-title: English or Spanish? Both.
+title: I Rewrote English with Spanish Spelling Rules
 date: 2026-09-09T00:00:00-04:00
 description: What happens when you keep English pronunciation but write it with mostly Spanish spelling rules?
 tags:
