@@ -32,9 +32,11 @@ Since I was very little, spelling bees have been an otherworldly concept; how co
 
 So I *know* from experience that it is possible to be able to pronounce a word by only reading it. Then it's only natural to wonder how would English look if it was written using Spanish spelling rules?
 
-Enter "English or Spanish". My latest invention. Try writing any English sentence and then hear how an automatic speaker reads it both in normal English or Spanish-readable English. Load the dictionary to make it work even better.
+Enter "English or Spanish". My latest invention. Try writing any English sentence and then hear how an automatic speaker reads it both in normal English or Spanish-readable English.
 
 {{< english-spanish-spelling >}}
+
+> Note: Load the dictionary to make it work even better.
 
 # Spanish is doing most of the work
 
