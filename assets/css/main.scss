@@ -736,6 +736,11 @@ details[open] summary {
     }
 }
 
+.english-spelling__load {
+    grid-column: 1;
+    justify-self: start;
+}
+
 .english-spelling__toggle {
     display: inline-flex;
     grid-column: 1;

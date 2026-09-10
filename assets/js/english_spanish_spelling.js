@@ -97,8 +97,6 @@
     const VOICE_KEY = "english-spanish-spelling-voice-v1";
     const EXCEPTIONS_KEY = "english-spanish-spelling-exceptions-v1";
 
-    const dictionaryPromise = loadDictionary();
-
     async function loadDictionary() {
         if (!("DecompressionStream" in window)) return new Map();
 
@@ -286,14 +284,35 @@
         const outputListen = widget.querySelector("[data-listen-output]");
         const clearButton = widget.querySelector("[data-clear]");
         const copyButton = widget.querySelector("[data-copy]");
+        const loadDictionaryButton = widget.querySelector("[data-load-dictionary]");
         const resetButton = widget.querySelector("[data-reset-mappings]");
         const mappingInputs = [...widget.querySelectorAll("[data-mapping]")];
         const customMappings = readStoredObject(MAPPINGS_KEY);
         let dictionary = new Map();
+        let dictionaryPromise = null;
         let mode = "standard";
         let plainOutput = "";
 
         exceptions.checked = readStoredValue(EXCEPTIONS_KEY, "true") !== "false";
+
+        async function activateDictionary() {
+            if (dictionaryPromise) return;
+
+            loadDictionaryButton.disabled = true;
+            loadDictionaryButton.textContent = "Loading dictionary…";
+            dictionaryPromise = loadDictionary();
+            dictionary = await dictionaryPromise;
+
+            if (dictionary.size > 0) {
+                loadDictionaryButton.textContent = "Dictionary loaded";
+                render();
+                return;
+            }
+
+            dictionaryPromise = null;
+            loadDictionaryButton.disabled = false;
+            loadDictionaryButton.textContent = "Retry dictionary download (836 KiB)";
+        }
 
         function saveMappings() {
             storeValue(MAPPINGS_KEY, Object.keys(customMappings).length ? JSON.stringify(customMappings) : "");
@@ -404,6 +423,7 @@
             render();
         });
         voiceSelect.addEventListener("change", () => storeValue(VOICE_KEY, voiceSelect.value));
+        loadDictionaryButton.addEventListener("click", activateDictionary);
         sourceListen.addEventListener("click", () => speak(source.value, voiceSelect.value));
         outputListen.addEventListener("click", () => speak(plainOutput, voiceSelect.value));
         clearButton.addEventListener("click", () => {
@@ -446,8 +466,6 @@
         if ("speechSynthesis" in window) {
             speechSynthesis.addEventListener("voiceschanged", () => populateVoices(voiceSelect));
         }
-        render();
-        dictionary = await dictionaryPromise;
         render();
     }
 

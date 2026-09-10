@@ -37,6 +37,11 @@ title = 'elsewhere'
   title = 'mastodon'
   url = 'https://techhub.social/@devz'
   rel = 'me'
+  
+  [[entries.entries]]
+  title = 'bluesky'
+  url = 'https://bsky.app/profile/danielvz97.bsky.social'
+  rel = 'me'
 
   [[entries.entries]]
   title = 'rss'
