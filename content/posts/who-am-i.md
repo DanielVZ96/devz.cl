@@ -38,7 +38,7 @@ In that school, the religion class taught kids Catholic stuff, and since plenty 
 
 In general I'm glad I was sent there. It was fun, we played a lot, and we had a lot of time to just goof around in class. Emphasis on the goofing around. One of the most common activities we had was making board games about moral values. Think game of life stuff, or snake and ladders but instead of snakes it's doing bad things, and instead of ladders being a good kid.
 
-We were usually split into groups, and I was never good at crafts, nor a natural leader. So my group just ignored me and didn't let me do much. So I was there, with my scissors having nothing to do. Normally in cases like that I'd just sit and do nothing. I'm fine with doing nothing and just wander into my thoughts.
+We were usually split into groups, and I was never good at crafts, nor a natural leader. So my group just ignored me and didn't let me do much. Picture me there, alone with my scissors, and having nothing to do. Normally in cases like that I'd just sit and do nothing. I'm fine with doing nothing and just wander into my thoughts.
 
 > Note: Adults always told me I was "viviendo en la luna"/"living in the moon". Which meant something like having my head in the clouds. Because of that I had trouble following classes, but on the other hand it helped me be fine with spending time by myself.
 

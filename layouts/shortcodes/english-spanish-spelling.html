@@ -1,0 +1,76 @@
+<section class="english-spelling" data-english-spelling aria-label="English written with Spanish spelling rules">
+    <div class="english-spelling__toolbar">
+        <div class="english-spelling__controls">
+            <div class="english-spelling__modes" role="group" aria-label="Spelling map">
+                <button type="button" data-mode="standard" aria-pressed="true">Standard</button>
+                <button type="button" data-mode="personal" aria-pressed="false">Personal</button>
+            </div>
+
+            <select data-voice aria-label="Comparison voice" disabled>
+                <option value="">Automatic Spanish voice</option>
+            </select>
+
+            <label class="english-spelling__toggle">
+                <input type="checkbox" data-hand-tuned checked>
+                Hand-tuned words
+            </label>
+        </div>
+
+        <output class="english-spelling__status" data-status aria-live="polite">0 words</output>
+    </div>
+
+    <div class="english-spelling__workbench">
+        <section class="english-spelling__pane">
+            <header class="english-spelling__pane-head">
+                <h2>Written English</h2>
+                <div class="english-spelling__actions">
+                    <button type="button" data-listen-source disabled>Listen</button>
+                    <button type="button" data-clear disabled>Clear</button>
+                </div>
+            </header>
+            <textarea data-source aria-label="Written English" spellcheck="true">Layers. Onions have layers. Ogres have layers. Onions have layers. You get it? We both have layers.</textarea>
+        </section>
+
+        <section class="english-spelling__pane">
+            <header class="english-spelling__pane-head">
+                <h2>Spanish-readable English</h2>
+                <div class="english-spelling__actions">
+                    <button type="button" data-listen-output disabled>Listen</button>
+                    <button type="button" data-copy disabled>Copy</button>
+                </div>
+            </header>
+            <div class="english-spelling__output" data-output aria-live="polite"></div>
+        </section>
+    </div>
+
+    <p class="english-spelling__inspector" data-inspector>Select an underlined word to inspect how it was produced.</p>
+
+    <details class="english-spelling__map">
+        <summary>Personal sound map</summary>
+        <p>Editing a sound switches the widget to Personal mode. Resetting restores the standard alphabet.</p>
+        <div class="english-spelling__table-wrap" tabindex="0" role="region" aria-label="Personal English sound map">
+            <table>
+                <thead>
+                    <tr>
+                        <th scope="col">Sound</th>
+                        <th scope="col">Example</th>
+                        <th scope="col">Personal</th>
+                        <th scope="col">Standard</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr data-phoneme="V"><td><code>/v/</code></td><td>very</td><td><input data-mapping aria-label="Personal spelling for v in very" value="v"></td><td>v</td></tr>
+                    <tr data-phoneme="TH"><td><code>/θ/</code></td><td>think</td><td><input data-mapping aria-label="Personal spelling for th in think" value="th"></td><td>th</td></tr>
+                    <tr data-phoneme="SH"><td><code>/ʃ/</code></td><td>ship</td><td><input data-mapping aria-label="Personal spelling for sh in ship" value="sh"></td><td>sh</td></tr>
+                    <tr data-phoneme="ZH"><td><code>/ʒ/</code></td><td>measure</td><td><input data-mapping aria-label="Personal spelling for the middle sound in measure" value="sh"></td><td>sh</td></tr>
+                    <tr data-phoneme="R"><td><code>/ɹ/</code></td><td>red</td><td><input data-mapping aria-label="Personal spelling for r in red" value="r"></td><td>r</td></tr>
+                </tbody>
+            </table>
+        </div>
+        <button type="button" data-reset-mappings disabled>Reset personal map</button>
+    </details>
+  
+    <p><i>Pronunciation data is derived from the CMU Pronouncing Dictionary, Copyright 1993–2015 Carnegie Mellon University, redistributed under the CMUdict license.</i></p>
+    
+  <noscript>This experiment needs JavaScript to turn pronunciations into spellings.</noscript>
+</section>

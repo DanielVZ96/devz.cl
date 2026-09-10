@@ -21,6 +21,10 @@
 
     color: $--primary-text-color;
 
+    --theme-background: #{$--bg-color};
+    --theme-text: #{$--primary-text-color};
+    --theme-link: #{$--link-color};
+
     a {
         color: $--link-color;
         &:visited {
@@ -457,8 +461,8 @@ li {
 }
 
 a {
-    font-family: var(--accent-font);
-    font-weight: 700;
+    // font-family: var(--accent-font);
+    // font-weight: 700;
     text-decoration: none;
     &:hover {
         text-decoration: underline;
@@ -638,6 +642,285 @@ details[open] summary {
 .webmentions__item-footer {
     margin-top: 0.75rem;
     font-size: 0.9rem;
+}
+
+// English pronunciation rendered through mostly Spanish spelling rules.
+.english-spelling {
+    position: relative;
+    z-index: 4;
+    width: 100%;
+    margin: 2rem 0;
+    color: var(--theme-text);
+    background: var(--theme-background);
+
+    button,
+    select,
+    textarea,
+    input {
+        box-sizing: border-box;
+        border: 1px solid var(--theme-text);
+        border-radius: 0;
+        color: var(--theme-text);
+        background: var(--theme-background);
+        font: inherit;
+    }
+
+    button,
+    select,
+    input[type="checkbox"] {
+        cursor: pointer;
+    }
+
+    button {
+        min-height: 0;
+        padding: 0.15rem 0.1rem;
+        border: 0;
+        color: var(--theme-link);
+        background: transparent;
+        font-weight: 700;
+        text-decoration: underline;
+    }
+
+    button:hover:not(:disabled) {
+        text-decoration: none;
+    }
+
+    button:focus-visible,
+    select:focus-visible,
+    textarea:focus-visible,
+    input:focus-visible {
+        outline: 2px solid var(--theme-link);
+        outline-offset: 2px;
+    }
+
+    button:disabled,
+    select:disabled,
+    input:disabled {
+        cursor: not-allowed;
+        opacity: 0.45;
+    }
+}
+
+.english-spelling__toolbar {
+    display: grid;
+    grid-template-columns: minmax(14rem, auto) 1fr;
+    gap: 0.75rem 1rem;
+    margin-bottom: 2rem;
+}
+
+.english-spelling__controls {
+    display: contents;
+
+    > select {
+        grid-column: 1;
+        min-height: 2.25rem;
+        width: 14rem;
+        max-width: 100%;
+        padding: 0.4rem 1.8rem 0.4rem 0.55rem;
+    }
+}
+
+.english-spelling__modes {
+    display: flex;
+    grid-column: 1 / -1;
+    gap: 0.75rem;
+
+    button {
+        font-weight: 400;
+    }
+
+    button[aria-pressed="true"] {
+        color: var(--theme-text);
+        font-weight: 700;
+        text-decoration-thickness: 2px;
+    }
+}
+
+.english-spelling__toggle {
+    display: inline-flex;
+    grid-column: 1;
+    min-height: 2.25rem;
+    align-items: center;
+    gap: 0.45rem;
+    box-sizing: border-box;
+    padding: 0.4rem 0;
+    font-weight: 700;
+    white-space: nowrap;
+
+    &:has(input:disabled) {
+        cursor: not-allowed;
+        opacity: 0.45;
+    }
+
+    input {
+        width: 1rem;
+        height: 1rem;
+        margin: 0;
+        accent-color: var(--theme-text);
+    }
+}
+
+.english-spelling__status {
+    grid-row: 2;
+    grid-column: 2;
+    align-self: center;
+    justify-self: end;
+    flex: 0 0 auto;
+    opacity: 0.7;
+    text-align: right;
+}
+
+.english-spelling__workbench {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.english-spelling__pane {
+    display: flex;
+    min-width: 0;
+    flex-direction: column;
+
+    + .english-spelling__pane {
+        margin-top: 2rem;
+    }
+}
+
+.english-spelling__pane-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    box-sizing: border-box;
+    padding: 0 0 0.55rem;
+    border-bottom: 1px solid currentColor;
+
+    h2 {
+        margin: 0;
+    }
+}
+
+.english-spelling__actions {
+    display: flex;
+    gap: 0.4rem;
+}
+
+.english-spelling textarea,
+.english-spelling__output {
+    box-sizing: border-box;
+    min-height: 6rem;
+    margin-top: 0.75rem;
+    padding: 0.75rem;
+    border: 1px solid currentColor;
+}
+
+.english-spelling textarea {
+    width: 100%;
+    flex: 1;
+    resize: vertical;
+    outline: 0;
+}
+
+.english-spelling__output {
+    flex: 1;
+    overflow-wrap: anywhere;
+    background: transparent;
+    white-space: pre-wrap;
+}
+
+.english-spelling__word {
+    min-height: 0 !important;
+    margin: 0;
+    padding: 0 !important;
+    border: 0 !important;
+    border-bottom: 1px dotted currentColor !important;
+    color: inherit;
+    background: transparent !important;
+    cursor: help !important;
+    font: inherit !important;
+}
+
+.english-spelling__inspector {
+    min-height: 1.4rem;
+    margin: 0;
+    padding: 1rem 0 0.25rem;
+    opacity: 0.75;
+}
+
+.english-spelling .english-spelling__map {
+    margin-top: 1.5rem;
+    padding: 0;
+    border: 0;
+
+    summary {
+        cursor: pointer;
+        font-weight: 700;
+    }
+
+    &[open] summary {
+        padding-bottom: 0;
+        border-bottom: 0;
+    }
+
+    > button {
+        margin-top: 0.75rem;
+    }
+}
+
+.english-spelling__table-wrap {
+    overflow-x: auto;
+
+    table {
+        min-width: 32rem;
+    }
+
+    th {
+        text-align: left;
+    }
+
+    input {
+        width: 100%;
+        min-width: 5rem;
+        padding: 0.35rem;
+    }
+}
+
+@media (max-width: 720px) {
+    .english-spelling__toolbar {
+        grid-template-columns: 1fr;
+    }
+
+    .english-spelling__controls > select,
+    .english-spelling__toggle {
+        width: 100%;
+    }
+
+    .english-spelling__toggle {
+        justify-content: center;
+    }
+
+    .english-spelling__status {
+        grid-row: auto;
+        grid-column: 1;
+        justify-self: start;
+        text-align: left;
+    }
+
+    .english-spelling textarea,
+    .english-spelling__output {
+        min-height: 6rem;
+        padding: 0.75rem;
+    }
+}
+
+@media (max-width: 380px) {
+    .english-spelling__pane-head {
+        align-items: flex-start;
+    }
+
+    .english-spelling__actions {
+        flex-wrap: wrap;
+        justify-content: flex-end;
+    }
 }
 
 // An article that keeps rendering another copy of itself.
