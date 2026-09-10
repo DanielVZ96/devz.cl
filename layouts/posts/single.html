@@ -17,6 +17,7 @@
     <div class="e-content">
         {{ .Content }}
     </div>
+    {{ partial "follow_elsewhere.html" . }}
 </article>
 {{ partial "webmentions.html" . }}
 {{ $webmentionsJS := resources.Get "js/webmentions.js" }}

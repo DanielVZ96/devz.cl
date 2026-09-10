@@ -1,0 +1,13 @@
+{{ range hugo.Data.menu.entries }}
+    {{ if eq .title "elsewhere" }}
+        <footer class="post-elsewhere">
+            <p>
+                <strong>Follow me elsewhere:</strong>
+                {{ range $index, $entry := .entries -}}
+                    {{ if $index }}, {{ end -}}
+                    <a href="{{ $entry.url | absURL }}"{{ with $entry.rel }} rel="{{ . }}"{{ else }}{{ if eq $entry.title "rss" }} rel="alternate" type="application/rss+xml"{{ end }}{{ end }}>{{ $entry.title }}</a>
+                {{- end }}.
+            </p>
+        </footer>
+    {{ end }}
+{{ end }}
