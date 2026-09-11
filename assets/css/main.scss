@@ -323,8 +323,8 @@ body::after {
         transform 120ms ease;
 }
 
-.sky-blob--right:hover .sky-blob__menu,
-.sky-blob--right:focus-within .sky-blob__menu {
+.sky-blob:hover .sky-blob__menu,
+.sky-blob:focus-within .sky-blob__menu {
     pointer-events: auto;
 }
 
