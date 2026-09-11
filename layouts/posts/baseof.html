@@ -1,7 +1,42 @@
 <!DOCTYPE html>
 <html lang="{{ $.Site.Language.Locale }}">
     {{- partial "head.html" . -}}
-    <body class="post-page" a="{{ $.Site.Params.theme_config.appearance | default "auto" }}">
+    <body class="post-page" a="{{ $.Site.Params.theme_config.appearance | default "auto" }}" id="page-top">
+        <svg class="sky-blob-filter" aria-hidden="true" width="0" height="0">
+            <defs>
+                <filter id="sky-blob-goo" x="-15%" y="-20%" width="130%" height="140%" color-interpolation-filters="sRGB">
+                    <feGaussianBlur in="SourceGraphic" stdDeviation="4.5" result="blur" />
+                    <feColorMatrix in="blur" type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 20 -9" result="goo" />
+                    <feBlend in="SourceGraphic" in2="goo" />
+                </filter>
+            </defs>
+        </svg>
+        <div class="sky-blob sky-blob--left">
+            <svg class="sky-blob__liquid" viewBox="0 0 64 64" aria-hidden="true" focusable="false">
+                <g filter="url(#sky-blob-goo)">
+                    <circle class="sky-blob__orb sky-blob__orb--parent" cx="32" cy="32" r="32" />
+                    <circle class="sky-blob__orb sky-blob__orb--child" cx="81" cy="32" r="26" />
+                </g>
+            </svg>
+            <a class="sky-blob__button" href="{{ site.Home.RelPermalink }}" aria-label="Home"></a>
+            <div class="sky-blob__menu" aria-hidden="true">
+                <span class="sky-blob__menu-item">Home</span>
+            </div>
+        </div>
+        <div class="sky-blob sky-blob--right">
+            <svg class="sky-blob__liquid" viewBox="0 0 80 80" aria-hidden="true" focusable="false">
+                <g filter="url(#sky-blob-goo)">
+                    <circle class="sky-blob__orb sky-blob__orb--parent" cx="40" cy="40" r="40" />
+                    <circle class="sky-blob__orb sky-blob__orb--child" cx="-21" cy="40" r="32" />
+                </g>
+            </svg>
+            <button class="sky-blob__button" type="button" aria-label="Reading navigation"></button>
+            <span class="sky-blob__remaining" data-reading-remaining aria-hidden="true">100% left</span>
+            <nav class="sky-blob__menu" aria-label="Page navigation">
+                <a href="#page-top">Top</a>
+                <a href="#page-bottom">Bottom</a>
+            </nav>
+        </div>
         <main class="page-content" aria-label="Content">
             <div class="w">
                 <div class="post-meta">
@@ -15,6 +50,9 @@
                 {{- block "main" . }}{{- end }}
             </div>
         </main>
+        <div id="page-bottom" aria-hidden="true"></div>
+        {{ $readingProgressJS := resources.Get "js/reading-progress.js" | minify | fingerprint }}
+        <script defer src="{{ $readingProgressJS.RelPermalink }}" integrity="{{ $readingProgressJS.Data.Integrity }}"></script>
     </body>
     {{- if .Params.custom_js -}}
         {{- range .Params.custom_js -}}
