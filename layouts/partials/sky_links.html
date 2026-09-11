@@ -1,0 +1,38 @@
+<nav class="section-stars" aria-label="Main sections">
+    <div class="section-stars__field section-stars__field--left">
+        <a class="section-star section-star--about" href="{{ (site.GetPage "/about").RelPermalink }}" aria-label="About">
+            <span class="section-star__title">About</span>
+        </a>
+        <a class="section-star section-star--notes" href="{{ (site.GetPage "/posts").RelPermalink }}" aria-label="All notes">
+            <span class="section-star__title">All notes</span>
+        </a>
+    </div>
+    <div class="section-stars__field section-stars__field--right">
+        <a class="section-star section-star--todo" href="{{ (site.GetPage "/todo").RelPermalink }}" aria-label="Todo">
+            <span class="section-star__title">Todo</span>
+        </a>
+    </div>
+</nav>
+
+{{ $articleLinks := where site.RegularPages.ByDate.Reverse "Section" "posts" }}
+{{ $articleLinks = where $articleLinks "Draft" "ne" true }}
+{{ $articleLinks = where $articleLinks "Permalink" "ne" .Permalink }}
+{{ $articleLinks = first 16 $articleLinks }}
+{{ if $articleLinks }}
+<nav class="article-stars" aria-label="Explore other articles">
+    <div class="article-stars__field article-stars__field--left">
+        {{ range first 8 $articleLinks }}
+        <a class="article-star" href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+            <span class="article-star__title">{{ .Title }}</span>
+        </a>
+        {{ end }}
+    </div>
+    <div class="article-stars__field article-stars__field--right">
+        {{ range after 8 $articleLinks }}
+        <a class="article-star" href="{{ .RelPermalink }}" aria-label="{{ .Title }}">
+            <span class="article-star__title">{{ .Title }}</span>
+        </a>
+        {{ end }}
+    </div>
+</nav>
+{{ end }}

@@ -149,16 +149,6 @@ body {
     overflow-wrap: break-word;
 }
 
-body::before,
-body::after {
-    // Medium star layers. One pseudo-element per side.
-    content: "";
-    position: fixed;
-    top: 0;
-    bottom: 0;
-    pointer-events: none;
-}
-
 .sky-blob {
     // Interactive moons only render on post pages. The wrapper follows the
     // original scroll-linked path while its children handle hover motion.
@@ -379,174 +369,182 @@ body::after {
     transform: scale(1);
 }
 
-body::before {
-    // Left medium stars: edit percentages to move stars, edit px values for size.
-    left: 0;
-    width: calc((100vw - var(--content-width)) / 2 - 4rem);
-    background-image:
-        radial-gradient(
-            circle at 71% 11%,
-            var(--sky-dot-color) 0 2px,
-            transparent 2.5px
-        ),
-        radial-gradient(
-            circle at 17% 31%,
-            var(--sky-dot-color) 0 2px,
-            transparent 2.5px
-        ),
-        radial-gradient(
-            circle at 82% 52%,
-            var(--sky-dot-color) 0 2px,
-            transparent 2.5px
-        ),
-        radial-gradient(
-            circle at 11% 78%,
-            var(--sky-dot-color) 0 2px,
-            transparent 2.5px
-        );
-    background-repeat: repeat-y;
-    background-size: 100% 82rem;
-    animation: star-drift-large-left linear both;
-    animation-timeline: scroll(root);
-}
-
-body::after {
-    // Right medium stars.
-    right: 0;
-    width: calc((100vw - var(--content-width)) / 2 - 4rem);
-    background-image:
-        radial-gradient(
-            circle at 43% 18%,
-            var(--sky-dot-color) 0 2px,
-            transparent 2.5px
-        ),
-        radial-gradient(
-            circle at 69% 38%,
-            var(--sky-dot-color) 0 2px,
-            transparent 2.5px
-        ),
-        radial-gradient(
-            circle at 13% 74%,
-            var(--sky-dot-color) 0 2px,
-            transparent 2.5px
-        ),
-        radial-gradient(
-            circle at 91% 97%,
-            var(--sky-dot-color) 0 2px,
-            transparent 2.5px
-        );
-    background-repeat: repeat-y;
-    background-size: 100% 97rem;
-    animation: star-drift-large-right linear both;
-    animation-timeline: scroll(root);
-}
-
-.page-content::before,
-.page-content::after {
-    // Small star layers. They move more slowly than medium stars.
-    content: "";
+.article-stars__field,
+.section-stars__field {
+    // Small stars are real article links while retaining their ambient layer.
     position: fixed;
     top: 0;
     bottom: 0;
     pointer-events: none;
     width: calc((100vw - var(--content-width)) / 2 - 4rem);
+    z-index: 2;
 }
 
-.page-content::before {
-    // Left small stars.
+.article-stars__field--left,
+.section-stars__field--left {
     left: 0;
-    background-image:
-        radial-gradient(circle at 8% 7%, var(--sky-dot-color) 0 1px, transparent 1.5px),
-        radial-gradient(
-            circle at 36% 19%,
-            var(--sky-dot-color) 0 1px,
-            transparent 1.5px
-        ),
-        radial-gradient(
-            circle at 91% 23%,
-            var(--sky-dot-color) 0 1px,
-            transparent 1.5px
-        ),
-        radial-gradient(
-            circle at 54% 43%,
-            var(--sky-dot-color) 0 1px,
-            transparent 1.5px
-        ),
-        radial-gradient(
-            circle at 28% 64%,
-            var(--sky-dot-color) 0 1px,
-            transparent 1.5px
-        ),
-        radial-gradient(
-            circle at 63% 69%,
-            var(--sky-dot-color) 0 1px,
-            transparent 1.5px
-        ),
-        radial-gradient(
-            circle at 47% 87%,
-            var(--sky-dot-color) 0 1px,
-            transparent 1.5px
-        ),
-        radial-gradient(
-            circle at 88% 94%,
-            var(--sky-dot-color) 0 1px,
-            transparent 1.5px
-        );
-    background-repeat: repeat-y;
-    background-size: 100% 82rem;
     animation: star-drift-small-left linear both;
     animation-timeline: scroll(root);
 }
 
-.page-content::after {
-    // Right small stars.
+.article-stars__field--right,
+.section-stars__field--right {
     right: 0;
-    background-image:
-        radial-gradient(
-            circle at 19% 6%,
-            var(--sky-dot-color) 0 1px,
-            transparent 1.5px
-        ),
-        radial-gradient(
-            circle at 84% 14%,
-            var(--sky-dot-color) 0 1px,
-            transparent 1.5px
-        ),
-        radial-gradient(
-            circle at 9% 29%,
-            var(--sky-dot-color) 0 1px,
-            transparent 1.5px
-        ),
-        radial-gradient(
-            circle at 31% 49%,
-            var(--sky-dot-color) 0 1px,
-            transparent 1.5px
-        ),
-        radial-gradient(
-            circle at 94% 57%,
-            var(--sky-dot-color) 0 1px,
-            transparent 1.5px
-        ),
-        radial-gradient(
-            circle at 56% 66%,
-            var(--sky-dot-color) 0 1px,
-            transparent 1.5px
-        ),
-        radial-gradient(
-            circle at 77% 83%,
-            var(--sky-dot-color) 0 1px,
-            transparent 1.5px
-        ),
-        radial-gradient(
-            circle at 39% 91%,
-            var(--sky-dot-color) 0 1px,
-            transparent 1.5px
-        );
-    background-repeat: repeat-y;
-    background-size: 100% 97rem;
     animation: star-drift-small-right linear both;
     animation-timeline: scroll(root);
 }
+
+.article-star,
+.section-star {
+    --star-size: 1.75rem;
+    position: absolute;
+    width: var(--star-size);
+    height: var(--star-size);
+    color: var(--theme-background);
+    pointer-events: auto;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+    isolation: isolate;
+}
+
+.article-star::before,
+.section-star::before {
+    content: "";
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    width: 2px;
+    height: 2px;
+    border-radius: 50%;
+    background: var(--sky-dot-color);
+    transform: translate(-50%, -50%);
+    transition:
+        width 340ms cubic-bezier(0.22, 1.25, 0.36, 1),
+        height 340ms cubic-bezier(0.22, 1.25, 0.36, 1);
+    z-index: 1;
+}
+
+.article-star__title,
+.section-star__title {
+    position: absolute;
+    top: 50%;
+    display: block;
+    box-sizing: border-box;
+    width: max-content;
+    max-width: calc((100vw - var(--content-width)) / 2 - 5rem);
+    padding: 0.38rem 0.65rem;
+    overflow: hidden;
+    border-radius: 999px;
+    color: var(--theme-background);
+    background: var(--sky-dot-color);
+    font-family: var(--accent-font);
+    font-size: 0.56rem;
+    font-weight: 500;
+    line-height: 1.25;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    visibility: hidden;
+    transition:
+        opacity 140ms ease,
+        transform 380ms cubic-bezier(0.22, 1.18, 0.36, 1),
+        visibility 0s linear 180ms;
+    z-index: 2;
+}
+
+.article-stars__field--left .article-star__title,
+.section-stars__field--left .section-star__title {
+    left: 50%;
+    transform: translate(-0.15rem, -50%) scaleX(0.08);
+    transform-origin: left center;
+}
+
+.article-stars__field--right .article-star__title,
+.section-stars__field--right .section-star__title {
+    right: 50%;
+    transform: translate(0.15rem, -50%) scaleX(0.08);
+    transform-origin: right center;
+}
+
+.article-star:hover,
+.article-star:focus-visible,
+.section-star:hover,
+.section-star:focus-visible {
+    z-index: 10;
+    outline: none;
+}
+
+.article-star:hover::before,
+.article-star:focus-visible::before,
+.section-star:hover::before,
+.section-star:focus-visible::before {
+    width: 1.2rem;
+    height: 1.2rem;
+}
+
+.article-star:focus-visible::before,
+.section-star:focus-visible::before {
+    box-shadow:
+        0 0 0 3px var(--theme-background),
+        0 0 0 5px var(--theme-link);
+}
+
+.article-star:hover .article-star__title,
+.article-star:focus-visible .article-star__title,
+.section-star:hover .section-star__title,
+.section-star:focus-visible .section-star__title {
+    opacity: 1;
+    pointer-events: auto;
+    visibility: visible;
+    transition-delay: 45ms, 0ms, 0s;
+}
+
+.article-stars__field--left .article-star:hover .article-star__title,
+.article-stars__field--left .article-star:focus-visible .article-star__title,
+.section-stars__field--left .section-star:hover .section-star__title,
+.section-stars__field--left .section-star:focus-visible .section-star__title {
+    transform: translate(-0.15rem, -50%) scaleX(1);
+}
+
+.article-stars__field--right .article-star:hover .article-star__title,
+.article-stars__field--right .article-star:focus-visible .article-star__title,
+.section-stars__field--right .section-star:hover .section-star__title,
+.section-stars__field--right .section-star:focus-visible .section-star__title {
+    transform: translate(0.15rem, -50%) scaleX(1);
+}
+
+.article-stars__field--left .article-star:nth-child(1) { left: 10%; top: 7%; }
+.article-stars__field--left .article-star:nth-child(2) { left: 36%; top: 19%; }
+.article-stars__field--left .article-star:nth-child(3) { left: 91%; top: 23%; }
+.article-stars__field--left .article-star:nth-child(4) { left: 54%; top: 43%; }
+.article-stars__field--left .article-star:nth-child(5) { left: 28%; top: 64%; }
+.article-stars__field--left .article-star:nth-child(6) { left: 63%; top: 69%; }
+.article-stars__field--left .article-star:nth-child(7) { left: 47%; top: 87%; }
+.article-stars__field--left .article-star:nth-child(8) { left: 88%; top: 94%; }
+
+.article-stars__field--right .article-star:nth-child(1) { left: 19%; top: 6%; }
+.article-stars__field--right .article-star:nth-child(2) { left: 84%; top: 14%; }
+.article-stars__field--right .article-star:nth-child(3) { left: 9%; top: 29%; }
+.article-stars__field--right .article-star:nth-child(4) { left: 31%; top: 49%; }
+.article-stars__field--right .article-star:nth-child(5) { left: 90%; top: 57%; }
+.article-stars__field--right .article-star:nth-child(6) { left: 56%; top: 66%; }
+.article-stars__field--right .article-star:nth-child(7) { left: 77%; top: 83%; }
+.article-stars__field--right .article-star:nth-child(8) { left: 39%; top: 91%; }
+
+.section-star::before {
+    width: 5px;
+    height: 5px;
+}
+
+.section-star__title {
+    font-size: 0.62rem;
+    font-weight: 700;
+}
+
+.section-star--about { left: 17%; top: 31%; }
+.section-star--notes { left: 11%; top: 78%; }
+.section-star--todo { left: 69%; top: 38%; }
 
 @keyframes star-drift-large-left {
     // Medium left stars move faster than small stars.
@@ -615,11 +613,16 @@ body::after {
         display: none;
     }
 
-    body::before,
-    body::after,
-    .page-content::before,
-    .page-content::after {
+    .article-stars,
+    .section-stars {
         display: none;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 900px) {
+    .article-star__title,
+    .section-star__title {
+        max-width: 4rem;
     }
 }
 
@@ -628,13 +631,19 @@ body::after {
         scroll-behavior: auto;
     }
 
-    .sky-blob {
+    .sky-blob,
+    .article-stars__field,
+    .section-stars__field {
         animation: none;
     }
 
     .sky-blob__orb,
     .sky-blob__menu,
-    .sky-blob__menu > * {
+    .sky-blob__menu > *,
+    .article-star::before,
+    .article-star__title,
+    .section-star::before,
+    .section-star__title {
         transition-duration: 0.01ms !important;
         transition-delay: 0s !important;
     }

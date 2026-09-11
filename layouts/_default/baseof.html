@@ -2,6 +2,7 @@
 <html lang="{{ $.Site.Language.Locale }}">
     {{- partial "head.html" . -}}
     <body a="{{ $.Site.Params.theme_config.appearance | default "auto" }}">
+        {{ partial "sky_links.html" . }}
         <main class="page-content" aria-label="Content">
             <div class="w">
                 {{- block "main" . }}{{- end }}
