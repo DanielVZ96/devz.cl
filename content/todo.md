@@ -31,7 +31,7 @@ todo
 
 # Post Ideas (Copied from the August post ideas post and further expanded)
 
-Like any of these ideas? Let me know on 
+Like any of these ideas? Let me know on one of my socials.
 
 ~~## Idea 1: August post ideas post~~
 
