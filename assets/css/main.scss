@@ -174,6 +174,7 @@ body {
     // Larger right moon, starting near the lower corner.
     right: 1.75rem;
     bottom: 1.5rem;
+    width: 5.5rem;
     --blob-menu-enter-x: 1.4rem;
     animation: moon-drift linear both;
     animation-timeline: scroll(root);
@@ -282,7 +283,7 @@ body {
     color: #ffffff;
     background: transparent;
     font-family: var(--accent-font);
-    font-size: 0.65rem;
+    font-size: 1rem;
     line-height: 1.25;
     pointer-events: none;
     transform: translateY(-50%);
@@ -292,12 +293,13 @@ body {
 
 .sky-blob--left .sky-blob__menu {
     left: calc(100% - 0.55rem);
-    width: 3.25rem;
-    font-size: 0.58rem;
+    width: 3.625rem;
+    padding: 0.25rem;
 }
 
 .sky-blob--right .sky-blob__menu {
-    right: calc(100% - 0.7rem);
+    right: calc(100% - 0.75rem);
+    width: 5.1rem;
 }
 
 .sky-blob .sky-blob__menu a,
@@ -351,7 +353,7 @@ body {
     place-items: center;
     color: #ffffff;
     font-family: var(--accent-font);
-    font-size: 0.62rem;
+    font-size: 1rem;
     font-weight: 600;
     font-variant-numeric: tabular-nums;
     text-align: center;
@@ -441,18 +443,16 @@ body {
     display: block;
     box-sizing: border-box;
     width: max-content;
-    max-width: calc((100vw - var(--content-width)) / 2 - 5rem);
-    padding: 0.38rem 0.65rem;
-    overflow: hidden;
-    border-radius: 999px;
+    max-width: calc((100vw - var(--content-width)) / 2 + 4rem);
+    padding: 0.45rem 0.75rem;
+    border-radius: 1.25rem;
     color: var(--theme-background);
     background: var(--sky-dot-color);
     font-family: var(--accent-font);
-    font-size: 0.56rem;
+    font-size: 1rem;
     font-weight: 500;
     line-height: 1.25;
-    text-overflow: ellipsis;
-    white-space: nowrap;
+    white-space: normal;
     opacity: 0;
     pointer-events: none;
     visibility: hidden;
@@ -489,8 +489,8 @@ body {
 .article-star:focus-visible::before,
 .section-star:hover::before,
 .section-star:focus-visible::before {
-    width: 1.2rem;
-    height: 1.2rem;
+    width: 1.65rem;
+    height: 1.65rem;
 }
 
 .article-star:focus-visible::before,
@@ -548,7 +548,6 @@ body {
 }
 
 .section-star__title {
-    font-size: 0.62rem;
     font-weight: 700;
 }
 
@@ -626,13 +625,6 @@ body {
     .article-stars,
     .section-stars {
         display: none;
-    }
-}
-
-@media (min-width: 769px) and (max-width: 900px) {
-    .article-star__title,
-    .section-star__title {
-        max-width: 4rem;
     }
 }
 
