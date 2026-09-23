@@ -68,3 +68,5 @@ There's plenty of dumb stuff I did when I was little. I'd really love to write e
 There are way more stories but I'll leave them for future posts. If there's anything to conclude after all this is that childhood stories remind us of simpler times. When mistakes didn't have many consequences and we were learning all the time. 
 
 For example, from breaking my friends leg I learned that even though you could be doing everything right, you can still hurt dumb people doing dumb stuff, and it won't be your fault, even if you feel guilty when you see their leg broken under your own weight. It's not your fault.
+
+> If you want to share some of your childhood stories, please let me know in my socials listed bellow, or try using this website I made were you can only have a single post: https://app.pressnt.net/. It's been too quiet there since I created it, but for some reason I haven't taken it down.
