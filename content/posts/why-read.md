@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 tags: []
 title: Why read when few video do trick?
 categories: []
