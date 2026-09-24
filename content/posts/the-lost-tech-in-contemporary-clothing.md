@@ -25,9 +25,9 @@ When I got my grade back, it was a 4.0 out of 7.0 (in Chile grades go from 2.0 t
 
 Thankfully I do not have any major deformities. But that's when I understood that my proportions can be and _are_ way different from the average proportions of others. I know for a fact that my leg-to-torso proportions are shorter in comparison to others, especially when I buy clothes.
 
-Suits are made to be able to be tailored to the wearer's measurements. But modern clothes aren't. For example, even though there are high, medium, and low rise pants, I can't adjust their rise to my proportions. Same story with the waist. So much so that it's virtually impossible to get a proper combination of rise and waist proportions in modern clothes for me. They are always wrong and it shows, notably when wearing belts. For my suits the belt is an accesory, the pants rest perfectly on my waist. But in my normal pants I have to strangle them at my waist because regardless of size the pants slip and shift.
+Suits are made to be able to be tailored to the wearer's measurements. But modern clothes aren't. For example, even though there are high, medium, and low rise pants, I can't adjust their rise to my proportions. Same story with the waist. So much so that it's virtually impossible to get a proper combination of rise and waist proportions in modern clothes for me. They are always wrong and it shows, notably when wearing belts. For my suits the belt is an accessory, the pants rest perfectly on my waist. But in my normal pants I have to strangle them at my waist because regardless of size the pants slip and shift.
 
-I could continue ranting the same way with shirts, but the point is propotions vary a ton and modern clothes don't account for that.
+I could continue ranting the same way with shirts, but the point is proportions vary a ton and modern clothes don't account for that.
 
 # Suits are the original techwear
 
@@ -39,7 +39,7 @@ Suits may look traditional but their functionality stats are through the roof. Y
 
 ##  Buttons > Zippers
 
-The failure mode of zippers is full replacement and time inneficient. Buttons may fall but they are VERY easy to place back in.
+The failure mode of zippers is full replacement and time inefficient. Buttons may fall but they are VERY easy to place back in.
 
 ## It's even worse for women
 
@@ -51,8 +51,8 @@ One day I asked my little brother what he was carrying in his backpack. The answ
 
 ## Wearing clothes wears them
 
-Of course, but with traditional clothing my jackets aren't falling appart. My modern jackets don't last more than 5 years. But I have a traditional coat that my dad gifted me that is as old as I am, and it still looks great. And don't get me started with t-shirts. For some reason after a few years wholes start appearing in them out of nowhere. My main suspects are either moths or the seatbelt pressing them against my belt's buckle.
+Of course, but with traditional clothing my jackets aren't falling apart. My modern jackets don't last more than 5 years. But I have a traditional coat that my dad gifted me that is as old as I am, and it still looks great. And don't get me started with t-shirts. For some reason after a few years wholes start appearing in them out of nowhere. My main suspects are either moths or the seatbelt pressing them against my belt's buckle.
 
 # To be transparent...
 
-Even if I feel physically more comfortable in suits, and they are functionaly better, I won't use them when it's not needed. The only reason is that it'd be socially awkward. Everyone wears street/modern fashion, and I don't want to really go to a friends house in suit and tie. It sucks but thats the way things are.
+Even if I feel physically more comfortable in suits, and they are functionally better, I won't use them when it's not needed. The only reason is that it'd be socially awkward. Everyone wears street/modern fashion, and I don't want to really go to a friends house in suit and tie. It sucks but that is the way things are.
