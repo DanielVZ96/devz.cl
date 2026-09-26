@@ -1,0 +1,13 @@
+{{- $url := .Permalink -}}
+{{- $title := .Title -}}
+<footer class="post-share" aria-label="Share this article">
+    <p>
+        <strong>Share this:</strong>
+        <a href="https://www.addtoany.com/add_to/hacker_news?linkurl={{ $url | urlquery }}&amp;linkname={{ $title | urlquery }}" target="_blank" rel="noopener noreferrer">hacker news</a>,
+        <a href="https://www.addtoany.com/add_to/bluesky?linkurl={{ $url | urlquery }}&amp;linkname={{ $title | urlquery }}" target="_blank" rel="noopener noreferrer">bluesky</a>,
+        <a href="https://www.addtoany.com/add_to/mastodon?linkurl={{ $url | urlquery }}&amp;linkname={{ $title | urlquery }}" target="_blank" rel="noopener noreferrer">mastodon</a>,
+        <a href="https://www.addtoany.com/add_to/x?linkurl={{ $url | urlquery }}&amp;linkname={{ $title | urlquery }}" target="_blank" rel="noopener noreferrer">x</a>,
+        <a href="https://www.addtoany.com/add_to/email?linkurl={{ $url | urlquery }}&amp;linkname={{ $title | urlquery }}" target="_blank" rel="noopener noreferrer">email</a>,
+        <a href="https://www.addtoany.com/add_to/whatsapp?linkurl={{ $url | urlquery }}&amp;linkname={{ $title | urlquery }}" target="_blank" rel="noopener noreferrer">whatsapp</a>.
+    </p>
+</footer>
