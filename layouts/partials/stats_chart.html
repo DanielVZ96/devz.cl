@@ -1,0 +1,55 @@
+{{ $days := sort .days "date" }}
+{{ $source := .source }}
+{{ $metric := .metric }}
+{{ $max := 1 }}
+{{ range $days }}
+  {{ $max = math.Max $max (index (index . $source) $metric) }}
+{{ end }}
+{{ $decades := int (math.Max 1 (math.Ceil (div (math.Log $max) (math.Log 10)))) }}
+{{ $logUpper := math.Log (add (math.Pow 10 $decades) 1) }}
+{{ $logTicks := slice 0 }}
+{{ if le $decades 2 }}{{ $logTicks = $logTicks | append 1 }}{{ end }}
+{{ range seq 1 $decades }}{{ $logTicks = $logTicks | append (math.Pow 10 .) }}{{ end }}
+{{ $stepBase := math.Max 1 (math.Pow 10 (math.Floor (div (math.Log (div $max 4.0)) (math.Log 10)))) }}
+{{ $step := mul $stepBase (math.Ceil (div (div $max 4.0) $stepBase)) }}
+{{ $linearUpper := mul $step (math.Ceil (div $max $step)) }}
+{{ $linearTicks := slice 0 }}
+{{ range seq 1 (int (div $linearUpper $step)) }}{{ $linearTicks = $linearTicks | append (mul . $step) }}{{ end }}
+<figure class="stats-chart">
+  <figcaption>{{ .label }} · daily (UTC)</figcaption>
+  {{ range slice "logarithmic" "linear" }}
+    {{ $logarithmic := eq . "logarithmic" }}
+    {{ $ticks := $linearTicks }}
+    {{ if $logarithmic }}{{ $ticks = $logTicks }}{{ end }}
+    <div data-stats-chart-view="{{ . }}" {{ if $logarithmic }}hidden{{ end }}>
+      <p class="stats-chart-scale">{{ if $logarithmic }}Logarithmic y-axis: log10(count + 1){{ else }}Linear y-axis{{ end }}</p>
+      <div class="stats-chart-plot">
+        <div class="stats-chart-axis" aria-hidden="true">
+          {{ range $ticks }}
+            {{ $ratio := div . $linearUpper }}
+            {{ if $logarithmic }}{{ $ratio = div (math.Log (add . 1)) $logUpper }}{{ end }}
+            <span style="bottom: {{ mul 100 $ratio }}%">{{ lang.FormatNumber 0 . }}</span>
+          {{ end }}
+        </div>
+        <svg viewBox="0 0 560 200" preserveAspectRatio="none" role="img" aria-label="{{ $.label }} per day on a {{ . }} y-axis{{ if $logarithmic }}, log10(count + 1){{ end }}. Exact values are in the daily data table below.">
+          {{ range $ticks }}
+            {{ $ratio := div . $linearUpper }}
+            {{ if $logarithmic }}{{ $ratio = div (math.Log (add . 1)) $logUpper }}{{ end }}
+            <path d="M 0 {{ sub 200 (mul 200 $ratio) }} H 560" fill="none" stroke="currentColor" class="stats-chart-grid" />
+          {{ end }}
+          {{ $width := div 560.0 (len $days) }}
+          {{ range $i, $day := $days }}
+            {{ $value := index (index $day $source) $metric }}
+            {{ $ratio := div (float $value) $linearUpper }}
+            {{ if $logarithmic }}{{ $ratio = div (math.Log (add (float $value) 1)) $logUpper }}{{ end }}
+            {{ $height := mul 200 $ratio }}
+            <rect x="{{ add (mul $width 0.2) (mul $i $width) }}" y="{{ sub 200 $height }}" width="{{ mul $width 0.55 }}" height="{{ $height }}" fill="currentColor">
+              <title>{{ $day.date }}: {{ lang.FormatNumber 0 $value }} {{ $.label }}</title>
+            </rect>
+          {{ end }}
+        </svg>
+      </div>
+    </div>
+  {{ end }}
+  <div class="stats-chart-dates"><span>{{ time.Format "2 Jan" (index $days 0).date }}</span><span>{{ time.Format "2 Jan" (index $days (sub (len $days) 1)).date }}</span></div>
+</figure>

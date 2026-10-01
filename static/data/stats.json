@@ -1,0 +1,6063 @@
+{
+  "updated_at": "2026-10-01",
+  "months": [
+    {
+      "month": "2026-09",
+      "plausible": {
+        "visitors": 899,
+        "visits": 958,
+        "pageviews": 1392,
+        "paths": [
+          {
+            "visitors": 612,
+            "visits": 649,
+            "pageviews": 703,
+            "path": "/posts/i-spent-my-vacations-de-brainrotting/"
+          },
+          {
+            "visitors": 99,
+            "visits": 107,
+            "pageviews": 209,
+            "path": "/"
+          },
+          {
+            "visitors": 72,
+            "visits": 76,
+            "pageviews": 83,
+            "path": "/posts/how-to-write/"
+          },
+          {
+            "visitors": 57,
+            "visits": 57,
+            "pageviews": 59,
+            "path": "/posts/the-lost-tech-in-contemporary-clothing/"
+          },
+          {
+            "visitors": 52,
+            "visits": 56,
+            "pageviews": 61,
+            "path": "/posts/software-agnostic-window-manager-setup/"
+          },
+          {
+            "visitors": 33,
+            "visits": 33,
+            "pageviews": 39,
+            "path": "/posts/childhood-stories/"
+          },
+          {
+            "visitors": 28,
+            "visits": 30,
+            "pageviews": 33,
+            "path": "/posts/my-hyper-productivity-routine/"
+          },
+          {
+            "visitors": 26,
+            "visits": 26,
+            "pageviews": 37,
+            "path": "/posts/"
+          },
+          {
+            "visitors": 25,
+            "visits": 26,
+            "pageviews": 29,
+            "path": "/about/"
+          },
+          {
+            "visitors": 15,
+            "visits": 15,
+            "pageviews": 15,
+            "path": "/posts/why-read/"
+          },
+          {
+            "visitors": 13,
+            "visits": 13,
+            "pageviews": 15,
+            "path": "/posts/do-babies-dream-of-electric-sheep/"
+          },
+          {
+            "visitors": 13,
+            "visits": 13,
+            "pageviews": 17,
+            "path": "/posts/re-on-eating-fruit-skins/"
+          },
+          {
+            "visitors": 13,
+            "visits": 13,
+            "pageviews": 14,
+            "path": "/posts/grief/"
+          },
+          {
+            "visitors": 13,
+            "visits": 13,
+            "pageviews": 18,
+            "path": "/todo/"
+          },
+          {
+            "visitors": 9,
+            "visits": 9,
+            "pageviews": 10,
+            "path": "/posts/solid-never-felt-solid/"
+          },
+          {
+            "visitors": 7,
+            "visits": 7,
+            "pageviews": 7,
+            "path": "/posts/english-or-spanish-both/"
+          },
+          {
+            "visitors": 6,
+            "visits": 6,
+            "pageviews": 6,
+            "path": "/posts/i-m-tired/"
+          },
+          {
+            "visitors": 6,
+            "visits": 6,
+            "pageviews": 6,
+            "path": "/posts/i-started-using-pencil-and-paper/"
+          },
+          {
+            "visitors": 6,
+            "visits": 6,
+            "pageviews": 6,
+            "path": "/posts/who-am-i/"
+          },
+          {
+            "visitors": 4,
+            "visits": 4,
+            "pageviews": 6,
+            "path": "/posts/all-my-post-ideas-for-august/"
+          },
+          {
+            "visitors": 3,
+            "visits": 3,
+            "pageviews": 3,
+            "path": "/posts/reading-is-the-closest-thing-we-have-to-telepathy/"
+          },
+          {
+            "visitors": 3,
+            "visits": 3,
+            "pageviews": 5,
+            "path": "/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/"
+          },
+          {
+            "visitors": 2,
+            "visits": 2,
+            "pageviews": 3,
+            "path": "/posts/acronym-fatigue-series-cap-acid-etl-elt/"
+          },
+          {
+            "visitors": 2,
+            "visits": 2,
+            "pageviews": 2,
+            "path": "/posts/i-m-replacing-my-emdash-usage-with-commas/"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 1,
+            "path": "/posts/what-if-mario-had-a-gun/"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 1,
+            "path": "/posts/hello-world/"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 1,
+            "path": "/grownapp/marketing/"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 1,
+            "path": "/posts/axiom-proper-project-tether/"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 1,
+            "path": "/posts/how-to-learn-to-code-in-the-age-of-ai/"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 1,
+            "path": "/posts/spacesort-fastest-sorting-algorithm-rust/"
+          }
+        ],
+        "sources": [
+          {
+            "visitors": 354,
+            "visits": 383,
+            "pageviews": 646,
+            "source": "Direct / None"
+          },
+          {
+            "visitors": 168,
+            "visits": 174,
+            "pageviews": 241,
+            "source": "Hacker News"
+          },
+          {
+            "visitors": 162,
+            "visits": 166,
+            "pageviews": 193,
+            "source": "hackernewsletter"
+          },
+          {
+            "visitors": 72,
+            "visits": 75,
+            "pageviews": 99,
+            "source": "substack"
+          },
+          {
+            "visitors": 63,
+            "visits": 76,
+            "pageviews": 99,
+            "source": "tldrnewsletter"
+          },
+          {
+            "visitors": 32,
+            "visits": 32,
+            "pageviews": 35,
+            "source": "Kagi"
+          },
+          {
+            "visitors": 8,
+            "visits": 8,
+            "pageviews": 13,
+            "source": "Google"
+          },
+          {
+            "visitors": 7,
+            "visits": 7,
+            "pageviews": 10,
+            "source": "registerspill.thorstenball.com"
+          },
+          {
+            "visitors": 5,
+            "visits": 5,
+            "pageviews": 5,
+            "source": "substack.com"
+          },
+          {
+            "visitors": 4,
+            "visits": 4,
+            "pageviews": 4,
+            "source": "hckrnews.com"
+          },
+          {
+            "visitors": 3,
+            "visits": 3,
+            "pageviews": 4,
+            "source": "indieweb.org"
+          },
+          {
+            "visitors": 3,
+            "visits": 3,
+            "pageviews": 3,
+            "source": "refactoring.fm"
+          },
+          {
+            "visitors": 2,
+            "visits": 2,
+            "pageviews": 14,
+            "source": "Reddit"
+          },
+          {
+            "visitors": 2,
+            "visits": 2,
+            "pageviews": 2,
+            "source": "instapaper.com"
+          },
+          {
+            "visitors": 2,
+            "visits": 2,
+            "pageviews": 5,
+            "source": "acdw.net"
+          },
+          {
+            "visitors": 2,
+            "visits": 2,
+            "pageviews": 2,
+            "source": "news.hada.io"
+          },
+          {
+            "visitors": 2,
+            "visits": 2,
+            "pageviews": 2,
+            "source": "hnblogs.substack.com"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 1,
+            "source": "powrss.com"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 4,
+            "source": "zona-m.net"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 1,
+            "source": "read.readwise.io"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 1,
+            "source": "theoldreader.com"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 1,
+            "source": "Bluesky"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 1,
+            "source": "newsblur.com"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 1,
+            "source": "inoreader.com"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 1,
+            "source": "johnjohnston.info"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 1,
+            "source": "rememberthemilk.com"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 1,
+            "source": "wallabag.galati.dev"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 1,
+            "source": "Telegram"
+          },
+          {
+            "visitors": 1,
+            "visits": 1,
+            "pageviews": 1,
+            "source": "geocitiestimes-h2daaffnehapbhav.eastus2-01.azurewebsites.net"
+          }
+        ]
+      },
+      "cloudflare": {
+        "requests": 912789,
+        "cached_requests": 361948,
+        "bandwidth_bytes": 50677269248
+      },
+      "cloudflare_web": {
+        "pageviews": 33250,
+        "visits": 29600,
+        "sample_interval": 10.121765601217657,
+        "paths": [
+          {
+            "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+            "pageviews": 24300,
+            "visits": 23690,
+            "sample_interval": 10.012360939431396
+          },
+          {
+            "path": "/posts/how-to-write/",
+            "pageviews": 3680,
+            "visits": 3590,
+            "sample_interval": 10.02724795640327
+          },
+          {
+            "path": "/",
+            "pageviews": 2130,
+            "visits": 690,
+            "sample_interval": 10.923076923076923
+          },
+          {
+            "path": "/about/",
+            "pageviews": 400,
+            "visits": 0,
+            "sample_interval": 11.11111111111111
+          },
+          {
+            "path": "/posts/childhood-stories/",
+            "pageviews": 310,
+            "visits": 310,
+            "sample_interval": 10
+          },
+          {
+            "path": "/posts/software-agnostic-window-manager-setup/",
+            "pageviews": 280,
+            "visits": 270,
+            "sample_interval": 10
+          },
+          {
+            "path": "/posts/",
+            "pageviews": 250,
+            "visits": 20,
+            "sample_interval": 10.869565217391305
+          },
+          {
+            "path": "/posts/grief/",
+            "pageviews": 200,
+            "visits": 170,
+            "sample_interval": 10
+          },
+          {
+            "path": "/posts/english-or-spanish-both/",
+            "pageviews": 180,
+            "visits": 120,
+            "sample_interval": 10
+          },
+          {
+            "path": "/posts/solid-never-felt-solid/",
+            "pageviews": 160,
+            "visits": 50,
+            "sample_interval": 10
+          },
+          {
+            "path": "/posts/why-read/",
+            "pageviews": 160,
+            "visits": 160,
+            "sample_interval": 10
+          },
+          {
+            "path": "/posts/the-lost-tech-in-contemporary-clothing/",
+            "pageviews": 160,
+            "visits": 160,
+            "sample_interval": 10
+          },
+          {
+            "path": "/todo/",
+            "pageviews": 160,
+            "visits": 0,
+            "sample_interval": 10.666666666666666
+          },
+          {
+            "path": "/posts/i-m-tired/",
+            "pageviews": 120,
+            "visits": 0,
+            "sample_interval": 12
+          },
+          {
+            "path": "/posts/all-my-post-ideas-for-august/",
+            "pageviews": 110,
+            "visits": 0,
+            "sample_interval": 11
+          },
+          {
+            "path": "/posts/re-on-eating-fruit-skins/",
+            "pageviews": 100,
+            "visits": 70,
+            "sample_interval": 11.11111111111111
+          },
+          {
+            "path": "/posts/i-started-using-pencil-and-paper/",
+            "pageviews": 60,
+            "visits": 40,
+            "sample_interval": 12
+          },
+          {
+            "path": "/posts/who-am-i/",
+            "pageviews": 60,
+            "visits": 20,
+            "sample_interval": 12
+          },
+          {
+            "path": "/posts/acronym-fatigue-series-cap-acid-etl-elt/",
+            "pageviews": 50,
+            "visits": 30,
+            "sample_interval": 12.5
+          },
+          {
+            "path": "/posts/acronym-fatigue-series-dry-kiss-yagni/",
+            "pageviews": 50,
+            "visits": 0,
+            "sample_interval": 12.5
+          },
+          {
+            "path": "/posts/i-m-replacing-my-emdash-usage-with-commas/",
+            "pageviews": 40,
+            "visits": 10,
+            "sample_interval": 13.333333333333334
+          },
+          {
+            "path": "/posts/reading-is-the-closest-thing-we-have-to-telepathy/",
+            "pageviews": 30,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "path": "/posts/hello-world/",
+            "pageviews": 30,
+            "visits": 0,
+            "sample_interval": 10
+          },
+          {
+            "path": "/categories/",
+            "pageviews": 30,
+            "visits": 30,
+            "sample_interval": 30
+          },
+          {
+            "path": "/posts/my-hyper-productivity-routine/",
+            "pageviews": 30,
+            "visits": 20,
+            "sample_interval": 10
+          },
+          {
+            "path": "/posts/trying-out-the-glaze-app/",
+            "pageviews": 30,
+            "visits": 30,
+            "sample_interval": 10
+          },
+          {
+            "path": "/posts/do-babies-dream-of-electric-sheep/",
+            "pageviews": 20,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "path": "/posts/axiom-proper-project-tether/",
+            "pageviews": 20,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "path": "/tags/",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "path": "/tags/shorts/",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "path": "/categories/notes/",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "path": "/tags/notes/",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "path": "/tags/coding/",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "path": "/posts/how-to-learn-to-code-in-the-age-of-ai/",
+            "pageviews": 10,
+            "visits": 0,
+            "sample_interval": 10
+          },
+          {
+            "path": "/posts/i-spent-my-vacations-de-brainrotting",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "path": "/tags/thoughts/",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "path": "/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "path": "/utxyxdn-xujsy-rD-Afhfyntsx-ij-gwfnswtyynsld",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          }
+        ],
+        "sources": [
+          {
+            "source": "news.ycombinator.com",
+            "pageviews": 13970,
+            "visits": 13970,
+            "sample_interval": 10
+          },
+          {
+            "source": "",
+            "pageviews": 12180,
+            "visits": 12180,
+            "sample_interval": 10.016447368421053
+          },
+          {
+            "source": "devz.cl",
+            "pageviews": 3650,
+            "visits": 0,
+            "sample_interval": 11.128048780487806
+          },
+          {
+            "source": "kagi.com",
+            "pageviews": 1110,
+            "visits": 1110,
+            "sample_interval": 10
+          },
+          {
+            "source": "app.usepanda.com",
+            "pageviews": 690,
+            "visits": 690,
+            "sample_interval": 10.147058823529411
+          },
+          {
+            "source": "hckrnews.com",
+            "pageviews": 450,
+            "visits": 450,
+            "sample_interval": 10
+          },
+          {
+            "source": "com.google.android.gm",
+            "pageviews": 210,
+            "visits": 210,
+            "sample_interval": 10
+          },
+          {
+            "source": "mail.google.com",
+            "pageviews": 150,
+            "visits": 150,
+            "sample_interval": 10
+          },
+          {
+            "source": "substack.com",
+            "pageviews": 100,
+            "visits": 100,
+            "sample_interval": 10
+          },
+          {
+            "source": "www.google.com",
+            "pageviews": 90,
+            "visits": 90,
+            "sample_interval": 10
+          },
+          {
+            "source": "brutalist.report",
+            "pageviews": 60,
+            "visits": 60,
+            "sample_interval": 10
+          },
+          {
+            "source": "a.tldrnewsletter.com",
+            "pageviews": 60,
+            "visits": 60,
+            "sample_interval": 10
+          },
+          {
+            "source": "io.github.hidroh.materialistic",
+            "pageviews": 50,
+            "visits": 50,
+            "sample_interval": 10
+          },
+          {
+            "source": "buttondown.com",
+            "pageviews": 40,
+            "visits": 40,
+            "sample_interval": 10
+          },
+          {
+            "source": "www.daemonology.net",
+            "pageviews": 30,
+            "visits": 30,
+            "sample_interval": 10
+          },
+          {
+            "source": "pinboard.in",
+            "pageviews": 20,
+            "visits": 20,
+            "sample_interval": 10
+          },
+          {
+            "source": "link.edgepilot.com",
+            "pageviews": 20,
+            "visits": 20,
+            "sample_interval": 10
+          },
+          {
+            "source": "jimmyr.com",
+            "pageviews": 20,
+            "visits": 20,
+            "sample_interval": 10
+          },
+          {
+            "source": "www.reddit.com",
+            "pageviews": 20,
+            "visits": 20,
+            "sample_interval": 10
+          },
+          {
+            "source": "skimfeed.com",
+            "pageviews": 20,
+            "visits": 20,
+            "sample_interval": 10
+          },
+          {
+            "source": "www.inoreader.com",
+            "pageviews": 20,
+            "visits": 20,
+            "sample_interval": 10
+          },
+          {
+            "source": "hn.premii.com",
+            "pageviews": 20,
+            "visits": 20,
+            "sample_interval": 10
+          },
+          {
+            "source": "www.facebook.com",
+            "pageviews": 20,
+            "visits": 20,
+            "sample_interval": 10
+          },
+          {
+            "source": "cn.bing.com",
+            "pageviews": 20,
+            "visits": 20,
+            "sample_interval": 10
+          },
+          {
+            "source": "github.com",
+            "pageviews": 20,
+            "visits": 20,
+            "sample_interval": 10
+          },
+          {
+            "source": "cas5-0-urlprotect.trendmicro.com",
+            "pageviews": 20,
+            "visits": 20,
+            "sample_interval": 10
+          },
+          {
+            "source": "hn.algolia.com",
+            "pageviews": 20,
+            "visits": 20,
+            "sample_interval": 10
+          },
+          {
+            "source": "us-west-2.protection.sophos.com",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "source": "s.muz.li",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "source": "www.zainulabideen.workers.dev",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "source": "news.hada.io",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "source": "www.instapaper.com",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "source": "wx.mail.qq.com",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "source": "outlook.live.com",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "source": "toot.community",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "source": "lotusreader.netlify.app",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "source": "l.instagram.com",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "source": "m.baidu.com",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "source": "www.buzzing.cc",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "source": "kor1.samsung.net",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "source": "hntoplinks.com",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "source": "go.bsky.app",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "source": "read.readwise.io",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          },
+          {
+            "source": "www.linkedin.com",
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10
+          }
+        ]
+      },
+      "days": [
+        {
+          "date": "2026-09-01",
+          "plausible": {
+            "visitors": 0,
+            "visits": 0,
+            "pageviews": 0,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare_web": {
+            "pageviews": 10,
+            "visits": 10,
+            "sample_interval": 10,
+            "paths": [
+              {
+                "path": "/posts/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 2346,
+            "cached_requests": 11,
+            "bandwidth_bytes": 90088200
+          }
+        },
+        {
+          "date": "2026-09-02",
+          "plausible": {
+            "visitors": 0,
+            "visits": 0,
+            "pageviews": 0,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare_web": {
+            "pageviews": 40,
+            "visits": 40,
+            "sample_interval": 20,
+            "paths": [
+              {
+                "path": "/categories/",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 30
+              },
+              {
+                "path": "/posts/axiom-proper-project-tether/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "",
+                "pageviews": 40,
+                "visits": 40,
+                "sample_interval": 20
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 2209,
+            "cached_requests": 41,
+            "bandwidth_bytes": 32862739
+          }
+        },
+        {
+          "date": "2026-09-03",
+          "plausible": {
+            "visitors": 0,
+            "visits": 0,
+            "pageviews": 0,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare_web": {
+            "pageviews": 0,
+            "visits": 0,
+            "sample_interval": null,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare": {
+            "requests": 4183,
+            "cached_requests": 27,
+            "bandwidth_bytes": 24420911
+          }
+        },
+        {
+          "date": "2026-09-04",
+          "plausible": {
+            "visitors": 0,
+            "visits": 0,
+            "pageviews": 0,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare_web": {
+            "pageviews": 0,
+            "visits": 0,
+            "sample_interval": null,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare": {
+            "requests": 1429,
+            "cached_requests": 19,
+            "bandwidth_bytes": 81687790
+          }
+        },
+        {
+          "date": "2026-09-05",
+          "plausible": {
+            "visitors": 0,
+            "visits": 0,
+            "pageviews": 0,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare_web": {
+            "pageviews": 0,
+            "visits": 0,
+            "sample_interval": null,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare": {
+            "requests": 1526,
+            "cached_requests": 5,
+            "bandwidth_bytes": 8326567
+          }
+        },
+        {
+          "date": "2026-09-06",
+          "plausible": {
+            "visitors": 0,
+            "visits": 0,
+            "pageviews": 0,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare_web": {
+            "pageviews": 0,
+            "visits": 0,
+            "sample_interval": null,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare": {
+            "requests": 1845,
+            "cached_requests": 4,
+            "bandwidth_bytes": 8699259
+          }
+        },
+        {
+          "date": "2026-09-07",
+          "plausible": {
+            "visitors": 0,
+            "visits": 0,
+            "pageviews": 0,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare_web": {
+            "pageviews": 16130,
+            "visits": 14230,
+            "sample_interval": 10.170239596469104,
+            "paths": [
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 14510,
+                "visits": 14090,
+                "sample_interval": 10.013802622498275
+              },
+              {
+                "path": "/",
+                "pageviews": 890,
+                "visits": 110,
+                "sample_interval": 11.866666666666667
+              },
+              {
+                "path": "/about/",
+                "pageviews": 230,
+                "visits": 0,
+                "sample_interval": 11.5
+              },
+              {
+                "path": "/posts/",
+                "pageviews": 140,
+                "visits": 0,
+                "sample_interval": 11.666666666666666
+              },
+              {
+                "path": "/todo/",
+                "pageviews": 70,
+                "visits": 0,
+                "sample_interval": 11.666666666666666
+              },
+              {
+                "path": "/posts/i-m-tired/",
+                "pageviews": 60,
+                "visits": 0,
+                "sample_interval": 12
+              },
+              {
+                "path": "/posts/acronym-fatigue-series-dry-kiss-yagni/",
+                "pageviews": 50,
+                "visits": 0,
+                "sample_interval": 12.5
+              },
+              {
+                "path": "/posts/all-my-post-ideas-for-august/",
+                "pageviews": 40,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/i-m-replacing-my-emdash-usage-with-commas/",
+                "pageviews": 30,
+                "visits": 0,
+                "sample_interval": 15
+              },
+              {
+                "path": "/posts/i-started-using-pencil-and-paper/",
+                "pageviews": 30,
+                "visits": 10,
+                "sample_interval": 15
+              },
+              {
+                "path": "/posts/acronym-fatigue-series-cap-acid-etl-elt/",
+                "pageviews": 20,
+                "visits": 0,
+                "sample_interval": 20
+              },
+              {
+                "path": "/posts/who-am-i/",
+                "pageviews": 20,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/solid-never-felt-solid/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/how-to-learn-to-code-in-the-age-of-ai/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/hello-world/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 9590,
+                "visits": 9590,
+                "sample_interval": 10
+              },
+              {
+                "source": "",
+                "pageviews": 3490,
+                "visits": 3490,
+                "sample_interval": 10
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 1900,
+                "visits": 0,
+                "sample_interval": 11.585365853658537
+              },
+              {
+                "source": "app.usepanda.com",
+                "pageviews": 680,
+                "visits": 680,
+                "sample_interval": 10.149253731343284
+              },
+              {
+                "source": "hckrnews.com",
+                "pageviews": 180,
+                "visits": 180,
+                "sample_interval": 10
+              },
+              {
+                "source": "io.github.hidroh.materialistic",
+                "pageviews": 50,
+                "visits": 50,
+                "sample_interval": 10
+              },
+              {
+                "source": "brutalist.report",
+                "pageviews": 40,
+                "visits": 40,
+                "sample_interval": 10
+              },
+              {
+                "source": "cn.bing.com",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "source": "jimmyr.com",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "source": "skimfeed.com",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "source": "www.facebook.com",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "source": "github.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "go.bsky.app",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "l.instagram.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "lotusreader.netlify.app",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "www.inoreader.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "www.zainulabideen.workers.dev",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "s.muz.li",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "hn.algolia.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "www.google.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "hn.premii.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "toot.community",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "www.buzzing.cc",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 402283,
+            "cached_requests": 232347,
+            "bandwidth_bytes": 19278666189
+          }
+        },
+        {
+          "date": "2026-09-08",
+          "plausible": {
+            "visitors": 0,
+            "visits": 0,
+            "pageviews": 0,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare_web": {
+            "pageviews": 6140,
+            "visits": 5680,
+            "sample_interval": 10.049099836333879,
+            "paths": [
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 5430,
+                "visits": 5380,
+                "sample_interval": 10
+              },
+              {
+                "path": "/",
+                "pageviews": 470,
+                "visits": 230,
+                "sample_interval": 10.444444444444445
+              },
+              {
+                "path": "/about/",
+                "pageviews": 70,
+                "visits": 0,
+                "sample_interval": 11.666666666666666
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 50,
+                "visits": 50,
+                "sample_interval": 10
+              },
+              {
+                "path": "/todo/",
+                "pageviews": 30,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/",
+                "pageviews": 30,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/all-my-post-ideas-for-august/",
+                "pageviews": 30,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/i-started-using-pencil-and-paper/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/i-m-tired/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/utxyxdn-xujsy-rD-Afhfyntsx-ij-gwfnswtyynsld",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "",
+                "pageviews": 4050,
+                "visits": 4050,
+                "sample_interval": 10
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 1140,
+                "visits": 1140,
+                "sample_interval": 10
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 460,
+                "visits": 0,
+                "sample_interval": 10.69767441860465
+              },
+              {
+                "source": "hckrnews.com",
+                "pageviews": 180,
+                "visits": 180,
+                "sample_interval": 10
+              },
+              {
+                "source": "com.google.android.gm",
+                "pageviews": 110,
+                "visits": 110,
+                "sample_interval": 10
+              },
+              {
+                "source": "a.tldrnewsletter.com",
+                "pageviews": 50,
+                "visits": 50,
+                "sample_interval": 10
+              },
+              {
+                "source": "mail.google.com",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "source": "brutalist.report",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "source": "www.google.com",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "source": "www.daemonology.net",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "source": "link.edgepilot.com",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "source": "github.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "hntoplinks.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "www.reddit.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "outlook.live.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "hn.algolia.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 115164,
+            "cached_requests": 46654,
+            "bandwidth_bytes": 5358302927
+          }
+        },
+        {
+          "date": "2026-09-09",
+          "plausible": {
+            "visitors": 0,
+            "visits": 0,
+            "pageviews": 0,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare_web": {
+            "pageviews": 1020,
+            "visits": 910,
+            "sample_interval": 10,
+            "paths": [
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 870,
+                "visits": 860,
+                "sample_interval": 10
+              },
+              {
+                "path": "/",
+                "pageviews": 90,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "path": "/todo/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/tags/notes/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/all-my-post-ideas-for-august/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/about/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "",
+                "pageviews": 650,
+                "visits": 650,
+                "sample_interval": 10
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 190,
+                "visits": 190,
+                "sample_interval": 10
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 110,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "source": "hckrnews.com",
+                "pageviews": 40,
+                "visits": 40,
+                "sample_interval": 10
+              },
+              {
+                "source": "mail.google.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "kor1.samsung.net",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "www.linkedin.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 34082,
+            "cached_requests": 10279,
+            "bandwidth_bytes": 2027122248
+          }
+        },
+        {
+          "date": "2026-09-10",
+          "plausible": {
+            "visitors": 0,
+            "visits": 0,
+            "pageviews": 0,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare_web": {
+            "pageviews": 3360,
+            "visits": 2790,
+            "sample_interval": 10.09009009009009,
+            "paths": [
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 2330,
+                "visits": 2290,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 460,
+                "visits": 370,
+                "sample_interval": 10.222222222222221
+              },
+              {
+                "path": "/",
+                "pageviews": 220,
+                "visits": 100,
+                "sample_interval": 10.476190476190476
+              },
+              {
+                "path": "/posts/english-or-spanish-both/",
+                "pageviews": 80,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/solid-never-felt-solid/",
+                "pageviews": 70,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/about/",
+                "pageviews": 60,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/todo/",
+                "pageviews": 50,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/",
+                "pageviews": 30,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/i-m-tired/",
+                "pageviews": 30,
+                "visits": 0,
+                "sample_interval": 15
+              },
+              {
+                "path": "/posts/do-babies-dream-of-electric-sheep/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/reading-is-the-closest-thing-we-have-to-telepathy/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/all-my-post-ideas-for-august/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 1940,
+                "visits": 1940,
+                "sample_interval": 10
+              },
+              {
+                "source": "",
+                "pageviews": 810,
+                "visits": 810,
+                "sample_interval": 10
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 570,
+                "visits": 0,
+                "sample_interval": 10.555555555555555
+              },
+              {
+                "source": "hckrnews.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "mail.google.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "news.hada.io",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "hn.premii.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 106680,
+            "cached_requests": 38947,
+            "bandwidth_bytes": 11711102666
+          }
+        },
+        {
+          "date": "2026-09-11",
+          "plausible": {
+            "visitors": 0,
+            "visits": 0,
+            "pageviews": 0,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare_web": {
+            "pageviews": 1820,
+            "visits": 1670,
+            "sample_interval": 10.11111111111111,
+            "paths": [
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 940,
+                "visits": 920,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 690,
+                "visits": 660,
+                "sample_interval": 10.147058823529411
+              },
+              {
+                "path": "/",
+                "pageviews": 130,
+                "visits": 70,
+                "sample_interval": 10.833333333333334
+              },
+              {
+                "path": "/posts/solid-never-felt-solid/",
+                "pageviews": 30,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/hello-world/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/i-m-replacing-my-emdash-usage-with-commas/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/about/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "",
+                "pageviews": 880,
+                "visits": 880,
+                "sample_interval": 10
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 550,
+                "visits": 550,
+                "sample_interval": 10
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 150,
+                "visits": 0,
+                "sample_interval": 11.538461538461538
+              },
+              {
+                "source": "mail.google.com",
+                "pageviews": 80,
+                "visits": 80,
+                "sample_interval": 10
+              },
+              {
+                "source": "com.google.android.gm",
+                "pageviews": 40,
+                "visits": 40,
+                "sample_interval": 10
+              },
+              {
+                "source": "kagi.com",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "source": "buttondown.com",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "source": "app.usepanda.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "hckrnews.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "m.baidu.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "www.reddit.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "wx.mail.qq.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "us-west-2.protection.sophos.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "www.google.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 57816,
+            "cached_requests": 17227,
+            "bandwidth_bytes": 4708975089
+          }
+        },
+        {
+          "date": "2026-09-12",
+          "plausible": {
+            "visitors": 0,
+            "visits": 0,
+            "pageviews": 0,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare_web": {
+            "pageviews": 850,
+            "visits": 740,
+            "sample_interval": 10.119047619047619,
+            "paths": [
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 470,
+                "visits": 470,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 170,
+                "visits": 170,
+                "sample_interval": 10
+              },
+              {
+                "path": "/",
+                "pageviews": 70,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/english-or-spanish-both/",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/trying-out-the-glaze-app/",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/all-my-post-ideas-for-august/",
+                "pageviews": 20,
+                "visits": 0,
+                "sample_interval": 20
+              },
+              {
+                "path": "/posts/solid-never-felt-solid/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/reading-is-the-closest-thing-we-have-to-telepathy/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/axiom-proper-project-tether/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/i-started-using-pencil-and-paper/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/i-m-tired/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "",
+                "pageviews": 400,
+                "visits": 400,
+                "sample_interval": 10
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 160,
+                "visits": 160,
+                "sample_interval": 10
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 110,
+                "visits": 0,
+                "sample_interval": 11
+              },
+              {
+                "source": "www.google.com",
+                "pageviews": 40,
+                "visits": 40,
+                "sample_interval": 10
+              },
+              {
+                "source": "com.google.android.gm",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "source": "kagi.com",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "source": "substack.com",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "source": "read.readwise.io",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "a.tldrnewsletter.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "hckrnews.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "www.daemonology.net",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "pinboard.in",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "buttondown.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 30624,
+            "cached_requests": 8164,
+            "bandwidth_bytes": 2314886878
+          }
+        },
+        {
+          "date": "2026-09-13",
+          "plausible": {
+            "visitors": 0,
+            "visits": 0,
+            "pageviews": 0,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare_web": {
+            "pageviews": 650,
+            "visits": 570,
+            "sample_interval": 10,
+            "paths": [
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 390,
+                "visits": 380,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 110,
+                "visits": 110,
+                "sample_interval": 10
+              },
+              {
+                "path": "/",
+                "pageviews": 50,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/re-on-eating-fruit-skins/",
+                "pageviews": 40,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/english-or-spanish-both/",
+                "pageviews": 40,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/reading-is-the-closest-thing-we-have-to-telepathy/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/about/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "",
+                "pageviews": 360,
+                "visits": 360,
+                "sample_interval": 10
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 80,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "source": "kagi.com",
+                "pageviews": 70,
+                "visits": 70,
+                "sample_interval": 10
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 70,
+                "visits": 70,
+                "sample_interval": 10
+              },
+              {
+                "source": "substack.com",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "source": "com.google.android.gm",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "source": "mail.google.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "www.inoreader.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "pinboard.in",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 14901,
+            "cached_requests": 1347,
+            "bandwidth_bytes": 636860440
+          }
+        },
+        {
+          "date": "2026-09-14",
+          "plausible": {
+            "visitors": 0,
+            "visits": 0,
+            "pageviews": 0,
+            "paths": [],
+            "sources": []
+          },
+          "cloudflare_web": {
+            "pageviews": 590,
+            "visits": 510,
+            "sample_interval": 10.350877192982455,
+            "paths": [
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 240,
+                "visits": 240,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 100,
+                "visits": 100,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/grief/",
+                "pageviews": 70,
+                "visits": 70,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/english-or-spanish-both/",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "path": "/",
+                "pageviews": 20,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/acronym-fatigue-series-cap-acid-etl-elt/",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/re-on-eating-fruit-skins/",
+                "pageviews": 20,
+                "visits": 0,
+                "sample_interval": 20
+              },
+              {
+                "path": "/posts/who-am-i/",
+                "pageviews": 20,
+                "visits": 0,
+                "sample_interval": 20
+              },
+              {
+                "path": "/tags/thoughts/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/solid-never-felt-solid/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/categories/notes/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/tags/shorts/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/tags/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/tags/coding/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "",
+                "pageviews": 320,
+                "visits": 320,
+                "sample_interval": 10
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 80,
+                "visits": 80,
+                "sample_interval": 10
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 80,
+                "visits": 0,
+                "sample_interval": 13.333333333333334
+              },
+              {
+                "source": "kagi.com",
+                "pageviews": 50,
+                "visits": 50,
+                "sample_interval": 10
+              },
+              {
+                "source": "hckrnews.com",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "source": "substack.com",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "source": "mail.google.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "cas5-0-urlprotect.trendmicro.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 12683,
+            "cached_requests": 1551,
+            "bandwidth_bytes": 539812682
+          }
+        },
+        {
+          "date": "2026-09-15",
+          "plausible": {
+            "visitors": 56,
+            "visits": 63,
+            "pageviews": 106,
+            "paths": [
+              {
+                "visitors": 48,
+                "visits": 51,
+                "pageviews": 56,
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/"
+              },
+              {
+                "visitors": 8,
+                "visits": 11,
+                "pageviews": 23,
+                "path": "/"
+              },
+              {
+                "visitors": 5,
+                "visits": 7,
+                "pageviews": 8,
+                "path": "/posts/how-to-write/"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 6,
+                "path": "/posts/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 4,
+                "path": "/posts/re-on-eating-fruit-skins/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/grief/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/about/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 2,
+                "path": "/todo/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/who-am-i/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/do-babies-dream-of-electric-sheep/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/i-started-using-pencil-and-paper/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/spacesort-fastest-sorting-algorithm-rust/"
+              }
+            ],
+            "sources": [
+              {
+                "visitors": 18,
+                "visits": 18,
+                "pageviews": 24,
+                "source": "hackernewsletter"
+              },
+              {
+                "visitors": 18,
+                "visits": 23,
+                "pageviews": 59,
+                "source": "Direct / None"
+              },
+              {
+                "visitors": 10,
+                "visits": 10,
+                "pageviews": 11,
+                "source": "Hacker News"
+              },
+              {
+                "visitors": 4,
+                "visits": 6,
+                "pageviews": 6,
+                "source": "tldrnewsletter"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "substack"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "Kagi"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "theoldreader.com"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "indieweb.org"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "hckrnews.com"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "johnjohnston.info"
+              }
+            ]
+          },
+          "cloudflare_web": {
+            "pageviews": 370,
+            "visits": 330,
+            "sample_interval": 10,
+            "paths": [
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 230,
+                "visits": 230,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/grief/",
+                "pageviews": 40,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "path": "/",
+                "pageviews": 40,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/re-on-eating-fruit-skins/",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "",
+                "pageviews": 240,
+                "visits": 240,
+                "sample_interval": 10
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 50,
+                "visits": 50,
+                "sample_interval": 10
+              },
+              {
+                "source": "kagi.com",
+                "pageviews": 40,
+                "visits": 40,
+                "sample_interval": 10
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 40,
+                "visits": 0,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 9226,
+            "cached_requests": 543,
+            "bandwidth_bytes": 328825044
+          }
+        },
+        {
+          "date": "2026-09-16",
+          "plausible": {
+            "visitors": 83,
+            "visits": 90,
+            "pageviews": 151,
+            "paths": [
+              {
+                "visitors": 62,
+                "visits": 64,
+                "pageviews": 72,
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/"
+              },
+              {
+                "visitors": 13,
+                "visits": 15,
+                "pageviews": 30,
+                "path": "/"
+              },
+              {
+                "visitors": 7,
+                "visits": 8,
+                "pageviews": 10,
+                "path": "/posts/how-to-write/"
+              },
+              {
+                "visitors": 6,
+                "visits": 7,
+                "pageviews": 9,
+                "path": "/posts/software-agnostic-window-manager-setup/"
+              },
+              {
+                "visitors": 6,
+                "visits": 6,
+                "pageviews": 6,
+                "path": "/posts/childhood-stories/"
+              },
+              {
+                "visitors": 3,
+                "visits": 4,
+                "pageviews": 4,
+                "path": "/about/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 4,
+                "path": "/posts/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 6,
+                "path": "/todo/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/who-am-i/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/do-babies-dream-of-electric-sheep/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/grief/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/solid-never-felt-solid/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 2,
+                "path": "/posts/all-my-post-ideas-for-august/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/english-or-spanish-both/"
+              }
+            ],
+            "sources": [
+              {
+                "visitors": 34,
+                "visits": 34,
+                "pageviews": 47,
+                "source": "hackernewsletter"
+              },
+              {
+                "visitors": 28,
+                "visits": 31,
+                "pageviews": 66,
+                "source": "Direct / None"
+              },
+              {
+                "visitors": 10,
+                "visits": 12,
+                "pageviews": 15,
+                "source": "Hacker News"
+              },
+              {
+                "visitors": 5,
+                "visits": 5,
+                "pageviews": 7,
+                "source": "tldrnewsletter"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "source": "news.hada.io"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 5,
+                "source": "registerspill.thorstenball.com"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 4,
+                "source": "Reddit"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "substack"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "Google"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 3,
+                "source": "Kagi"
+              }
+            ]
+          },
+          "cloudflare_web": {
+            "pageviews": 300,
+            "visits": 290,
+            "sample_interval": 10,
+            "paths": [
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 120,
+                "visits": 120,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/childhood-stories/",
+                "pageviews": 80,
+                "visits": 80,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/grief/",
+                "pageviews": 50,
+                "visits": 50,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "path": "/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/re-on-eating-fruit-skins/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "",
+                "pageviews": 130,
+                "visits": 130,
+                "sample_interval": 10
+              },
+              {
+                "source": "kagi.com",
+                "pageviews": 130,
+                "visits": 130,
+                "sample_interval": 10
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 10066,
+            "cached_requests": 590,
+            "bandwidth_bytes": 422233935
+          }
+        },
+        {
+          "date": "2026-09-17",
+          "plausible": {
+            "visitors": 80,
+            "visits": 86,
+            "pageviews": 109,
+            "paths": [
+              {
+                "visitors": 45,
+                "visits": 47,
+                "pageviews": 50,
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/"
+              },
+              {
+                "visitors": 21,
+                "visits": 23,
+                "pageviews": 24,
+                "path": "/posts/software-agnostic-window-manager-setup/"
+              },
+              {
+                "visitors": 7,
+                "visits": 8,
+                "pageviews": 11,
+                "path": "/"
+              },
+              {
+                "visitors": 7,
+                "visits": 7,
+                "pageviews": 8,
+                "path": "/posts/how-to-write/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/grief/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 4,
+                "path": "/posts/re-on-eating-fruit-skins/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/childhood-stories/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/about/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/todo/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/solid-never-felt-solid/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/do-babies-dream-of-electric-sheep/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/reading-is-the-closest-thing-we-have-to-telepathy/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/i-started-using-pencil-and-paper/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/english-or-spanish-both/"
+              }
+            ],
+            "sources": [
+              {
+                "visitors": 35,
+                "visits": 39,
+                "pageviews": 57,
+                "source": "Direct / None"
+              },
+              {
+                "visitors": 21,
+                "visits": 22,
+                "pageviews": 23,
+                "source": "Hacker News"
+              },
+              {
+                "visitors": 14,
+                "visits": 15,
+                "pageviews": 15,
+                "source": "hackernewsletter"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 4,
+                "source": "Kagi"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "Telegram"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 4,
+                "source": "acdw.net"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "Google"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "powrss.com"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 2,
+                "source": "tldrnewsletter"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "newsblur.com"
+              }
+            ]
+          },
+          "cloudflare_web": {
+            "pageviews": 240,
+            "visits": 210,
+            "sample_interval": 10,
+            "paths": [
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 90,
+                "visits": 90,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/childhood-stories/",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/grief/",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "path": "/",
+                "pageviews": 20,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/solid-never-felt-solid/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/i-started-using-pencil-and-paper/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/software-agnostic-window-manager-setup/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/i-m-tired/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "",
+                "pageviews": 140,
+                "visits": 140,
+                "sample_interval": 10
+              },
+              {
+                "source": "kagi.com",
+                "pageviews": 40,
+                "visits": 40,
+                "sample_interval": 10
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 30,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "source": "www.google.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 8711,
+            "cached_requests": 531,
+            "bandwidth_bytes": 514034553
+          }
+        },
+        {
+          "date": "2026-09-18",
+          "plausible": {
+            "visitors": 65,
+            "visits": 69,
+            "pageviews": 85,
+            "paths": [
+              {
+                "visitors": 44,
+                "visits": 46,
+                "pageviews": 49,
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/"
+              },
+              {
+                "visitors": 7,
+                "visits": 7,
+                "pageviews": 7,
+                "path": "/posts/how-to-write/"
+              },
+              {
+                "visitors": 7,
+                "visits": 8,
+                "pageviews": 9,
+                "path": "/posts/software-agnostic-window-manager-setup/"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 8,
+                "path": "/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 3,
+                "path": "/posts/grief/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/childhood-stories/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/about/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/todo/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/re-on-eating-fruit-skins/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/solid-never-felt-solid/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/reading-is-the-closest-thing-we-have-to-telepathy/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 2,
+                "path": "/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/"
+              }
+            ],
+            "sources": [
+              {
+                "visitors": 26,
+                "visits": 28,
+                "pageviews": 32,
+                "source": "Direct / None"
+              },
+              {
+                "visitors": 21,
+                "visits": 21,
+                "pageviews": 21,
+                "source": "hackernewsletter"
+              },
+              {
+                "visitors": 10,
+                "visits": 11,
+                "pageviews": 22,
+                "source": "Hacker News"
+              },
+              {
+                "visitors": 5,
+                "visits": 5,
+                "pageviews": 6,
+                "source": "Kagi"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 3,
+                "source": "tldrnewsletter"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "acdw.net"
+              }
+            ]
+          },
+          "cloudflare_web": {
+            "pageviews": 170,
+            "visits": 160,
+            "sample_interval": 10,
+            "paths": [
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 60,
+                "visits": 60,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/software-agnostic-window-manager-setup/",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "path": "/",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/childhood-stories/",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/grief/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/solid-never-felt-solid/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/trying-out-the-glaze-app/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/who-am-i/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "",
+                "pageviews": 100,
+                "visits": 100,
+                "sample_interval": 10
+              },
+              {
+                "source": "kagi.com",
+                "pageviews": 50,
+                "visits": 50,
+                "sample_interval": 10
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 7894,
+            "cached_requests": 346,
+            "bandwidth_bytes": 337456617
+          }
+        },
+        {
+          "date": "2026-09-19",
+          "plausible": {
+            "visitors": 42,
+            "visits": 42,
+            "pageviews": 57,
+            "paths": [
+              {
+                "visitors": 33,
+                "visits": 33,
+                "pageviews": 35,
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/"
+              },
+              {
+                "visitors": 7,
+                "visits": 7,
+                "pageviews": 11,
+                "path": "/"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 4,
+                "path": "/posts/how-to-write/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/software-agnostic-window-manager-setup/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 3,
+                "path": "/posts/childhood-stories/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/about/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/english-or-spanish-both/"
+              }
+            ],
+            "sources": [
+              {
+                "visitors": 20,
+                "visits": 20,
+                "pageviews": 31,
+                "source": "Direct / None"
+              },
+              {
+                "visitors": 9,
+                "visits": 9,
+                "pageviews": 11,
+                "source": "hackernewsletter"
+              },
+              {
+                "visitors": 7,
+                "visits": 7,
+                "pageviews": 9,
+                "source": "Hacker News"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "Bluesky"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "Google"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "Kagi"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "tldrnewsletter"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "substack.com"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "registerspill.thorstenball.com"
+              }
+            ]
+          },
+          "cloudflare_web": {
+            "pageviews": 200,
+            "visits": 200,
+            "sample_interval": 10,
+            "paths": [
+              {
+                "path": "/posts/childhood-stories/",
+                "pageviews": 80,
+                "visits": 80,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 60,
+                "visits": 60,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/software-agnostic-window-manager-setup/",
+                "pageviews": 50,
+                "visits": 50,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "kagi.com",
+                "pageviews": 120,
+                "visits": 120,
+                "sample_interval": 10
+              },
+              {
+                "source": "",
+                "pageviews": 60,
+                "visits": 60,
+                "sample_interval": 10
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 7341,
+            "cached_requests": 253,
+            "bandwidth_bytes": 206930262
+          }
+        },
+        {
+          "date": "2026-09-20",
+          "plausible": {
+            "visitors": 60,
+            "visits": 62,
+            "pageviews": 110,
+            "paths": [
+              {
+                "visitors": 44,
+                "visits": 46,
+                "pageviews": 48,
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/"
+              },
+              {
+                "visitors": 8,
+                "visits": 8,
+                "pageviews": 20,
+                "path": "/"
+              },
+              {
+                "visitors": 6,
+                "visits": 6,
+                "pageviews": 8,
+                "path": "/posts/how-to-write/"
+              },
+              {
+                "visitors": 5,
+                "visits": 5,
+                "pageviews": 7,
+                "path": "/posts/do-babies-dream-of-electric-sheep/"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 5,
+                "path": "/about/"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 8,
+                "path": "/posts/"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 4,
+                "path": "/posts/software-agnostic-window-manager-setup/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/todo/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/re-on-eating-fruit-skins/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/i-m-tired/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/solid-never-felt-solid/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/i-started-using-pencil-and-paper/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 2,
+                "path": "/posts/all-my-post-ideas-for-august/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/english-or-spanish-both/"
+              }
+            ],
+            "sources": [
+              {
+                "visitors": 29,
+                "visits": 29,
+                "pageviews": 43,
+                "source": "Direct / None"
+              },
+              {
+                "visitors": 14,
+                "visits": 15,
+                "pageviews": 18,
+                "source": "hackernewsletter"
+              },
+              {
+                "visitors": 10,
+                "visits": 11,
+                "pageviews": 42,
+                "source": "Hacker News"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "source": "substack"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "source": "tldrnewsletter"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "Google"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "Kagi"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "registerspill.thorstenball.com"
+              }
+            ]
+          },
+          "cloudflare_web": {
+            "pageviews": 170,
+            "visits": 160,
+            "sample_interval": 10,
+            "paths": [
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 40,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/childhood-stories/",
+                "pageviews": 40,
+                "visits": 40,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 40,
+                "visits": 40,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/software-agnostic-window-manager-setup/",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/do-babies-dream-of-electric-sheep/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "",
+                "pageviews": 80,
+                "visits": 80,
+                "sample_interval": 10
+              },
+              {
+                "source": "kagi.com",
+                "pageviews": 70,
+                "visits": 70,
+                "sample_interval": 10
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 8365,
+            "cached_requests": 412,
+            "bandwidth_bytes": 206003367
+          }
+        },
+        {
+          "date": "2026-09-21",
+          "plausible": {
+            "visitors": 111,
+            "visits": 117,
+            "pageviews": 188,
+            "paths": [
+              {
+                "visitors": 95,
+                "visits": 100,
+                "pageviews": 114,
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/"
+              },
+              {
+                "visitors": 10,
+                "visits": 10,
+                "pageviews": 10,
+                "path": "/posts/how-to-write/"
+              },
+              {
+                "visitors": 9,
+                "visits": 9,
+                "pageviews": 21,
+                "path": "/"
+              },
+              {
+                "visitors": 5,
+                "visits": 5,
+                "pageviews": 8,
+                "path": "/posts/"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 6,
+                "path": "/posts/childhood-stories/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 3,
+                "path": "/about/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 3,
+                "path": "/posts/i-m-tired/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 3,
+                "path": "/posts/re-on-eating-fruit-skins/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/todo/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/grief/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 3,
+                "path": "/posts/acronym-fatigue-series-cap-acid-etl-elt/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/i-started-using-pencil-and-paper/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/english-or-spanish-both/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/who-am-i/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/what-if-mario-had-a-gun/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/do-babies-dream-of-electric-sheep/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 2,
+                "path": "/posts/software-agnostic-window-manager-setup/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/all-my-post-ideas-for-august/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/axiom-proper-project-tether/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/how-to-learn-to-code-in-the-age-of-ai/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/i-m-replacing-my-emdash-usage-with-commas/"
+              }
+            ],
+            "sources": [
+              {
+                "visitors": 38,
+                "visits": 41,
+                "pageviews": 84,
+                "source": "Direct / None"
+              },
+              {
+                "visitors": 37,
+                "visits": 37,
+                "pageviews": 54,
+                "source": "substack"
+              },
+              {
+                "visitors": 11,
+                "visits": 11,
+                "pageviews": 12,
+                "source": "hackernewsletter"
+              },
+              {
+                "visitors": 9,
+                "visits": 9,
+                "pageviews": 10,
+                "source": "Hacker News"
+              },
+              {
+                "visitors": 7,
+                "visits": 9,
+                "pageviews": 9,
+                "source": "tldrnewsletter"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 3,
+                "source": "substack.com"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "source": "hckrnews.com"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 10,
+                "source": "Reddit"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "Google"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "Kagi"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "refactoring.fm"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "instapaper.com"
+              }
+            ]
+          },
+          "cloudflare_web": {
+            "pageviews": 190,
+            "visits": 180,
+            "sample_interval": 10,
+            "paths": [
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 90,
+                "visits": 90,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/childhood-stories/",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/software-agnostic-window-manager-setup/",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "path": "/",
+                "pageviews": 20,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "kagi.com",
+                "pageviews": 60,
+                "visits": 60,
+                "sample_interval": 10
+              },
+              {
+                "source": "substack.com",
+                "pageviews": 40,
+                "visits": 40,
+                "sample_interval": 10
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 40,
+                "visits": 40,
+                "sample_interval": 10
+              },
+              {
+                "source": "",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "source": "www.instapaper.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 9215,
+            "cached_requests": 389,
+            "bandwidth_bytes": 291224059
+          }
+        },
+        {
+          "date": "2026-09-22",
+          "plausible": {
+            "visitors": 60,
+            "visits": 65,
+            "pageviews": 121,
+            "paths": [
+              {
+                "visitors": 44,
+                "visits": 49,
+                "pageviews": 54,
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/"
+              },
+              {
+                "visitors": 9,
+                "visits": 9,
+                "pageviews": 26,
+                "path": "/"
+              },
+              {
+                "visitors": 8,
+                "visits": 8,
+                "pageviews": 8,
+                "path": "/posts/how-to-write/"
+              },
+              {
+                "visitors": 5,
+                "visits": 5,
+                "pageviews": 6,
+                "path": "/about/"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 4,
+                "path": "/todo/"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 4,
+                "path": "/posts/software-agnostic-window-manager-setup/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 3,
+                "path": "/posts/grief/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 3,
+                "path": "/posts/re-on-eating-fruit-skins/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/do-babies-dream-of-electric-sheep/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 2,
+                "path": "/posts/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/hello-world/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/i-m-tired/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 2,
+                "path": "/posts/solid-never-felt-solid/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/reading-is-the-closest-thing-we-have-to-telepathy/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/all-my-post-ideas-for-august/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 2,
+                "path": "/posts/childhood-stories/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/i-m-replacing-my-emdash-usage-with-commas/"
+              }
+            ],
+            "sources": [
+              {
+                "visitors": 30,
+                "visits": 34,
+                "pageviews": 76,
+                "source": "Direct / None"
+              },
+              {
+                "visitors": 7,
+                "visits": 7,
+                "pageviews": 7,
+                "source": "hackernewsletter"
+              },
+              {
+                "visitors": 7,
+                "visits": 8,
+                "pageviews": 22,
+                "source": "tldrnewsletter"
+              },
+              {
+                "visitors": 7,
+                "visits": 7,
+                "pageviews": 7,
+                "source": "Hacker News"
+              },
+              {
+                "visitors": 6,
+                "visits": 6,
+                "pageviews": 6,
+                "source": "substack"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "Google"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "read.readwise.io"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "instapaper.com"
+              }
+            ]
+          },
+          "cloudflare_web": {
+            "pageviews": 120,
+            "visits": 110,
+            "sample_interval": 10,
+            "paths": [
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 50,
+                "visits": 50,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/software-agnostic-window-manager-setup/",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/hello-world/",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/childhood-stories/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "",
+                "pageviews": 70,
+                "visits": 70,
+                "sample_interval": 10
+              },
+              {
+                "source": "kagi.com",
+                "pageviews": 40,
+                "visits": 40,
+                "sample_interval": 10
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 10,
+                "visits": 0,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 7749,
+            "cached_requests": 240,
+            "bandwidth_bytes": 173424669
+          }
+        },
+        {
+          "date": "2026-09-23",
+          "plausible": {
+            "visitors": 61,
+            "visits": 68,
+            "pageviews": 84,
+            "paths": [
+              {
+                "visitors": 42,
+                "visits": 47,
+                "pageviews": 49,
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/"
+              },
+              {
+                "visitors": 13,
+                "visits": 13,
+                "pageviews": 14,
+                "path": "/posts/childhood-stories/"
+              },
+              {
+                "visitors": 5,
+                "visits": 6,
+                "pageviews": 9,
+                "path": "/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 3,
+                "path": "/posts/why-read/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 3,
+                "path": "/posts/software-agnostic-window-manager-setup/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/how-to-write/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/about/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/who-am-i/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/grownapp/marketing/"
+              }
+            ],
+            "sources": [
+              {
+                "visitors": 23,
+                "visits": 26,
+                "pageviews": 36,
+                "source": "Direct / None"
+              },
+              {
+                "visitors": 11,
+                "visits": 11,
+                "pageviews": 13,
+                "source": "Hacker News"
+              },
+              {
+                "visitors": 10,
+                "visits": 12,
+                "pageviews": 11,
+                "source": "hackernewsletter"
+              },
+              {
+                "visitors": 7,
+                "visits": 9,
+                "pageviews": 10,
+                "source": "substack"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 7,
+                "source": "tldrnewsletter"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "Google"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "Kagi"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "refactoring.fm"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "hckrnews.com"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "inoreader.com"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "hnblogs.substack.com"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "rememberthemilk.com"
+              }
+            ]
+          },
+          "cloudflare_web": {
+            "pageviews": 170,
+            "visits": 140,
+            "sample_interval": 10,
+            "paths": [
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 70,
+                "visits": 60,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/software-agnostic-window-manager-setup/",
+                "pageviews": 50,
+                "visits": 40,
+                "sample_interval": 10
+              },
+              {
+                "path": "/",
+                "pageviews": 20,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/childhood-stories/",
+                "pageviews": 20,
+                "visits": 20,
+                "sample_interval": 10
+              },
+              {
+                "path": "/posts/who-am-i/",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ],
+            "sources": [
+              {
+                "source": "",
+                "pageviews": 70,
+                "visits": 70,
+                "sample_interval": 10
+              },
+              {
+                "source": "kagi.com",
+                "pageviews": 40,
+                "visits": 40,
+                "sample_interval": 10
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 30,
+                "visits": 0,
+                "sample_interval": 10
+              },
+              {
+                "source": "com.google.android.gm",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              },
+              {
+                "source": "buttondown.com",
+                "pageviews": 10,
+                "visits": 10,
+                "sample_interval": 10
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 6893,
+            "cached_requests": 322,
+            "bandwidth_bytes": 215761560
+          }
+        },
+        {
+          "date": "2026-09-24",
+          "plausible": {
+            "visitors": 69,
+            "visits": 69,
+            "pageviews": 76,
+            "paths": [
+              {
+                "visitors": 34,
+                "visits": 34,
+                "pageviews": 35,
+                "path": "/posts/the-lost-tech-in-contemporary-clothing/"
+              },
+              {
+                "visitors": 26,
+                "visits": 26,
+                "pageviews": 30,
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 3,
+                "path": "/posts/why-read/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/solid-never-felt-solid/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/software-agnostic-window-manager-setup/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/childhood-stories/"
+              }
+            ],
+            "sources": [
+              {
+                "visitors": 25,
+                "visits": 25,
+                "pageviews": 26,
+                "source": "Hacker News"
+              },
+              {
+                "visitors": 22,
+                "visits": 22,
+                "pageviews": 27,
+                "source": "Direct / None"
+              },
+              {
+                "visitors": 6,
+                "visits": 6,
+                "pageviews": 7,
+                "source": "hackernewsletter"
+              },
+              {
+                "visitors": 5,
+                "visits": 5,
+                "pageviews": 5,
+                "source": "tldrnewsletter"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 4,
+                "source": "substack"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 4,
+                "source": "Kagi"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "hnblogs.substack.com"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "wallabag.galati.dev"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "geocitiestimes-h2daaffnehapbhav.eastus2-01.azurewebsites.net"
+              }
+            ]
+          },
+          "cloudflare_web": {
+            "pageviews": 189,
+            "visits": 169,
+            "sample_interval": 1.0327868852459017,
+            "paths": [
+              {
+                "path": "/posts/the-lost-tech-in-contemporary-clothing/",
+                "pageviews": 39,
+                "visits": 39,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/software-agnostic-window-manager-setup/",
+                "pageviews": 32,
+                "visits": 31,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 31,
+                "visits": 30,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/why-read/",
+                "pageviews": 26,
+                "visits": 25,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 7,
+                "visits": 6,
+                "sample_interval": 1
+              },
+              {
+                "path": "/",
+                "pageviews": 4,
+                "visits": 2,
+                "sample_interval": 1
+              },
+              {
+                "path": "/about/",
+                "pageviews": 4,
+                "visits": 3,
+                "sample_interval": 2
+              },
+              {
+                "path": "/posts/trying-out-the-glaze-app/",
+                "pageviews": 4,
+                "visits": 4,
+                "sample_interval": 2
+              },
+              {
+                "path": "/posts/solid-never-felt-solid/",
+                "pageviews": 3,
+                "visits": 3,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/",
+                "pageviews": 3,
+                "visits": 2,
+                "sample_interval": 1
+              },
+              {
+                "path": "/categories/notes/",
+                "pageviews": 3,
+                "visits": 3,
+                "sample_interval": 3
+              },
+              {
+                "path": "/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/",
+                "pageviews": 2,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/axiom-proper-project-tether/",
+                "pageviews": 2,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/childhood-stories/",
+                "pageviews": 2,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/how-to-learn-to-code-in-the-age-of-ai/",
+                "pageviews": 2,
+                "visits": 2,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/re-on-eating-fruit-skins/",
+                "pageviews": 2,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/i-m-replacing-my-emdash-usage-with-commas/",
+                "pageviews": 2,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/all-my-post-ideas-for-august/",
+                "pageviews": 2,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/i-started-using-pencil-and-paper/",
+                "pageviews": 2,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/english-or-spanish-both/",
+                "pageviews": 2,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/acronym-fatigue-series-cap-acid-etl-elt/",
+                "pageviews": 2,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/grief/",
+                "pageviews": 2,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/i-m-tired/",
+                "pageviews": 2,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/acronym-fatigue-series-dry-kiss-yagni/",
+                "pageviews": 2,
+                "visits": 2,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/hello-world/",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/spacesort-fastest-sorting-algorithm-rust/",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/todo/",
+                "pageviews": 1,
+                "visits": 0,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/reading-is-the-closest-thing-we-have-to-telepathy/",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/what-if-mario-had-a-gun/",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/who-am-i/",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/do-babies-dream-of-electric-sheep/",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              }
+            ],
+            "sources": [
+              {
+                "source": "",
+                "pageviews": 86,
+                "visits": 86,
+                "sample_interval": 1.075
+              },
+              {
+                "source": "kagi.com",
+                "pageviews": 58,
+                "visits": 58,
+                "sample_interval": 1
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 20,
+                "visits": 0,
+                "sample_interval": 1
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 19,
+                "visits": 19,
+                "sample_interval": 1
+              },
+              {
+                "source": "substack.com",
+                "pageviews": 3,
+                "visits": 3,
+                "sample_interval": 1
+              },
+              {
+                "source": "geocitiestimes-h2daaffnehapbhav.eastus2-01.azurewebsites.net",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "source": "mail.google.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "source": "hacker-news.firebaseio.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 6752,
+            "cached_requests": 580,
+            "bandwidth_bytes": 262868443
+          }
+        },
+        {
+          "date": "2026-09-25",
+          "plausible": {
+            "visitors": 35,
+            "visits": 36,
+            "pageviews": 42,
+            "paths": [
+              {
+                "visitors": 20,
+                "visits": 21,
+                "pageviews": 21,
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/"
+              },
+              {
+                "visitors": 6,
+                "visits": 6,
+                "pageviews": 6,
+                "path": "/posts/the-lost-tech-in-contemporary-clothing/"
+              },
+              {
+                "visitors": 5,
+                "visits": 5,
+                "pageviews": 5,
+                "path": "/posts/how-to-write/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 4,
+                "path": "/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/why-read/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 2,
+                "path": "/about/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/grief/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/childhood-stories/"
+              }
+            ],
+            "sources": [
+              {
+                "visitors": 14,
+                "visits": 14,
+                "pageviews": 16,
+                "source": "Direct / None"
+              },
+              {
+                "visitors": 12,
+                "visits": 13,
+                "pageviews": 17,
+                "source": "Hacker News"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "source": "substack"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "source": "Kagi"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "source": "tldrnewsletter"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "refactoring.fm"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "hackernewsletter"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "substack.com"
+              }
+            ]
+          },
+          "cloudflare_web": {
+            "pageviews": 99,
+            "visits": 95,
+            "sample_interval": 1,
+            "paths": [
+              {
+                "path": "/posts/why-read/",
+                "pageviews": 32,
+                "visits": 32,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/the-lost-tech-in-contemporary-clothing/",
+                "pageviews": 27,
+                "visits": 27,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 23,
+                "visits": 23,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 9,
+                "visits": 9,
+                "sample_interval": 1
+              },
+              {
+                "path": "/",
+                "pageviews": 4,
+                "visits": 2,
+                "sample_interval": 1
+              },
+              {
+                "path": "/about/",
+                "pageviews": 2,
+                "visits": 0,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/grief/",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              }
+            ],
+            "sources": [
+              {
+                "source": "kagi.com",
+                "pageviews": 56,
+                "visits": 56,
+                "sample_interval": 1
+              },
+              {
+                "source": "",
+                "pageviews": 28,
+                "visits": 28,
+                "sample_interval": 1
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 9,
+                "visits": 9,
+                "sample_interval": 1
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 4,
+                "visits": 0,
+                "sample_interval": 1
+              },
+              {
+                "source": "substack.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "source": "mail.google.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 7003,
+            "cached_requests": 191,
+            "bandwidth_bytes": 146645396
+          }
+        },
+        {
+          "date": "2026-09-26",
+          "plausible": {
+            "visitors": 31,
+            "visits": 32,
+            "pageviews": 42,
+            "paths": [
+              {
+                "visitors": 26,
+                "visits": 27,
+                "pageviews": 30,
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 3,
+                "path": "/about/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 5,
+                "path": "/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/the-lost-tech-in-contemporary-clothing/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/solid-never-felt-solid/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/i-started-using-pencil-and-paper/"
+              }
+            ],
+            "sources": [
+              {
+                "visitors": 11,
+                "visits": 11,
+                "pageviews": 12,
+                "source": "Direct / None"
+              },
+              {
+                "visitors": 6,
+                "visits": 6,
+                "pageviews": 7,
+                "source": "hackernewsletter"
+              },
+              {
+                "visitors": 5,
+                "visits": 5,
+                "pageviews": 11,
+                "source": "substack"
+              },
+              {
+                "visitors": 5,
+                "visits": 5,
+                "pageviews": 6,
+                "source": "Hacker News"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "Kagi"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 2,
+                "source": "indieweb.org"
+              },
+              {
+                "visitors": 1,
+                "visits": 2,
+                "pageviews": 2,
+                "source": "tldrnewsletter"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "registerspill.thorstenball.com"
+              }
+            ]
+          },
+          "cloudflare_web": {
+            "pageviews": 115,
+            "visits": 110,
+            "sample_interval": 1,
+            "paths": [
+              {
+                "path": "/posts/why-read/",
+                "pageviews": 43,
+                "visits": 43,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 38,
+                "visits": 38,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/the-lost-tech-in-contemporary-clothing/",
+                "pageviews": 16,
+                "visits": 16,
+                "sample_interval": 1
+              },
+              {
+                "path": "/",
+                "pageviews": 5,
+                "visits": 2,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 5,
+                "visits": 5,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/solid-never-felt-solid/",
+                "pageviews": 3,
+                "visits": 3,
+                "sample_interval": 1
+              },
+              {
+                "path": "/about/",
+                "pageviews": 2,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/i-started-using-pencil-and-paper/",
+                "pageviews": 1,
+                "visits": 0,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              }
+            ],
+            "sources": [
+              {
+                "source": "kagi.com",
+                "pageviews": 59,
+                "visits": 59,
+                "sample_interval": 1
+              },
+              {
+                "source": "",
+                "pageviews": 34,
+                "visits": 34,
+                "sample_interval": 1
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 11,
+                "visits": 11,
+                "sample_interval": 1
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 5,
+                "visits": 0,
+                "sample_interval": 1
+              },
+              {
+                "source": "substack.com",
+                "pageviews": 2,
+                "visits": 2,
+                "sample_interval": 1
+              },
+              {
+                "source": "registerspill.thorstenball.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "source": "mail.google.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "source": "home.mywebsearch.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "source": "www.manyget.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 5463,
+            "cached_requests": 220,
+            "bandwidth_bytes": 103568850
+          }
+        },
+        {
+          "date": "2026-09-27",
+          "plausible": {
+            "visitors": 28,
+            "visits": 29,
+            "pageviews": 47,
+            "paths": [
+              {
+                "visitors": 18,
+                "visits": 19,
+                "pageviews": 19,
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/"
+              },
+              {
+                "visitors": 6,
+                "visits": 6,
+                "pageviews": 12,
+                "path": "/"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 4,
+                "path": "/posts/how-to-write/"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 5,
+                "path": "/posts/the-lost-tech-in-contemporary-clothing/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/why-read/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/who-am-i/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/do-babies-dream-of-electric-sheep/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/software-agnostic-window-manager-setup/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 2,
+                "path": "/posts/childhood-stories/"
+              }
+            ],
+            "sources": [
+              {
+                "visitors": 12,
+                "visits": 12,
+                "pageviews": 29,
+                "source": "Direct / None"
+              },
+              {
+                "visitors": 6,
+                "visits": 6,
+                "pageviews": 6,
+                "source": "Hacker News"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 4,
+                "source": "tldrnewsletter"
+              },
+              {
+                "visitors": 2,
+                "visits": 3,
+                "pageviews": 3,
+                "source": "substack"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 3,
+                "source": "hackernewsletter"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "Kagi"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "registerspill.thorstenball.com"
+              }
+            ]
+          },
+          "cloudflare_web": {
+            "pageviews": 77,
+            "visits": 64,
+            "sample_interval": 1,
+            "paths": [
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 22,
+                "visits": 22,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/the-lost-tech-in-contemporary-clothing/",
+                "pageviews": 19,
+                "visits": 16,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/why-read/",
+                "pageviews": 16,
+                "visits": 15,
+                "sample_interval": 1
+              },
+              {
+                "path": "/",
+                "pageviews": 7,
+                "visits": 4,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/do-babies-dream-of-electric-sheep/",
+                "pageviews": 3,
+                "visits": 2,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 2,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/",
+                "pageviews": 2,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/software-agnostic-window-manager-setup/",
+                "pageviews": 2,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/solid-never-felt-solid/",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/childhood-stories/",
+                "pageviews": 1,
+                "visits": 0,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/who-am-i/",
+                "pageviews": 1,
+                "visits": 0,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/acronym-fatigue-series-dry-kiss-yagni/",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              }
+            ],
+            "sources": [
+              {
+                "source": "kagi.com",
+                "pageviews": 30,
+                "visits": 30,
+                "sample_interval": 1
+              },
+              {
+                "source": "",
+                "pageviews": 28,
+                "visits": 28,
+                "sample_interval": 1
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 13,
+                "visits": 0,
+                "sample_interval": 1
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 5,
+                "visits": 5,
+                "sample_interval": 1
+              },
+              {
+                "source": "registerspill.thorstenball.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 9797,
+            "cached_requests": 156,
+            "bandwidth_bytes": 154521302
+          }
+        },
+        {
+          "date": "2026-09-28",
+          "plausible": {
+            "visitors": 34,
+            "visits": 40,
+            "pageviews": 56,
+            "paths": [
+              {
+                "visitors": 23,
+                "visits": 29,
+                "pageviews": 30,
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 4,
+                "path": "/posts/the-lost-tech-in-contemporary-clothing/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 9,
+                "path": "/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 3,
+                "path": "/posts/how-to-write/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/why-read/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/i-m-tired/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/solid-never-felt-solid/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/software-agnostic-window-manager-setup/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 2,
+                "path": "/posts/acryonym-fatigue-series-why-i-m-wary-of-engineering-acronyms/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/posts/english-or-spanish-both/"
+              }
+            ],
+            "sources": [
+              {
+                "visitors": 15,
+                "visits": 16,
+                "pageviews": 26,
+                "source": "Direct / None"
+              },
+              {
+                "visitors": 5,
+                "visits": 10,
+                "pageviews": 11,
+                "source": "tldrnewsletter"
+              },
+              {
+                "visitors": 5,
+                "visits": 5,
+                "pageviews": 5,
+                "source": "Hacker News"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 3,
+                "source": "substack"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "source": "Kagi"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "source": "hackernewsletter"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 6,
+                "source": "Google"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "registerspill.thorstenball.com"
+              }
+            ]
+          },
+          "cloudflare_web": {
+            "pageviews": 57,
+            "visits": 53,
+            "sample_interval": 1,
+            "paths": [
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 19,
+                "visits": 19,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/why-read/",
+                "pageviews": 15,
+                "visits": 15,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/the-lost-tech-in-contemporary-clothing/",
+                "pageviews": 12,
+                "visits": 11,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 5,
+                "visits": 5,
+                "sample_interval": 1
+              },
+              {
+                "path": "/",
+                "pageviews": 3,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/",
+                "pageviews": 2,
+                "visits": 2,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/software-agnostic-window-manager-setup/",
+                "pageviews": 1,
+                "visits": 0,
+                "sample_interval": 1
+              }
+            ],
+            "sources": [
+              {
+                "source": "kagi.com",
+                "pageviews": 26,
+                "visits": 26,
+                "sample_interval": 1
+              },
+              {
+                "source": "",
+                "pageviews": 18,
+                "visits": 18,
+                "sample_interval": 1
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 7,
+                "visits": 7,
+                "sample_interval": 1
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 4,
+                "visits": 0,
+                "sample_interval": 1
+              },
+              {
+                "source": "registerspill.thorstenball.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "source": "cas5-0-urlprotect.trendmicro.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 5282,
+            "cached_requests": 199,
+            "bandwidth_bytes": 166528360
+          }
+        },
+        {
+          "date": "2026-09-29",
+          "plausible": {
+            "visitors": 27,
+            "visits": 30,
+            "pageviews": 35,
+            "paths": [
+              {
+                "visitors": 20,
+                "visits": 22,
+                "pageviews": 24,
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 4,
+                "path": "/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 3,
+                "path": "/posts/the-lost-tech-in-contemporary-clothing/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/why-read/"
+              },
+              {
+                "visitors": 1,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/how-to-write/"
+              }
+            ],
+            "sources": [
+              {
+                "visitors": 8,
+                "visits": 9,
+                "pageviews": 13,
+                "source": "Direct / None"
+              },
+              {
+                "visitors": 7,
+                "visits": 9,
+                "pageviews": 10,
+                "source": "tldrnewsletter"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 4,
+                "source": "hackernewsletter"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 4,
+                "source": "Hacker News"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 3,
+                "source": "Kagi"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "substack"
+              }
+            ]
+          },
+          "cloudflare_web": {
+            "pageviews": 102,
+            "visits": 93,
+            "sample_interval": 1.0303030303030303,
+            "paths": [
+              {
+                "path": "/posts/the-lost-tech-in-contemporary-clothing/",
+                "pageviews": 32,
+                "visits": 31,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/why-read/",
+                "pageviews": 28,
+                "visits": 27,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 22,
+                "visits": 22,
+                "sample_interval": 1
+              },
+              {
+                "path": "/",
+                "pageviews": 7,
+                "visits": 6,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/",
+                "pageviews": 4,
+                "visits": 0,
+                "sample_interval": 2
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 3,
+                "visits": 3,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/i-m-tired/",
+                "pageviews": 2,
+                "visits": 0,
+                "sample_interval": 2
+              },
+              {
+                "path": "/todo/",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/what-if-mario-had-a-gun/",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/software-agnostic-window-manager-setup/",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/acronym-fatigue-series-dry-kiss-yagni/",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              }
+            ],
+            "sources": [
+              {
+                "source": "kagi.com",
+                "pageviews": 55,
+                "visits": 55,
+                "sample_interval": 1
+              },
+              {
+                "source": "",
+                "pageviews": 28,
+                "visits": 28,
+                "sample_interval": 1
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 9,
+                "visits": 0,
+                "sample_interval": 1.5
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 5,
+                "visits": 5,
+                "sample_interval": 1
+              },
+              {
+                "source": "mail.google.com",
+                "pageviews": 2,
+                "visits": 2,
+                "sample_interval": 1
+              },
+              {
+                "source": "www.google.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "source": "link.edgepilot.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "source": "buttondown.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 6750,
+            "cached_requests": 177,
+            "bandwidth_bytes": 127906454
+          }
+        },
+        {
+          "date": "2026-09-30",
+          "plausible": {
+            "visitors": 57,
+            "visits": 60,
+            "pageviews": 83,
+            "paths": [
+              {
+                "visitors": 28,
+                "visits": 30,
+                "pageviews": 33,
+                "path": "/posts/my-hyper-productivity-routine/"
+              },
+              {
+                "visitors": 22,
+                "visits": 22,
+                "pageviews": 22,
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/"
+              },
+              {
+                "visitors": 9,
+                "visits": 10,
+                "pageviews": 14,
+                "path": "/"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 4,
+                "path": "/posts/the-lost-tech-in-contemporary-clothing/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 3,
+                "path": "/posts/"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 4,
+                "path": "/posts/how-to-write/"
+              },
+              {
+                "visitors": 2,
+                "visits": 2,
+                "pageviews": 2,
+                "path": "/posts/why-read/"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "path": "/about/"
+              }
+            ],
+            "sources": [
+              {
+                "visitors": 25,
+                "visits": 28,
+                "pageviews": 39,
+                "source": "Direct / None"
+              },
+              {
+                "visitors": 16,
+                "visits": 16,
+                "pageviews": 25,
+                "source": "Hacker News"
+              },
+              {
+                "visitors": 6,
+                "visits": 6,
+                "pageviews": 6,
+                "source": "tldrnewsletter"
+              },
+              {
+                "visitors": 4,
+                "visits": 4,
+                "pageviews": 4,
+                "source": "Kagi"
+              },
+              {
+                "visitors": 3,
+                "visits": 3,
+                "pageviews": 3,
+                "source": "hackernewsletter"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "substack"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 1,
+                "source": "indieweb.org"
+              },
+              {
+                "visitors": 1,
+                "visits": 1,
+                "pageviews": 4,
+                "source": "zona-m.net"
+              }
+            ]
+          },
+          "cloudflare_web": {
+            "pageviews": 137,
+            "visits": 114,
+            "sample_interval": 1,
+            "paths": [
+              {
+                "path": "/posts/the-lost-tech-in-contemporary-clothing/",
+                "pageviews": 37,
+                "visits": 37,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/my-hyper-productivity-routine/",
+                "pageviews": 30,
+                "visits": 22,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/why-read/",
+                "pageviews": 27,
+                "visits": 27,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/i-spent-my-vacations-de-brainrotting/",
+                "pageviews": 15,
+                "visits": 13,
+                "sample_interval": 1
+              },
+              {
+                "path": "/",
+                "pageviews": 14,
+                "visits": 5,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/how-to-write/",
+                "pageviews": 6,
+                "visits": 6,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/",
+                "pageviews": 4,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/about/",
+                "pageviews": 2,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/posts/how-to-learn-to-code-in-the-age-of-ai/",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "path": "/=",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              }
+            ],
+            "sources": [
+              {
+                "source": "kagi.com",
+                "pageviews": 63,
+                "visits": 63,
+                "sample_interval": 1
+              },
+              {
+                "source": "",
+                "pageviews": 34,
+                "visits": 34,
+                "sample_interval": 1
+              },
+              {
+                "source": "devz.cl",
+                "pageviews": 23,
+                "visits": 0,
+                "sample_interval": 1
+              },
+              {
+                "source": "news.ycombinator.com",
+                "pageviews": 13,
+                "visits": 13,
+                "sample_interval": 1
+              },
+              {
+                "source": "a.tldrnewsletter.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "source": "substack.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "source": "hacker-news.firebaseio.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              },
+              {
+                "source": "vuink.com",
+                "pageviews": 1,
+                "visits": 1,
+                "sample_interval": 1
+              }
+            ]
+          },
+          "cloudflare": {
+            "requests": 8511,
+            "cached_requests": 176,
+            "bandwidth_bytes": 197521792
+          }
+        }
+      ]
+    }
+  ]
+}

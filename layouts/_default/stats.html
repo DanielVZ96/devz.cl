@@ -1,0 +1,71 @@
+{{ define "main" }}
+{{ partial "back_link.html" . }}
+<article class="stats-page">
+  {{ $stats := transform.Unmarshal (readFile "static/data/stats.json") }}
+  <header class="stats-heading">
+    <h1>{{ .Title }}</h1>
+    {{ with $stats }}
+      {{ with .updated_at }}<p>Updated <time datetime="{{ . }}">{{ time.Format "2 Jan 2006" . }}</time></p>{{ end }}
+    {{ end }}
+  </header>
+  {{ .Content }}
+  {{ if $stats.months }}
+    {{ range sort $stats.months "month" "desc" }}
+      <section aria-labelledby="month-{{ .month }}">
+        <h2 id="month-{{ .month }}"><time datetime="{{ .month }}">{{ time.Format "January 2006" (printf "%s-01" .month) }}</time></h2>
+        <div class="stats-month-summary">
+          {{ range slice (dict "name" "Plausible" "data" .plausible "metrics" (slice (dict "key" "visitors" "label" "visitors") (dict "key" "visits" "label" "visits") (dict "key" "pageviews" "label" "pageviews"))) (dict "name" "Cloudflare edge" "data" .cloudflare "metrics" (slice (dict "key" "requests" "label" "requests") (dict "key" "cached_requests" "label" "cached") (dict "key" "bandwidth_bytes" "label" "bytes"))) (dict "name" "Cloudflare Web Analytics" "data" .cloudflare_web "metrics" (slice (dict "key" "visits" "label" "visits") (dict "key" "pageviews" "label" "pageviews"))) }}
+            {{ $data := .data }}
+            {{ if $data }}
+              <div class="stats-total-row"><span class="stats-provider">{{ .name }}</span><span class="stats-total-values">{{ range $i, $metric := .metrics }}{{ $value := index $data .key }}<span>{{ if ne $value nil }}{{ if eq .key "bandwidth_bytes" }}{{ lang.FormatNumber 1 (div (float $value) 1073741824) }} GiB{{ else }}{{ lang.FormatNumber 0 $value }} {{ .label }}{{ end }}{{ else }}— {{ .label }}{{ end }}</span>{{ end }}</span></div>
+            {{ end }}
+          {{ end }}
+        </div>
+        {{ with .days }}
+          <div class="stats-charts">
+          <p class="stats-scale-controls"><button type="button" class="stats-scale-toggle" aria-pressed="false" hidden>Logarithmic scale: off</button></p>
+          {{ partial "stats_chart.html" (dict "days" . "source" "plausible" "metric" "pageviews" "label" "Plausible pageviews") }}
+          {{ if (index . 0).cloudflare_web }}
+            {{ partial "stats_chart.html" (dict "days" . "source" "cloudflare_web" "metric" "visits" "label" "Cloudflare Web Analytics visits") }}
+          {{ end }}
+          {{ partial "stats_chart.html" (dict "days" . "source" "cloudflare" "metric" "requests" "label" "Cloudflare edge requests") }}
+          </div>
+        {{ end }}
+        {{ partial "stats_breakdowns.html" . }}
+        {{ with .days }}
+          <details class="stats-daily">
+            <summary>Daily data (UTC)</summary>
+            <div class="stats-table-scroll" tabindex="0" role="region" aria-label="Daily traffic data">
+              <table>
+                <caption>Daily Plausible and Cloudflare metrics; bandwidth in bytes.</caption>
+                <thead><tr><th scope="col">Date</th><th scope="col">Visitors</th><th scope="col">Visits</th><th scope="col">Pageviews</th><th scope="col">Requests</th><th scope="col">Cached requests</th><th scope="col">Bandwidth</th><th scope="col">CF Web visits</th><th scope="col">CF Web pageviews</th></tr></thead>
+                <tbody>
+                  {{ range sort . "date" }}
+                    <tr><th scope="row">{{ .date }}</th>
+                    {{ range slice .plausible.visitors .plausible.visits .plausible.pageviews .cloudflare.requests .cloudflare.cached_requests .cloudflare.bandwidth_bytes }}
+                      <td>{{ lang.FormatNumber 0 . }}</td>
+                    {{ end }}{{ with .cloudflare_web }}<td>{{ lang.FormatNumber 0 .visits }}</td><td>{{ lang.FormatNumber 0 .pageviews }}</td>{{ else }}<td>—</td><td>—</td>{{ end }}</tr>
+                  {{ end }}
+                </tbody>
+              </table>
+            </div>
+          </details>
+          <details class="stats-daily">
+            <summary>Daily paths and traffic sources</summary>
+            {{ range sort . "date" }}
+              <details><summary>{{ .date }}</summary>{{ partial "stats_breakdowns.html" . }}</details>
+            {{ end }}
+          </details>
+        {{ end }}
+      </section>
+    {{ end }}
+  {{ else }}
+    <p>No monthly stats published yet. The first report will appear here once it is ready.</p>
+  {{ end }}
+  <p class="stats-footer"><a href="https://plausible.io/devz.cl">View on Plausible</a></p>
+  {{ partial "share.html" . }}
+  {{ partial "follow_elsewhere.html" . }}
+</article>
+{{ $script := resources.Get "js/stats.js" | resources.Minify | resources.Fingerprint }}
+<script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}" defer></script>
+{{ end }}
