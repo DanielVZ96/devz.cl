@@ -13,7 +13,7 @@
               <thead><tr><th scope="col">{{ if eq $key "paths" }}Path{{ else }}Source{{ end }}</th>{{ if eq $name "Plausible" }}<th scope="col">Visitors</th>{{ end }}<th scope="col">Visits</th><th scope="col">Views</th></tr></thead>
               <tbody>
                 {{ range sort (index . $key) "pageviews" "desc" }}
-                  <tr><th scope="row">{{ $value := index . $dimension }}{{ if $value }}{{ $value }}{{ else }}Direct / unknown{{ end }}</th>
+                  <tr><th scope="row">{{ $value := index . $dimension }}{{ if $value }}{{ if and (eq $key "paths") (strings.HasPrefix $value "/") }}<a href="{{ printf "https://devz.cl%s" $value }}">{{ $value }}</a>{{ else }}{{ $value }}{{ end }}{{ else }}Direct / unknown{{ end }}</th>
                     {{ if eq $name "Plausible" }}<td>{{ lang.FormatNumber 0 .visitors }}</td>{{ end }}
                     <td>{{ lang.FormatNumber 0 .visits }}</td><td>{{ lang.FormatNumber 0 .pageviews }}</td>
                   </tr>

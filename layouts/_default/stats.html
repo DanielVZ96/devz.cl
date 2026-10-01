@@ -14,7 +14,7 @@
       <section aria-labelledby="month-{{ .month }}">
         <h2 id="month-{{ .month }}"><time datetime="{{ .month }}">{{ time.Format "January 2006" (printf "%s-01" .month) }}</time></h2>
         <div class="stats-month-summary">
-          {{ range slice (dict "name" "Plausible" "data" .plausible "metrics" (slice (dict "key" "visitors" "label" "visitors") (dict "key" "visits" "label" "visits") (dict "key" "pageviews" "label" "pageviews"))) (dict "name" "Cloudflare edge" "data" .cloudflare "metrics" (slice (dict "key" "requests" "label" "requests") (dict "key" "cached_requests" "label" "cached") (dict "key" "bandwidth_bytes" "label" "bytes"))) (dict "name" "Cloudflare Web Analytics" "data" .cloudflare_web "metrics" (slice (dict "key" "visits" "label" "visits") (dict "key" "pageviews" "label" "pageviews"))) }}
+          {{ range slice (dict "name" "Plausible" "data" .plausible "metrics" (slice (dict "key" "visitors" "label" "visitors") (dict "key" "visits" "label" "visits") (dict "key" "pageviews" "label" "pageviews"))) (dict "name" "Cloudflare requests" "data" .cloudflare "metrics" (slice (dict "key" "requests" "label" "requests") (dict "key" "cached_requests" "label" "cached") (dict "key" "bandwidth_bytes" "label" "bytes"))) (dict "name" "Cloudflare Web Analytics" "data" .cloudflare_web "metrics" (slice (dict "key" "visits" "label" "visits") (dict "key" "pageviews" "label" "pageviews"))) }}
             {{ $data := .data }}
             {{ if $data }}
               <div class="stats-total-row"><span class="stats-provider">{{ .name }}</span><span class="stats-total-values">{{ range $i, $metric := .metrics }}{{ $value := index $data .key }}<span>{{ if ne $value nil }}{{ if eq .key "bandwidth_bytes" }}{{ lang.FormatNumber 1 (div (float $value) 1073741824) }} GiB{{ else }}{{ lang.FormatNumber 0 $value }} {{ .label }}{{ end }}{{ else }}— {{ .label }}{{ end }}</span>{{ end }}</span></div>
@@ -28,7 +28,7 @@
           {{ if (index . 0).cloudflare_web }}
             {{ partial "stats_chart.html" (dict "days" . "source" "cloudflare_web" "metric" "visits" "label" "Cloudflare Web Analytics visits") }}
           {{ end }}
-          {{ partial "stats_chart.html" (dict "days" . "source" "cloudflare" "metric" "requests" "label" "Cloudflare edge requests") }}
+          {{ partial "stats_chart.html" (dict "days" . "source" "cloudflare" "metric" "requests" "label" "Cloudflare requests") }}
           </div>
         {{ end }}
         {{ partial "stats_breakdowns.html" . }}
