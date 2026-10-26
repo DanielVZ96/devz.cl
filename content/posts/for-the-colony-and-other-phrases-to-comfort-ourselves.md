@@ -2,7 +2,7 @@
 draft: false
 tags:
   - notes
-title: '"For The Colony!” and Other Phrases to Comfort Ourselves In the Absuridity of Modern Life'
+title: '"For The Colony!” and Other Phrases to Comfort Ourselves In Modern Life'
 categories:
   - notes
 description: ''
