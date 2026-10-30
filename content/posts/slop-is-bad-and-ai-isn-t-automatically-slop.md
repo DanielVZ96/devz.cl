@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 tags:
   - Notes
 title: Lets Stop Harassing People Online for Using AI
@@ -8,6 +8,9 @@ categories:
 description: ''
 date: 2026-10-30T10:35:46Z
 ---
+![IMG_2423.jpeg](/images/IMG_2423.jpeg)
+-- My bro and I in matching outfits stoked for christmas.
+
 About a month ago my brother created a website with the help of AI. His main goal was promoting his upcoming solo-made comic (not AI-generated btw), but it has also been a huge creative outlet for him. He's been a prolific blogger, writes deeply thought out articles, cares for his site as his personal garden on the internet, has cool art, promotes local techno-adjacent artists, he has been active in several indie web communities, making art for other indie websites (not AI-generated btw), and the list goes on. In summary he has been pouring his heart out into his website and the indie web community. Here's the website if you are curious about it: https://mvndy.cl/
 
 He's never hidden the fact that he "vibecoded" his website, and because of this, some people thought that unfounded accusations were due. I don't know what his actual reaction was, but judging from the messages he sent me, he was deeply worried. People were accusing him of faking his art with AI, that anything he made could not be trusted and thus they'd stop engaging with any of his content. I don't know what these people thought they were doing but to me they were just bullying an artist trying to make something cool. 
