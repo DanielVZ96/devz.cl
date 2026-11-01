@@ -1810,5 +1810,11 @@ body .stats-page {
     gap: 0.35rem;
     margin: 2rem 0;
 
-    img { display: block; width: 88px; height: 31px; }
+    img {
+        display: block;
+        box-sizing: content-box;
+        width: 88px;
+        height: 31px;
+        border: 2px outset #c0c0c0;
+    }
 }
