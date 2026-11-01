@@ -1,0 +1,5 @@
+# Add more 88x31 buttons with an image, descriptive alt text, and optional url.
+[[buttons]]
+image = 'https://camo.githubusercontent.com/440fbee9a36502a0bd8ceaaf967bca8f7bfbaaad066e5c06aac269ee5ea89579/68747470733a2f2f6b616769666565646261636b2e6f72672f6173736574732f66696c65732f323032352d31312d32372f313736343235313032372d3335323531312d38387833312d342e676966'
+alt = 'Kagi Small Web'
+url = 'https://kagi.com/smallweb'

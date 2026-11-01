@@ -1803,3 +1803,12 @@ body .stats-page {
         .stats-breakdown-table th:first-child { width: 44%; }
     }
 }
+
+.indie-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.35rem;
+    margin: 2rem 0;
+
+    img { display: block; width: 88px; height: 31px; }
+}

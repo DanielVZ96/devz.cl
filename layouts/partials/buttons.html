@@ -1,0 +1,9 @@
+{{ with hugo.Data.buttons.buttons }}
+<section class="indie-buttons" aria-label="Indie web buttons">
+    {{ range . }}
+        {{ if .url }}<a href="{{ .url }}">{{ end -}}
+        <img src="{{ .image | relURL }}" alt="{{ .alt }}" width="88" height="31" loading="lazy">
+        {{- if .url }}</a>{{ end }}
+    {{ end }}
+</section>
+{{ end }}
