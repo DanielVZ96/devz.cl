@@ -4,7 +4,16 @@ A tiny static website built with [Hugo](https://gohugo.io/) and the `nostyleplea
 
 ## Development
 
-Install the extended Hugo binary, then run:
+Install Hugo and the standalone Dart Sass compiler (`sass` must be on your
+`PATH`). CI uses Hugo 0.170.0 and Dart Sass 1.108.2. Hugo 0.170.0 removed the
+bundled LibSass compiler, so the extended binary alone is no longer sufficient.
+On macOS with Homebrew:
+
+```sh
+brew install hugo sass/sass/sass
+```
+
+Then run:
 
 ```sh
 hugo server --buildDrafts
